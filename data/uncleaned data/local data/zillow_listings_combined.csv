@@ -1,0 +1,527 @@
+city,state,zip,address,type,year built,heat type,cooling type,garage type,HOA cost,sqft,price per sqft,buyers fee,listing price
+Portland,OR,97233,17035-SE-Salmon-St,"Residential, single family residence",Built in 1983,"Forced air, fireplace(s)",Central air,2 Attached garage spaces,0,"7,840 sqft",$340 price/sqft,2.5% buyers agency fee,402500
+Portland,OR,97225,735-SW-Viewmont-Dr,"Residential, single family residence",Built in 1964,"Forced air, fireplace(s)",Central air,2 Attached garage spaces,0,0.39 Acres,$312 price/sqft,2.5% buyers agency fee,695000
+Portland,OR,97215,2209-SE-47th-Ave,"Residential, single family residence",Built in 1913,"Forced air, fireplace(s)",Window unit(s),1 Garage space,0,"3,920 sqft",$358 price/sqft,2.5% buyers agency fee,575000
+Portland,OR,97229,455-NW-97th-Ave,"Residential, single family residence",Built in 1957,"Forced air, fireplace(s)",Central air,2 Garage spaces,0,1 Acres,$312 price/sqft,2.5% buyers agency fee,1000000
+Portland,OR,97218,4139-NE-62nd-Ave,"Residential, single family residence",Built in 1928,Mini split,Heat pump,Open parking,0,"4,791 sqft",$280 price/sqft,2.5% buyers agency fee,295000
+Portland,OR,97219,6309-SW-Luradel-St,"Residential, single family residence",Built in 1957,Forced air,Central air,2 Attached garage spaces,0,"8,712 sqft",$405 price/sqft,2.5% buyers agency fee,699000
+Portland,OR,97215,357-SE-47th-Ave,"Residential, single family residence",Built in 1927,"Forced air, fireplace(s)",No data,1 Attached garage space,0,0.25 Acres,$337 price/sqft,2.25% buyers agency fee,750000
+Portland,OR,97212,2105-NE-Klickitat-St,"Residential, single family residence",Built in 1939,"Forced air 90, fireplace(s)",Central air,2 Garage spaces,0,"5,227 sqft",$315 price/sqft,2.5% buyers agency fee,950000
+Portland,OR,97203,8073-N-Ivanhoe-St,"Residential, single family residence",Built in 1906,"Forced air, forced air 95 plus",No data,Open parking,0,"5,227 sqft",$255 price/sqft,2% buyers agency fee,599900
+Portland,OR,97211,9437-NE-Blue-Heron-Ct,"Residential, single family residence",Built in 2000,"Forced air, fireplace(s)",Central air,2 Attached garage spaces,0,"8,276 sqft",$287 price/sqft,2.5% buyers agency fee,450000
+Portland,OR,97229,1240-NW-93rd-Ave,"Residential, single family residence",Built in 1969,"Forced air 90, fireplace(s)",Central air,2 Attached garage spaces,0,0.35 Acres,$381 price/sqft,2.5% buyers agency fee,800000
+Portland,OR,97202,6124-SE-17th-Ave,"Residential, single family residence",Built in 1920,"Forced air, fireplace(s)",None,Open parking,0,"5,227 sqft",$271 price/sqft,2.5% buyers agency fee,700000
+Portland,OR,97202,612-SE-Manchester-Pl,"Residential, single family residence",Built in 1955,"Forced air, fireplace(s)",Central air,2 Attached garage spaces,0,0.37 Acres,$504 price/sqft,2.5% buyers agency fee,1295000
+Portland,OR,97229,16890-NW-Waterford-Way,"Residential, single family residence",Built in 1994,"Forced air, fireplace(s)",Central air,2 Attached garage spaces,0,"7,405 sqft",$324 price/sqft,2.5% buyers agency fee,700000
+Portland,OR,97213,3304-NE-58th-Ave,"Residential, single family residence",Built in 1920,"Forced air 95 plus, fireplace(s)",No data,1 Garage space,0,"5,227 sqft",$342 price/sqft,2.5% buyers agency fee,625000
+Portland,OR,97217,2630-N-Hayden-Island-Dr,Residential,Built in 2002,"Other, zoned, fireplace(s)",No data,2 Garage spaces,$440 monthly HOA fee,No data,$335 price/sqft,2.5% buyers agency fee,365000
+Portland,OR,97229,1843-NW-Rosefinch-Ln,"Residential, single family residence",Built in 1998,"Forced air, fireplace(s)",Central air,3 Attached garage spaces,$372 semi-annually HOA fee,"10,454 sqft",$311 price/sqft,2.5% buyers agency fee,1050000
+Portland,OR,97219,11404-S-Breyman-Ct,"Residential, single family residence",Built in 1951,"Forced air, fireplace(s)",Central air,2 Attached garage spaces,0,0.44 Acres,$591 price/sqft,2.25% buyers agency fee,1498000
+Portland,OR,97206,3709-SE-66th-Ave,"Residential, single family residence",Built in 1913,Wall furnace,No data,1 Garage space,0,"3,920 sqft",$230 price/sqft,2.5% buyers agency fee,397500
+Portland,OR,97212,3853-NE-21st-Ave,"Residential, single family residence",Built in 1927,"Forced air 95 plus, fireplace(s)",Central air,1 Garage space,0,"4,356 sqft",$371 price/sqft,2.5% buyers agency fee,1190000
+Portland,OR,97217,429-N-Bridgeton-Rd-SLIP-3,Residential,Built in 1960,"Forced air, heat pump, mini split",Heat pump,Off street,0,"2,263 sqft",$146 price/sqft,2.5% buyers agency fee,299000
+Portland,OR,97219,1609-SW-Troy-St,"Residential, single family residence",Built in 1929,Forced air,No data,1 Garage space,0,"5,227 sqft",$224 price/sqft,2.25% buyers agency fee,475000
+Portland,OR,97202,6413-SE-22nd-Ave,"Residential, single family residence",Built in 1923,"Forced air, forced air 95 plus, fireplace(s)",Central air,Open parking,0,"5,227 sqft",$391 price/sqft,2.5% buyers agency fee,785000
+Portland,OR,97203,4907-N-Amherst-St,"Residential, single family residence",Built in 1904,"Forced air, fireplace(s)",Central air,Open parking,0,"4,791 sqft",$280 price/sqft,2.5% buyers agency fee,799900
+Portland,OR,97266,8941-SE-Knapp-St,"Residential, single family residence",Built in 1979,"Zoned, fireplace(s)",None,2 Attached garage spaces,0,"5,227 sqft",$318 price/sqft,2.25% buyers agency fee,399993
+Portland,OR,97213,240-NE-65th-Ave,"Residential, single family residence",Built in 1976,"Forced air, fireplace(s)",Central air,2 Attached garage spaces,0,"5,227 sqft",$328 price/sqft,2.5% buyers agency fee,399900
+Portland,OR,97217,225-N-Bridgeton-Rd,Residential,Built in 1991,Zoned,No data,Off street,$975 monthly HOA fee,"1,800 sqft",$208 price/sqft,2.5% buyers agency fee,259000
+Portland,OR,97211,5480-NE-Cesar-E-Chavez-Blvd,Residential,Built in 2022,Mini split,Central air,Open parking,$48 monthly HOA fee,No data,$406 price/sqft,2.5% buyers agency fee,525000
+Portland,OR,97205,1221-SW-10th-Ave-UNIT-606,"Residential, condominium",Built in 2006,Heat pump,Heat pump,1 Attached garage space,0,$957 monthly HOA fee,$415 price/sqft,2.5% buyers agency fee,650000
+Portland,OR,97229,1930-NW-Yorkshire-Ln,Residential,Built in 1995,Forced air 90,Central air,1 Garage space,$479 monthly HOA fee,"1,742 sqft",$430 price/sqft,2.25% buyers agency fee,555000
+Portland,OR,97229,9745-NW-Silver-Ridge-Loop,"Residential, townhouse",Built in 1995,"Forced air, fireplace(s)",Central air,2 Attached garage spaces,"$3,447 semi-annually HOA fee","2,178 sqft",$368 price/sqft,2.5% buyers agency fee,560000
+Portland,OR,97209,1260-NW-Naito-Pkwy-UNIT-805B,"Residential, condominium",Built in 2007,"Heat pump, hot water",Central air,1 Attached garage space,0,"$1,088 monthly HOA fee",$410 price/sqft,2.5% buyers agency fee,650000
+Portland,OR,97266,9804-SE-Pardee-St,"Residential, single family residence",Built in 1955,"Forced air, fireplace(s)",Central air,1 Attached garage space,0,"7,840 sqft",$310 price/sqft,2.5% buyers agency fee,434950
+Portland,OR,97201,2728-SW-Montgomery-Dr,"Residential, single family residence",Built in 1909,"Forced air, fireplace(s), mini split",Wall unit(s),1 Garage space,0,"5,227 sqft",$206 price/sqft,2.5% buyers agency fee,500000
+Portland,OR,97203,4040-N-Juneau-St,"Residential, single family residence",Built in 1985,"Forced air 90, fireplace(s)",Heat pump,2 Attached garage spaces,0,"6,534 sqft",$394 price/sqft,2.5% buyers agency fee,489000
+Portland,OR,97209,636-NW-11th-Ave,"Residential, townhouse",Built in 1908,"Forced air 95 plus, fireplace(s)",Central air,1 Garage space,0,"2,178 sqft",$613 price/sqft,2.5% buyers agency fee,1225000
+Portland,OR,97206,4525-SE-Clinton-St,"Residential, single family residence",Built in 1930,"Forced air, fireplace(s)",No data,1 Garage space,0,"4,791 sqft",$311 price/sqft,2.5% buyers agency fee,719000
+Portland,OR,97201,1837-SW-Elm-St-APT-1,"Residential, condominium",Built in 1917,"Baseboard, fireplace(s)",None,2 Garage spaces,0,$665 monthly HOA fee,$432 price/sqft,2.5% buyers agency fee,720000
+Portland,OR,97203,8905-N-Dwight-Ave,"Residential, single family residence",Built in 2007,"Forced air, zoned",No data,No data,$117 monthly HOA fee,"2,613 sqft",$257 price/sqft,2.5% buyers agency fee,369900
+Portland,OR,97201,2629-SW-Davenport-Ln,"Residential, single family residence",Built in 1957,"Forced air, fireplace(s)",Central air,2 Garage spaces,0,0.32 Acres,$311 price/sqft,2.5% buyers agency fee,1050000
+Portland,OR,97225,10124-SW-Windwood-Way,"Residential, townhouse",Built in 2006,"Forced air, other, fireplace(s)",Central air,2 Attached garage spaces,$392 monthly HOA fee,"1,306 sqft",$335 price/sqft,2.5% buyers agency fee,710000
+Portland,OR,97210,1333-NW-24th-Ave,"Residential, single family residence",Built in 1904,"Forced air 95 plus, fireplace(s)",Central air,Open parking,0,"6,534 sqft",$336 price/sqft,2.5% buyers agency fee,1989000
+Portland,OR,97236,13246-SE-Raymond-St,"Residential, single family residence",Built in 1949,"Wall furnace, zoned",None,Open parking,0,0.45 Acres,$325 price/sqft,2.5% buyers agency fee,320000
+Portland,OR,97206,5119-SE-68th-Ave,"Residential, single family residence",Built in 1952,"Baseboard, wall furnace",None,1 Garage space,0,"7,405 sqft",$215 price/sqft,2.5% buyers agency fee,395000
+Portland,OR,97203,8229-N-Fiske-Ave,"Residential, single family residence",Built in 2010,"Forced air 90, fireplace(s)",Heat pump,1 Garage space,0,"3,920 sqft",$282 price/sqft,2.5% buyers agency fee,675000
+Portland,OR,97229,15120-NW-Aberdeen-Dr,"Residential, single family residence",Built in 1999,"Forced air, heat pump, fireplace(s)",Central air,2 Attached garage spaces,"$2,818 annually HOA fee","6,098 sqft",$461 price/sqft,2.5% buyers agency fee,847000
+Portland,OR,97206,4329-SE-Division-St-UNIT-A,"Residential, condominium",Built in 2012,Heat pump,Heat pump,Open parking,0,$172 monthly HOA fee,$612 price/sqft,2.5% buyers agency fee,205000
+Portland,OR,97211,6717-NE-13th-Ave,"Residential, single family residence",Built in 1999,"Forced air, fireplace(s)",No data,2 Attached garage spaces,0,"3,920 sqft",$353 price/sqft,2.5% buyers agency fee,450000
+Portland,OR,97217,205-N-Bridgeton-Rd-SLIP-6,Residential,Built in 2021,"Ductless, energy star qualified equipment, mini split",Energy star qualified equipment,"Deeded, off street",$841 monthly HOA fee,No data,$330 price/sqft,2.5% buyers agency fee,264000
+Portland,OR,97203,8437-N-Bliss-St,"Residential, single family residence",Built in 2004,"Heat pump, mini split",Heat pump,Off street,0,"3,920 sqft",$397 price/sqft,2.25% buyers agency fee,375000
+Portland,OR,97217,11636-N-Island-Cove-Ln,Residential,Built in 1993,Zoned,No data,Secured,"$1,538 monthly HOA fee",No data,$236 price/sqft,2.5% buyers agency fee,199900
+Portland,OR,97230,547-NE-128th-Ave,Residential,Built in 1969,Radiant,None,Open parking,0,"2,613 sqft",$258 price/sqft,2.25% buyers agency fee,265000
+Portland,OR,97236,3317-SE-122nd-Ave-SUITE-4,"Residential, condominium",Built in 2007,"Mini split, zoned",No data,Carport,0,$150 monthly HOA fee,$246 price/sqft,2% buyers agency fee,199900
+Portland,OR,97217,7816-N-Montana-Ave,"Residential, single family residence",Built in 1927,Ductless,Heat pump,1 Garage space,0,"3,484 sqft",$284 price/sqft,2.25% buyers agency fee,489900
+Portland,OR,97205,1221-SW-10th-Ave-UNIT-705,"Residential, condominium",Built in 2006,"Forced air, heat pump, fireplace(s)",Central air,2 Attached garage spaces,0,"$1,303 monthly HOA fee",$443 price/sqft,2.25% buyers agency fee,949000
+Portland,OR,97201,1941-SW-Montgomery-Pl,"Residential, single family residence",Built in 1991,Forced air,Central air,2 Garage spaces,0,0.49 Acres,$501 price/sqft,2.25% buyers agency fee,1600000
+Portland,OR,97220,10045-NE-Shaver-St,"Residential, single family residence",Built in 1941,"Forced air, fireplace(s)",Central air,2 Attached garage spaces,0,0.33 Acres,$233 price/sqft,2.5% buyers agency fee,695000
+Portland,OR,97231,11390-NW-Skyline-Blvd,"Residential, single family residence",Built in 1924,Forced air,No data,2 Garage spaces,0,2.75 Acres,$218 price/sqft,2.5% buyers agency fee,575000
+Portland,OR,97229,13147-NW-Cheerio-Dr,"Residential, single family residence",Built in 1973,"Forced air, fireplace(s)",Central air,2 Garage spaces,0,1.81 Acres,$333 price/sqft,2.5% buyers agency fee,1200000
+Portland,OR,97205,2331-SW-Cactus-Dr,"Residential, single family residence",Built in 1917,"Forced air, fireplace(s)",Central air,Off street,0,"6,534 sqft",$281 price/sqft,2% buyers agency fee,1750000
+Portland,OR,97239,5925-SW-Terwilliger-Blvd,"Residential, single family residence",Built in 1928,"Forced air 95 plus, fireplace(s)",Central air,Open parking,0,0.30 Acres,$159 price/sqft,2.5% buyers agency fee,795000
+Portland,OR,97214,1816-SE-12th-Ave,"Residential, single family residence",Built in 1943,"Forced air, fireplace(s)",Central air,1 Garage space,0,"6,098 sqft",$215 price/sqft,2.5% buyers agency fee,639000
+Portland,OR,97219,3835-SW-Canby-St,"Residential, condominium, townhouse",Built in 1974,"Baseboard, wall furnace, zoned, fireplace(s)",Wall unit(s),2 Garage spaces,$645 monthly HOA fee,No data,$292 price/sqft,2.5% buyers agency fee,405000
+Portland,OR,97203,7107-N-John-Ave,"Residential, condominium",Built in 2004,Wall furnace,None,No data,0,$40 monthly HOA fee,$298 price/sqft,2.5% buyers agency fee,280000
+Portland,OR,97203,10540-N-Midway-Ave,"Residential, single family residence",Built in 1980,"Mini split, fireplace(s)",Wall unit(s),1 Garage space,0,"8,276 sqft",$251 price/sqft,2.5% buyers agency fee,575000
+Portland,OR,97219,8603-SW-17th-Ave,"Residential, single family residence",Built in 1942,"Forced air, fireplace(s)",Central air,1 Attached garage space,0,"5,227 sqft",$282 price/sqft,2.5% buyers agency fee,683500
+Portland,OR,97217,5025-N-Minnesota-Ave-301,"Residential, condominium",Built in 2018,"Heat pump, mini split",Heat pump,Open parking,0,$324 monthly HOA fee,$383 price/sqft,2.5% buyers agency fee,350000
+Portland,OR,97236,2841-SE-174th-Ave,"Residential, single family residence",Built in 1946,"Forced air, fireplace(s)",No data,Open parking,0,"7,840 sqft",$114 price/sqft,2.25% buyers agency fee,399985
+Portland,OR,97202,1717-SE-Bidwell-St,Single family residence,Built in 1915,"Electric, forced air",No data,2 Garage spaces,0,"4,791 sqft",$288 price/sqft,2.25% buyers agency fee,550000
+Portland,OR,97211,7012-NE-10th-Ave-3,"Residential, condominium, townhouse",Built in 2023,"Heat pump, mini split",Heat pump,No data,0,No data,$403 price/sqft,2.5% buyers agency fee,329900
+Portland,OR,97210,2129-NW-Northrup-St-APT-4,"Residential, condominium",Built in 1905,Baseboard,None,Open parking,0,$455 monthly HOA fee,$343 price/sqft,2.5% buyers agency fee,365000
+Portland,OR,97239,3025-SW-11th-Ave,"Residential, single family residence",Built in 1948,Forced air,None,1 Garage space,0,"5,227 sqft",$397 price/sqft,2.25% buyers agency fee,515000
+Portland,OR,97211,3409-NE-Lombard-Ct,"Residential, single family residence",Built in 1948,"Forced air, fireplace(s)",Central air,1 Attached garage space,0,"7,405 sqft",$290 price/sqft,2.5% buyers agency fee,640000
+Portland,OR,97203,4621-N-Willamette-Blvd,"Residential, single family residence",Built in 1944,Forced air,Central air,Open parking,0,"5,662 sqft",$289 price/sqft,2.5% buyers agency fee,592500
+Portland,OR,97209,420-NW-11th-Ave-UNIT-611,"Residential, condominium",Built in 2001,Forced air,Central air,1 Attached garage space,0,$357 monthly HOA fee,$403 price/sqft,2.5% buyers agency fee,310000
+Portland,OR,97229,12606-NW-Barnes-Rd-APT-5,"Residential, condominium",Built in 1979,Baseboard,None,Off street,0,$411 monthly HOA fee,$323 price/sqft,2.5% buyers agency fee,192500
+Portland,OR,97229,1940-NW-143rd-Ave-85,"Residential, condominium",Built in 1992,Mini split,Other,Deeded,0,$325 monthly HOA fee,$439 price/sqft,2.5% buyers agency fee,275000
+Portland,OR,97227,3219-N-Kerby-Ave,"Residential, condominium, townhouse",Built in 2000,Forced air,No data,Open parking,$293 monthly HOA fee,No data,$325 price/sqft,2.5% buyers agency fee,345000
+Portland,OR,97209,1001-NW-Lovejoy-St-UNIT-809,"Residential, condominium",Built in 2006,"Forced air, heat pump, fireplace(s)",Central air,1 Attached garage space,0,$900 monthly HOA fee,$499 price/sqft,2.5% buyers agency fee,625000
+Portland,OR,97231,8919-NW-Mills-St,"Residential, single family residence",Built in 1994,"Energy star qualified equipment, forced air, heat pump","Central air, energy star qualified equipment",Carport,0,0.53 Acres,$402 price/sqft,2.5% buyers agency fee,759900
+Portland,OR,97206,4190-SE-52nd-Ave,"Residential, condominium",Built in 2023,"Ductless, energy star qualified equipment, fireplace(s)",Heat exchanger,Open parking,0,$225 monthly HOA fee,$592 price/sqft,2.5% buyers agency fee,380000
+Portland,OR,97266,4622-SE-87th-Ave,"Residential, single family residence",Built in 1911,"Baseboard, wall furnace",None,Carport,0,"3,920 sqft",$362 price/sqft,2.5% buyers agency fee,249000
+Portland,OR,97213,7920-NE-Schuyler-St,"Residential, single family residence",Built in 2019,"Forced air 95 plus, fireplace(s)",Central air,1 Attached garage space,0,"2,613 sqft",$261 price/sqft,2.5% buyers agency fee,559900
+Portland,OR,97202,1205-SE-Marion-St,"Residential, single family residence",Built in 1922,Forced air,None,1 Garage space,0,"5,227 sqft",$336 price/sqft,2.25% buyers agency fee,768000
+Portland,OR,97219,9939-SW-35th-Ave,"Residential, single family residence",Built in 1943,Forced air,None,Open parking,0,0.71 Acres,$476 price/sqft,2.5% buyers agency fee,655000
+Portland,OR,97202,7026-SE-17th-Ave,"Residential, single family residence",Built in 1921,"Forced air, fireplace(s)",Central air,1 Garage space,0,"4,791 sqft",$412 price/sqft,2.25% buyers agency fee,775000
+Portland,OR,97227,3723-N-Missouri-Ave,"Residential, single family residence",Built in 1888,Forced air,None,Open parking,0,"6,098 sqft",$299 price/sqft,2.5% buyers agency fee,650000
+Portland,OR,97212,14-NE-Stanton-St,"Residential, condominium, townhouse",Built in 2014,"Forced air, fireplace(s)",No data,Open parking,0,No data,$298 price/sqft,2.5% buyers agency fee,499999
+Portland,OR,97217,843-N-Holland-St,"Residential, single family residence",Built in 1912,Forced air,No data,1 Garage space,0,"3,920 sqft",$280 price/sqft,2.25% buyers agency fee,399500
+Portland,OR,97217,530-NE-Tomahawk-Island-Dr-A4,Residential,Built in 1940,None,No data,1 Garage space,0,No data,$37 price/sqft,3% buyers agency fee,49000
+Portland,OR,97266,6419-SE-86th-Ave,"Residential, single family residence",Built in 1910,Forced air,No data,2 Garage spaces,0,"5,227 sqft",$158 price/sqft,2.5% buyers agency fee,285000
+Portland,OR,97206,7610-SE-69th-Ave,"Residential, single family residence",Built in 1954,Forced air,None,Open parking,0,"5,227 sqft",$351 price/sqft,2.25% buyers agency fee,359950
+Portland,OR,97230,3723-NE-152nd-Ave,"Residential, single family residence",Built in 1952,"Forced air, fireplace(s)",Central air,Open parking,0,"7,840 sqft",$229 price/sqft,2.5% buyers agency fee,525000
+Portland,OR,97210,294-NW-Macleay-Blvd,"Residential, single family residence",Built in 1925,"Radiant, fireplace(s)",No data,2 Attached garage spaces,0,"6,969 sqft",$420 price/sqft,2.5% buyers agency fee,1299999
+Portland,OR,97215,2353-SE-58th-Ave,"Residential, single family residence",Built in 1922,"Forced air, fireplace(s)",No data,1 Garage space,0,"4,791 sqft",$310 price/sqft,2.25% buyers agency fee,665000
+Portland,OR,97209,606-NW-Naito-Pkwy-APT-A22,"Residential, condominium",Built in 1982,"Forced air, mini split",Central air,Deeded,0,$482 monthly HOA fee,$340 price/sqft,2.5% buyers agency fee,249800
+Portland,OR,97209,327-NW-Park-Ave-APT-2D,"Residential, condominium",Built in 2001,Forced air,Heat pump,Open parking,0,$468 monthly HOA fee,$321 price/sqft,2.5% buyers agency fee,234500
+Portland,OR,97266,5714-SE-88th-Ave,"Residential, single family residence",Built in 1910,None,None,2 Garage spaces,0,"4,356 sqft",$196 price/sqft,2.25% buyers agency fee,335000
+Portland,OR,97212,2131-NE-11th-Ave,"Residential, single family residence",Built in 1924,"Forced air 90, fireplace(s)",No data,1 Garage space,0,"3,920 sqft",$278 price/sqft,2.5% buyers agency fee,699000
+Portland,OR,97215,1229-SE-72nd-Ave,"Residential, single family residence",Built in 1941,"Forced air 95 plus, fireplace(s)",Central air,1 Garage space,0,"5,227 sqft",$422 price/sqft,2.5% buyers agency fee,1250000
+Portland,OR,97206,4011-SE-65th-Ave,"Residential, single family residence",Built in 1907,Forced air,Central air,1 Garage space,0,"6,098 sqft",$194 price/sqft,2.5% buyers agency fee,384900
+Portland,OR,97225,7732-SW-Barnes-Rd-UNIT-D,"Residential, condominium",Built in 1977,"Mini split, fireplace(s)",Heat pump,Carport,0,$525 monthly HOA fee,$314 price/sqft,2.25% buyers agency fee,255000
+Portland,OR,97206,5573-SE-56th-Ave,"Residential, condominium",Built in 2023,Mini split,Heat pump,Open parking,0,$47 monthly HOA fee,$352 price/sqft,2.7% buyers agency fee,369500
+Portland,OR,97212,2136-NE-11th-Ave,"Residential, single family residence",Built in 1911,"Forced air, fireplace(s)",Central air,1 Attached garage space,0,"2,613 sqft",$333 price/sqft,2.5% buyers agency fee,775000
+Portland,OR,97229,2080-NW-133rd-Pl,"Residential, single family residence",Built in 1991,"Forced air 90, fireplace(s)",Central air,3 Attached garage spaces,0,1.03 Acres,$668 price/sqft,2.5% buyers agency fee,4200000
+Portland,OR,97203,7820-N-Van-Houten-Ave,"Residential, single family residence",Built in 1909,Forced air 95 plus,No data,Open parking,0,"7,405 sqft",$246 price/sqft,2.25% buyers agency fee,569989
+Portland,OR,97232,2903-NE-Couch-St,"Residential, single family residence",Built in 1909,"Energy star qualified equipment, forced air 95 plus",Central air,1 Garage space,0,871.20 Sqft,$543 price/sqft,2.25% buyers agency fee,459000
+Portland,OR,97266,4535-SE-87th-Ave,"Residential, single family residence",Built in 1986,Forced air,No data,2 Attached garage spaces,0,"4,791 sqft",$349 price/sqft,2.25% buyers agency fee,399000
+Portland,OR,97215,1944-SE-51st-Ave,"Residential, single family residence",Built in 1880,"Forced air 90, fireplace(s)",Central air,1 Garage space,0,"7,405 sqft",$272 price/sqft,2.5% buyers agency fee,925000
+Portland,OR,97206,3517-SE-67th-Ave,"Residential, single family residence",Built in 1959,"Forced air, fireplace(s)",Central air,1 Garage space,0,"3,920 sqft",$418 price/sqft,2.5% buyers agency fee,399000
+Portland,OR,97233,2076-SE-145th-Ave,"Residential, single family residence",Built in 1956,Forced air,No data,Carport,0,"6,969 sqft",$233 price/sqft,2.25% buyers agency fee,399990
+Portland,OR,97203,4764-N-Syracuse-St,"Residential, single family residence",Built in 1896,"Forced air, fireplace(s)",Central air,Open parking,0,"4,791 sqft",$330 price/sqft,2.5% buyers agency fee,559000
+Portland,OR,97214,1932-SE-26th-Ave,"Residential, single family residence",Built in 1912,"Forced air 95 plus, fireplace(s)",No data,Open parking,0,"4,791 sqft",$244 price/sqft,2.5% buyers agency fee,799900
+Portland,OR,97203,9537-N-Van-Houten-Ave,"Residential, single family residence",Built in 1924,Forced air,No data,2 Garage spaces,0,"6,534 sqft",$353 price/sqft,2.25% buyers agency fee,450000
+Portland,OR,97212,2336-NE-22nd-Ave,"Residential, single family residence",Built in 1910,"Forced air, fireplace(s)",Central air,1 Attached garage space,0,"5,227 sqft",$446 price/sqft,2.5% buyers agency fee,1795000
+Portland,OR,97221,4775-SW-Julia-St,"Residential, single family residence",Built in 1972,"Baseboard, fireplace(s)",Wall unit(s),2 Attached garage spaces,0,"7,405 sqft",$381 price/sqft,2.5% buyers agency fee,495000
+Portland,OR,97232,1526-NE-24th-Ave-APT-2,"Residential, condominium",Built in 1927,Radiant,None,Open parking,0,$559 monthly HOA fee,$391 price/sqft,2.5% buyers agency fee,243000
+Portland,OR,97203,5425-N-Syracuse-St,"Residential, single family residence",Built in 1952,"Forced air, fireplace(s)",Window unit(s),1 Attached garage space,0,No data,$359 price/sqft,2.25% buyers agency fee,499000
+Portland,OR,97266,8419-SE-Woodstock-Blvd,"Residential, single family residence",Built in 1952,Forced air,No data,Open parking,0,"7,405 sqft",$224 price/sqft,2.25% buyers agency fee,638000
+Portland,OR,97213,5375-NE-Everett-St-2,"Residential, condominium, townhouse",Built in 2023,Mini split,Heat pump,No data,$40 monthly HOA fee,No data,$405 price/sqft,2.5% buyers agency fee,329900
+Portland,OR,97201,2445-SW-Montgomery-Dr,"Residential, single family residence",Built in 1985,"Forced air, fireplace(s)",Central air,1 Attached garage space,0,0.87 Acres,$456 price/sqft,2.25% buyers agency fee,729500
+Portland,OR,97206,5270-SE-Lafayette-St-6,"Residential, condominium, townhouse",Built in 2023,Mini split,Heat pump,No data,$32 monthly HOA fee,No data,$372 price/sqft,2.5% buyers agency fee,329900
+Portland,OR,97203,7006-N-Portsmouth-Ave,"Residential, single family residence",Built in 1924,Forced air,No data,2 Garage spaces,0,"5,662 sqft",$208 price/sqft,2.5% buyers agency fee,599000
+Portland,OR,97203,7474-N-Olin-Ave,"Residential, single family residence",Built in 1932,Forced air 90,Central air,1 Garage space,0,"5,227 sqft",$289 price/sqft,2% buyers agency fee,499000
+Portland,OR,97212,2836-NE-30th-Ave,"Residential, single family residence",Built in 1928,"Forced air, fireplace(s)",Central air,1 Garage space,0,"5,227 sqft",$273 price/sqft,2.5% buyers agency fee,849000
+Portland,OR,97211,3206-NE-Dekum-St,"Residential, single family residence",Built in 1922,Forced air,Central air,Open parking,0,"8,276 sqft",$212 price/sqft,2.5% buyers agency fee,495000
+Portland,OR,97217,113-N-Hayden-Bay-Dr,"Residential, condominium",Built in 1983,"Forced air, fireplace(s)",Central air,1 Garage space,0,$511 monthly HOA fee,$326 price/sqft,2.5% buyers agency fee,360000
+Portland,OR,97217,440-N-Tomahawk-Island-Dr,Residential,Built in 1961,"Baseboard, hot water, zoned",Window unit(s),"Off street, secured",$350 monthly HOA fee,"2,580 sqft",$225 price/sqft,2.5% buyers agency fee,395000
+Portland,OR,97219,6705-SW-30th-Ave-APT-C,"Residential, condominium",Built in 1962,"Ceiling, wood stove, zoned, fireplace(s)",Window unit(s),Carport,0,$636 monthly HOA fee,$270 price/sqft,2.25% buyers agency fee,349000
+Portland,OR,97202,5735-SE-Cesar-E-Chavez-Blvd,"Residential, single family residence",Built in 1952,"Forced air, fireplace(s)",Central air,2 Attached garage spaces,0,No data,$153 price/sqft,2.25% buyers agency fee,639900
+Portland,OR,97213,26-NE-44th-Ave,"Residential, single family residence",Built in 1940,"Forced air 95 plus, fireplace(s)",Central air,Open parking,0,"6,098 sqft",$334 price/sqft,2.5% buyers agency fee,875000
+Portland,OR,97209,2046-NW-Flanders-St-APT-31,"Residential, condominium",Built in 1907,Zoned,No data,Open parking,0,$418 monthly HOA fee,$384 price/sqft,2.25% buyers agency fee,359100
+Portland,OR,97214,915-SE-35th-Ave-APT-208,"Residential, condominium",Built in 2005,Radiant,None,1 Attached garage space,0,$700 monthly HOA fee,$374 price/sqft,2.5% buyers agency fee,510000
+Portland,OR,97212,3835-NE-Cleveland-Ave,"Residential, single family residence",Built in 1890,Forced air,No data,No data,0,"4,791 sqft",$216 price/sqft,2.25% buyers agency fee,499500
+Portland,OR,97202,3803-SE-Carlton-St,"Residential, single family residence",Built in 1931,"Forced air 95 plus, heat pump, fireplace(s)",Central air,2 Garage spaces,0,"7,840 sqft",$437 price/sqft,2% buyers agency fee,1599900
+Portland,OR,97212,1914-NE-22nd-Ave,"Residential, single family residence",Built in 1911,"Forced air, hot water, radiant, fireplace(s)",Central air,Open parking,0,0.34 Acres,$292 price/sqft,2.25% buyers agency fee,2895000
+Portland,OR,97239,5543-SW-Edgemont-Pl,"Residential, single family residence",Built in 1993,"Forced air, fireplace(s)",Central air,3 Attached garage spaces,0,0.43 Acres,$294 price/sqft,2.5% buyers agency fee,1170000
+Portland,OR,97209,411-NW-Flanders-St-APT-312,"Residential, condominium",Built in 2001,Heat pump,Heat pump,1 Attached garage space,0,$429 monthly HOA fee,$415 price/sqft,2.25% buyers agency fee,244000
+Portland,OR,97220,8305-NE-Pacific-St,"Residential, single family residence",Built in 1947,"Forced air, fireplace(s)",No data,1 Attached garage space,0,"5,227 sqft",$348 price/sqft,2.5% buyers agency fee,450000
+Portland,OR,97210,3030-NW-Cornell-Rd,"Residential, single family residence",Built in 1951,"Forced air, forced air 90, fireplace(s)",No data,1 Attached garage space,0,"10,018 sqft",$465 price/sqft,2.5% buyers agency fee,899500
+Portland,OR,97221,5532-SW-45th-Ave,"Residential, single family residence",Built in 1993,"Forced air, fireplace(s)",Central air,2 Attached garage spaces,0,0.30 Acres,$368 price/sqft,2.5% buyers agency fee,699900
+Portland,OR,97202,3914-SE-Schiller-St,"Residential, single family residence",Built in 1916,Forced air,No data,Open parking,0,"5,227 sqft",$448 price/sqft,2.5% buyers agency fee,525000
+Portland,OR,97217,7432-N-Williams-Ave,"Residential, single family residence",Built in 1912,"Forced air, heat pump",Heat pump,Open parking,0,"5,227 sqft",$205 price/sqft,2.25% buyers agency fee,669000
+Portland,OR,97233,1509-SE-174th-Ave,"Residential, single family residence",Built in 1954,Heat pump,No data,1 Garage space,0,0.38 Acres,$256 price/sqft,2.5% buyers agency fee,415000
+Portland,OR,97219,9323-SW-35th-Ave,"Residential, single family residence",Built in 1942,"Forced air 95 plus, fireplace(s)",No data,1 Attached garage space,0,0.44 Acres,$262 price/sqft,2.25% buyers agency fee,624900
+Portland,OR,97217,1627-N-Jantzen-Ave,Residential,Built in 1980,"Forced air, forced air 90",Central air,"Off street, secured, rv boat storage, garage door opener",$400 monthly HOA fee,No data,$397 price/sqft,2.5% buyers agency fee,499000
+Portland,OR,97229,4607-NW-134th-Ave,"Residential, single family residence",Built in 2017,"Forced air, heat pump",Central air,3 Attached garage spaces,$117 monthly HOA fee,"6,098 sqft",$352 price/sqft,2.25% buyers agency fee,1400000
+Portland,OR,97215,420-SE-65th-Ave,"Residential, single family residence",Built in 1958,"Forced air, fireplace(s)",Central air,4 Attached garage spaces,0,0.30 Acres,$496 price/sqft,2.5% buyers agency fee,2800000
+Portland,OR,97206,3335-SE-56th-Ave,"Residential, single family residence",Built in 1939,"Forced air 95 plus, fireplace(s)",Central air,2 Garage spaces,0,"3,920 sqft",$251 price/sqft,2.5% buyers agency fee,549900
+Portland,OR,97206,3765-SE-73rd-Ave-3,"Residential, condominium, townhouse",Built in 2023,Mini split,Heat pump,No data,$50 monthly HOA fee,No data,$385 price/sqft,2.5% buyers agency fee,349900
+Portland,OR,97202,7314-SE-36th-Ave,"Residential, single family residence",Built in 1927,"Forced air 90, mini split",Central air,1 Attached garage space,0,"3,484 sqft",$360 price/sqft,2.5% buyers agency fee,775000
+Portland,OR,97206,5303-SE-Duke-St,"Residential, single family residence",Built in 1924,Forced air,None,Open parking,0,"5,227 sqft",$201 price/sqft,2.5% buyers agency fee,695000
+Portland,OR,97216,1510-SE-88th-Ave,"Residential, single family residence",Built in 2010,"Forced air 90, fireplace(s)",Central air,1 Attached garage space,0,"2,613 sqft",$301 price/sqft,2.5% buyers agency fee,489900
+Portland,OR,97211,902-NE-Going-St,"Residential, single family residence",Built in 1907,"Hot water, other, radiant",No data,1 Garage space,0,"8,276 sqft",$235 price/sqft,2.25% buyers agency fee,799000
+Portland,OR,97225,11089-SW-Adele-Dr,"Residential, single family residence",Built in 2002,"Forced air, fireplace(s)",Central air,2 Attached garage spaces,0,"4,791 sqft",$299 price/sqft,2.3% buyers agency fee,789000
+Portland,OR,97214,2712-SE-Salmon-St,"Residential, single family residence",Built in 1913,"Active solar, forced air 90, heat pump, fireplace(s)",Central air,Open parking,0,0.34 Acres,$241 price/sqft,2.5% buyers agency fee,2249000
+Portland,OR,97212,3423-NE-Siskiyou-St,"Residential, single family residence",Built in 1926,"Forced air 90, fireplace(s)",Central air,2 Garage spaces,0,"5,227 sqft",$325 price/sqft,2.5% buyers agency fee,849900
+Portland,OR,97229,1930-NW-Cedar-Ridge-Dr,"Residential, single family residence",Built in 2000,"Forced air, fireplace(s)",Central air,2 Attached garage spaces,$62 monthly HOA fee,0.27 Acres,$283 price/sqft,2.5% buyers agency fee,1225000
+Portland,OR,97221,4129-SW-Greenleaf-Ct,"Residential, single family residence",Built in 1931,"Forced air, fireplace(s)",Central air,2 Attached garage spaces,0,0.33 Acres,$445 price/sqft,2.7% buyers agency fee,1949900
+Portland,OR,97236,3612-SE-128th-Ave,"Residential, single family residence",Built in 1958,"Baseboard, fireplace(s)",Window unit(s),1 Attached garage space,0,"9,583 sqft",$207 price/sqft,2.5% buyers agency fee,399000
+Portland,OR,97213,1919-NE-75th-Ave,"Residential, single family residence",Built in 1949,"Forced air, fireplace(s)",None,1 Garage space,0,"5,227 sqft",$226 price/sqft,2.25% buyers agency fee,545000
+Portland,OR,97233,708-SE-137th-Ave,"Residential, single family residence",Built in 1954,"Forced air, hot water, fireplace(s)",Window unit(s),Carport,0,"7,840 sqft",$268 price/sqft,2% buyers agency fee,450000
+Portland,OR,97229,11519-NW-Laidlaw-Rd,"Residential, single family residence",Built in 1942,Wood stove,No data,No data,0,4.41 Acres,$651 price/sqft,2.5% buyers agency fee,779000
+Portland,OR,97219,13265-S-Iron-Mountain-Blvd,"Residential, single family residence",Built in 1990,"Forced air, fireplace(s)",Central air,3 Attached garage spaces,0,0.69 Acres,$486 price/sqft,2.5% buyers agency fee,1989000
+Portland,OR,97211,521-NE-Ainsworth-St,Residential,Built in 2015,"Heat pump, mini split, fireplace(s)",Heat pump,2 Garage spaces,0,No data,$290 price/sqft,2.5% buyers agency fee,547000
+Portland,OR,97233,17035-SE-Salmon-St,"Residential, single family residence",Built in 1983,"Forced air, fireplace(s)",Central air,2 Attached garage spaces,0,"7,840 sqft",$340 price/sqft,2.5% buyers agency fee,402500
+Portland,OR,97225,735-SW-Viewmont-Dr,"Residential, single family residence",Built in 1964,"Forced air, fireplace(s)",Central air,2 Attached garage spaces,0,0.39 Acres,$312 price/sqft,2.5% buyers agency fee,695000
+Portland,OR,97215,2209-SE-47th-Ave,"Residential, single family residence",Built in 1913,"Forced air, fireplace(s)",Window unit(s),1 Garage space,0,"3,920 sqft",$358 price/sqft,2.5% buyers agency fee,575000
+Portland,OR,97229,455-NW-97th-Ave,"Residential, single family residence",Built in 1957,"Forced air, fireplace(s)",Central air,2 Garage spaces,0,1 Acres,$312 price/sqft,2.5% buyers agency fee,1000000
+Portland,OR,97218,4139-NE-62nd-Ave,"Residential, single family residence",Built in 1928,Mini split,Heat pump,Open parking,0,"4,791 sqft",$280 price/sqft,2.5% buyers agency fee,295000
+Portland,OR,97219,6309-SW-Luradel-St,"Residential, single family residence",Built in 1957,Forced air,Central air,2 Attached garage spaces,0,"8,712 sqft",$405 price/sqft,2.5% buyers agency fee,699000
+Portland,OR,97215,357-SE-47th-Ave,"Residential, single family residence",Built in 1927,"Forced air, fireplace(s)",No data,1 Attached garage space,0,0.25 Acres,$337 price/sqft,2.25% buyers agency fee,750000
+Portland,OR,97212,2105-NE-Klickitat-St,"Residential, single family residence",Built in 1939,"Forced air 90, fireplace(s)",Central air,2 Garage spaces,0,"5,227 sqft",$315 price/sqft,2.5% buyers agency fee,950000
+Portland,OR,97203,8073-N-Ivanhoe-St,"Residential, single family residence",Built in 1906,"Forced air, forced air 95 plus",No data,Open parking,0,"5,227 sqft",$255 price/sqft,2% buyers agency fee,599900
+Portland,OR,97233,17035-SE-Salmon-St,"Residential, single family residence",Built in 1983,"Forced air, fireplace(s)",Central air,2 Attached garage spaces,0,"7,840 sqft",$340 price/sqft,2.5% buyers agency fee,402500
+Portland,OR,97225,735-SW-Viewmont-Dr,"Residential, single family residence",Built in 1964,"Forced air, fireplace(s)",Central air,2 Attached garage spaces,0,0.39 Acres,$312 price/sqft,2.5% buyers agency fee,695000
+Portland,OR,97215,2209-SE-47th-Ave,"Residential, single family residence",Built in 1913,"Forced air, fireplace(s)",Window unit(s),1 Garage space,0,"3,920 sqft",$358 price/sqft,2.5% buyers agency fee,575000
+Portland,OR,97229,455-NW-97th-Ave,"Residential, single family residence",Built in 1957,"Forced air, fireplace(s)",Central air,2 Garage spaces,0,1 Acres,$312 price/sqft,2.5% buyers agency fee,1000000
+Portland,OR,97218,4139-NE-62nd-Ave,"Residential, single family residence",Built in 1928,Mini split,Heat pump,Open parking,0,"4,791 sqft",$280 price/sqft,2.5% buyers agency fee,295000
+Portland,OR,97219,6309-SW-Luradel-St,"Residential, single family residence",Built in 1957,Forced air,Central air,2 Attached garage spaces,0,"8,712 sqft",$405 price/sqft,2.5% buyers agency fee,699000
+Portland,OR,97215,357-SE-47th-Ave,"Residential, single family residence",Built in 1927,"Forced air, fireplace(s)",No data,1 Attached garage space,0,0.25 Acres,$337 price/sqft,2.25% buyers agency fee,750000
+Portland,OR,97212,2105-NE-Klickitat-St,"Residential, single family residence",Built in 1939,"Forced air 90, fireplace(s)",Central air,2 Garage spaces,0,"5,227 sqft",$315 price/sqft,2.5% buyers agency fee,950000
+Portland,OR,97203,8073-N-Ivanhoe-St,"Residential, single family residence",Built in 1906,"Forced air, forced air 95 plus",No data,Open parking,0,"5,227 sqft",$255 price/sqft,2% buyers agency fee,599900
+Portland,OR,97233,17035-SE-Salmon-St,"Residential, single family residence",Built in 1983,"Forced air, fireplace(s)",Central air,2 Attached garage spaces,0,"7,840 sqft",$340 price/sqft,2.5% buyers agency fee,402500
+Portland,OR,97225,735-SW-Viewmont-Dr,"Residential, single family residence",Built in 1964,"Forced air, fireplace(s)",Central air,2 Attached garage spaces,0,0.39 Acres,$312 price/sqft,2.5% buyers agency fee,695000
+Portland,OR,97215,2209-SE-47th-Ave,"Residential, single family residence",Built in 1913,"Forced air, fireplace(s)",Window unit(s),1 Garage space,0,"3,920 sqft",$358 price/sqft,2.5% buyers agency fee,575000
+Portland,OR,97229,455-NW-97th-Ave,"Residential, single family residence",Built in 1957,"Forced air, fireplace(s)",Central air,2 Garage spaces,0,1 Acres,$312 price/sqft,2.5% buyers agency fee,1000000
+Portland,OR,97218,4139-NE-62nd-Ave,"Residential, single family residence",Built in 1928,Mini split,Heat pump,Open parking,0,"4,791 sqft",$280 price/sqft,2.5% buyers agency fee,295000
+Portland,OR,97219,6309-SW-Luradel-St,"Residential, single family residence",Built in 1957,Forced air,Central air,2 Attached garage spaces,0,"8,712 sqft",$405 price/sqft,2.5% buyers agency fee,699000
+Portland,OR,97215,357-SE-47th-Ave,"Residential, single family residence",Built in 1927,"Forced air, fireplace(s)",No data,1 Attached garage space,0,0.25 Acres,$337 price/sqft,2.25% buyers agency fee,750000
+Portland,OR,97212,2105-NE-Klickitat-St,"Residential, single family residence",Built in 1939,"Forced air 90, fireplace(s)",Central air,2 Garage spaces,0,"5,227 sqft",$315 price/sqft,2.5% buyers agency fee,950000
+Portland,OR,97203,8073-N-Ivanhoe-St,"Residential, single family residence",Built in 1906,"Forced air, forced air 95 plus",No data,Open parking,0,"5,227 sqft",$255 price/sqft,2% buyers agency fee,599900
+Portland,OR,97233,17035-SE-Salmon-St,"Residential, single family residence",Built in 1983,"Forced air, fireplace(s)",Central air,2 Attached garage spaces,0,"7,840 sqft",$340 price/sqft,2.5% buyers agency fee,402500
+Portland,OR,97225,735-SW-Viewmont-Dr,"Residential, single family residence",Built in 1964,"Forced air, fireplace(s)",Central air,2 Attached garage spaces,0,0.39 Acres,$312 price/sqft,2.5% buyers agency fee,695000
+Portland,OR,97215,2209-SE-47th-Ave,"Residential, single family residence",Built in 1913,"Forced air, fireplace(s)",Window unit(s),1 Garage space,0,"3,920 sqft",$358 price/sqft,2.5% buyers agency fee,575000
+Portland,OR,97229,455-NW-97th-Ave,"Residential, single family residence",Built in 1957,"Forced air, fireplace(s)",Central air,2 Garage spaces,0,1 Acres,$312 price/sqft,2.5% buyers agency fee,1000000
+Portland,OR,97218,4139-NE-62nd-Ave,"Residential, single family residence",Built in 1928,Mini split,Heat pump,Open parking,0,"4,791 sqft",$280 price/sqft,2.5% buyers agency fee,295000
+Portland,OR,97219,6309-SW-Luradel-St,"Residential, single family residence",Built in 1957,Forced air,Central air,2 Attached garage spaces,0,"8,712 sqft",$405 price/sqft,2.5% buyers agency fee,699000
+Portland,OR,97215,357-SE-47th-Ave,"Residential, single family residence",Built in 1927,"Forced air, fireplace(s)",No data,1 Attached garage space,0,0.25 Acres,$337 price/sqft,2.25% buyers agency fee,750000
+Portland,OR,97212,2105-NE-Klickitat-St,"Residential, single family residence",Built in 1939,"Forced air 90, fireplace(s)",Central air,2 Garage spaces,0,"5,227 sqft",$315 price/sqft,2.5% buyers agency fee,950000
+Portland,OR,97203,8073-N-Ivanhoe-St,"Residential, single family residence",Built in 1906,"Forced air, forced air 95 plus",No data,Open parking,0,"5,227 sqft",$255 price/sqft,2% buyers agency fee,599900
+Eugene,OR,97408,2983-Grand-Cayman-Dr,"Residential, single family residence",Built in 1998,"Forced air, other, fireplace(s)",Central air,2 Attached garage spaces,$100 annually HOA fee,"9,583 sqft",$304 price/sqft,2.5% buyers agency fee,919900
+Eugene,OR,97402,1800-Lakewood-Ct-SPACE-123,"Residential, manufactured home",Built in 1973,Heat pump,Heat pump,Carport,0,"$1,129 monthly HOA fee",$73 price/sqft,2.5% buyers agency fee,95000
+Eugene,OR,97401,2802-Elysium-Ave,"Residential, single family residence",Built in 2001,Forced air,Heat pump,3 Attached garage spaces,0,"6,534 sqft",$308 price/sqft,2.5% buyers agency fee,525000
+Eugene,OR,97405,662-W-25th-Pl,"Residential, single family residence",Built in 1960,Ductless,Heat pump,1 Attached garage space,0,"6,098 sqft",$410 price/sqft,3% buyers agency fee,515000
+Eugene,OR,97408,2636-Chad-Dr,"Residential, single family residence",Built in 1980,"Heat pump, fireplace(s)",Heat pump,2 Attached garage spaces,0,"6,534 sqft",$404 price/sqft,2.5% buyers agency fee,499000
+Eugene,OR,97401,1611-Gilham-Rd,"Residential, single family residence",Built in 2006,"Forced air, fireplace(s)",Heat pump,2 Attached garage spaces,0,"6,534 sqft",$287 price/sqft,3% buyers agency fee,685000
+Eugene,OR,97405,3359-Videra-Dr,"Residential, single family residence",Built in 1993,"Forced air, heat pump, fireplace(s)",Heat pump,2 Attached garage spaces,$200 semi-annually HOA fee,"6,534 sqft",$291 price/sqft,2.75% buyers agency fee,549000
+Eugene,OR,97404,2979-Brett-Loop,"Residential, single family residence",Built in 1993,"Forced air, heat pump",Heat pump,2 Attached garage spaces,0,"7,840 sqft",$287 price/sqft,2.5% buyers agency fee,475000
+Eugene,OR,97402,1245-Tyler-St,"Residential, single family residence",Built in 1948,"Wood stove, zoned",No data,1 Attached garage space,0,"5,227 sqft",$280 price/sqft,2.5% buyers agency fee,349900
+Eugene,OR,97402,1199-N-Terry-St-SPACE-147,"Residential, manufactured home",Built in 1988,Heat pump,Central air,Carport,0,$829 monthly HOA fee,$82 price/sqft,3% buyers agency fee,115000
+Eugene,OR,97403,1760-Skyline-Blvd,"Residential, single family residence",Built in 1950,Forced air 90,Central air,2 Garage spaces,0,No data,$394 price/sqft,3% buyers agency fee,1395000
+Eugene,OR,97401,3755-Keeler-Ave,"Residential, single family residence",Built in 1976,Radiant,Window unit(s),2 Attached garage spaces,0,"7,840 sqft",$225 price/sqft,2.5% buyers agency fee,450000
+Eugene,OR,97405,2810-Ferry-St,"Residential, single family residence",Built in 1954,"Other, zoned",None,Carport,0,"9,583 sqft",$368 price/sqft,3% buyers agency fee,450000
+Eugene,OR,97402,3595-Arbor-Ave,"Residential, single family residence",Built in 1988,"Heat pump, wall furnace",Heat pump,Carport,$150 monthly HOA fee,"1,306 sqft",$284 price/sqft,2.5% buyers agency fee,335000
+Eugene,OR,97405,2736-Malibu-Way,"Residential, single family residence",Built in 1971,"Ceiling, wood stove, fireplace(s)",None,2 Attached garage spaces,0,"6,969 sqft",$265 price/sqft,2.5% buyers agency fee,590000
+Eugene,OR,97402,2295-Dakota-St,"Residential, single family residence",Built in 1949,"Baseboard, wall furnace",None,4 Garage spaces,0,0.31 Acres,$273 price/sqft,2.5% buyers agency fee,419999
+Eugene,OR,97405,2075-Harvard-Dr,"Residential, single family residence",Built in 1968,"Ductless, heat pump, zoned, fireplace(s)",Heat pump,2 Attached garage spaces,0,"7,405 sqft",$299 price/sqft,2.75% buyers agency fee,399000
+Eugene,OR,97401,1223-Washington-St,"Residential, single family residence",Built in 1925,Baseboard,None,1 Attached garage space,0,"2,613 sqft",$380 price/sqft,2.5% buyers agency fee,339500
+Eugene,OR,97405,660-Fox-Pine-Ln,"Residential, single family residence",Built in 2019,Forced air,Central air,2 Attached garage spaces,0,"4,791 sqft",$316 price/sqft,2.5% buyers agency fee,570000
+Eugene,OR,97404,136-Thomason-Ln,"Residential, single family residence",Built in 1979,Heat pump,Heat pump,2 Attached garage spaces,0,"8,276 sqft",$349 price/sqft,2.75% buyers agency fee,419000
+Eugene,OR,97404,837-Skipper-Ave,"Residential, single family residence",Built in 1963,"Ceiling, radiant",Wall unit(s),Open parking,0,"8,276 sqft",$246 price/sqft,2.5% buyers agency fee,290000
+Eugene,OR,97404,520-Lynnbrook-Dr,"Residential, single family residence",Built in 1994,"Forced air, heat pump",Heat pump,2 Attached garage spaces,0,"8,276 sqft",$212 price/sqft,3% buyers agency fee,469000
+Eugene,OR,97403,2843-Capital-Dr,"Residential, single family residence",Built in 1962,"Baseboard, heat pump, mini split",Heat pump,Carport,0,0.64 Acres,$298 price/sqft,2.5% buyers agency fee,999000
+Eugene,OR,97405,3603-Spring-Blvd,"Residential, single family residence",Built in 1974,Forced air,Other,2 Attached garage spaces,0,1.43 Acres,$449 price/sqft,2.5% buyers agency fee,1295000
+Eugene,OR,97402,1655-Calistoga-Ct,"Residential, single family residence",Built in 2000,"Forced air, fireplace(s)",Central air,3 Attached garage spaces,0,"6,098 sqft",$330 price/sqft,2.5% buyers agency fee,499000
+Eugene,OR,97402,810-W-3rd-Ave,"Residential, single family residence",Built in 1960,"Forced air, mini split",Central air,Open parking,0,0.25 Acres,$79 price/sqft,2.5% buyers agency fee,520000
+Eugene,OR,97401,517-Panda-Loop,"Residential, single family residence",Built in 1978,"Forced air, fireplace(s)",Heat pump,2 Attached garage spaces,0,"6,969 sqft",$442 price/sqft,2.5% buyers agency fee,485000
+Eugene,OR,97405,720-Brookside-Dr,"Residential, single family residence",Built in 1990,Heat pump,Heat pump,2 Garage spaces,$127 annually HOA fee,"6,534 sqft",$319 price/sqft,2.5% buyers agency fee,525000
+Eugene,OR,97402,930-W-12th-Aly,"Residential, single family residence",Built in 2020,Heat pump,Heat pump,2 Attached garage spaces,0,"5,227 sqft",$338 price/sqft,2.5% buyers agency fee,500000
+Eugene,OR,97402,920-Grant-St,"Residential, single family residence",Built in 2019,"Ductless, heat pump",Heat pump,1 Attached garage space,0,"2,613 sqft",$363 price/sqft,2.5% buyers agency fee,415500
+Eugene,OR,97402,1243-Waite-St,"Residential, single family residence",Built in 1977,"Ceiling, ductless",Heat pump,2 Attached garage spaces,0,0.25 Acres,$372 price/sqft,2.5% buyers agency fee,339000
+Eugene,OR,97402,6090-Latour-Ln,"Residential, single family residence",Built in 2003,"Forced air, fireplace(s)",Central air,2 Attached garage spaces,0,"6,969 sqft",$331 price/sqft,2.5% buyers agency fee,449000
+Eugene,OR,97401,131-Shelton-McMurphey-Blvd,Residential,Built in 2023,Forced air 95 plus,Central air,2 Attached garage spaces,$450 annually HOA fee,"4,356 sqft",$406 price/sqft,2.5% buyers agency fee,799900
+Eugene,OR,97401,2325-Sandy-Dr,"Residential, single family residence",Built in 2023,"Forced air, heat pump",No data,2 Attached garage spaces,0,"4,791 sqft",$392 price/sqft,2.5% buyers agency fee,639900
+Eugene,OR,97401,3297-Firwood-Way,"Residential, single family residence",Built in 1952,"Forced air, fireplace(s)",Central air,3 Attached garage spaces,0,"8,712 sqft",$503 price/sqft,2.5% buyers agency fee,450000
+Eugene,OR,97402,87750-Oak-Hill-Dr,"Residential, single family residence",Built in 1993,Forced air,None,Carport,0,1.25 Acres,$280 price/sqft,2.5% buyers agency fee,665000
+Eugene,OR,97408,2480-Crescent-Ave,"Residential, single family residence",Built in 1966,Ductless,Central air,2 Attached garage spaces,0,"7,405 sqft",$268 price/sqft,2.5% buyers agency fee,475000
+Eugene,OR,97401,599-Coburg-Rd-APT-2B,"Residential, condominium, townhouse",Built in 1963,"Ceiling, fireplace(s)",None,Open parking,$267 monthly HOA fee,No data,$288 price/sqft,3% buyers agency fee,295000
+Eugene,OR,97402,28104-Crow-Rd,"Residential, single family residence",Built in 1949,"Forced air, heat pump",Heat pump,1 Garage space,0,7.43 Acres,$338 price/sqft,2.5% buyers agency fee,555000
+Eugene,OR,97404,4011-Kildare-St,"Residential, single family residence",Built in 1965,Forced air,None,2 Attached garage spaces,0,"7,840 sqft",$228 price/sqft,3% buyers agency fee,425000
+Eugene,OR,97402,29706-Gimpl-Hill-Rd,"Residential, single family residence",Built in 1972,"Forced air 95 plus, heat pump, fireplace(s)",Heat pump,4 Attached garage spaces,0,1.15 Acres,$276 price/sqft,2.5% buyers agency fee,980000
+Eugene,OR,97401,290-Sunshine-Acres-Dr,"Residential, single family residence",Built in 1975,Heat pump,Heat pump,2 Attached garage spaces,0,"6,098 sqft",$305 price/sqft,2.5% buyers agency fee,500000
+Eugene,OR,97405,28754-Sutherlin-Ln,"Residential, single family residence",Built in 1978,Forced air,Central air,3 Garage spaces,0,5 Acres,$409 price/sqft,2.5% buyers agency fee,955000
+Eugene,OR,97405,3277-Kevington-Ave,"Residential, single family residence",Built in 1971,"Mini split, fireplace(s)",Heat pump,2 Attached garage spaces,0,"8,276 sqft",$255 price/sqft,3% buyers agency fee,495000
+Eugene,OR,97405,4737-Fox-Hollow-Rd,"Residential, single family residence",Built in 1999,"Forced air, heat pump, fireplace(s)",Heat pump,2 Attached garage spaces,0,"8,712 sqft",$238 price/sqft,2.5% buyers agency fee,650000
+Eugene,OR,97405,156-Treehill-Loop,"Residential, condominium",Built in 1974,"Ductless, fireplace(s)",Heat pump,Carport,0,$383 monthly HOA fee,$314 price/sqft,2.5% buyers agency fee,295000
+Eugene,OR,97405,3952-S-Ridge-Dr,"Residential, single family residence",Built in 1974,"Forced air, heat pump, fireplace(s)",Heat pump,3 Garage spaces,0,0.66 Acres,$235 price/sqft,2.5% buyers agency fee,895000
+Eugene,OR,97403,1588-Walnut-St,"Residential, single family residence",Built in 2019,"Forced air, heat pump",Heat pump,3 Attached garage spaces,0,"5,227 sqft",$469 price/sqft,2.5% buyers agency fee,925000
+Eugene,OR,97401,2155-Westwood-Ln,"Residential, single family residence",Built in 1996,Forced air,Central air,2 Attached garage spaces,0,"6,969 sqft",$322 price/sqft,2.5% buyers agency fee,945000
+Eugene,OR,97401,1375-Olive-St-APT-308,"Residential, condominium",Built in 2006,Forced air,Central air,1 Garage space,0,$598 monthly HOA fee,$477 price/sqft,2.75% buyers agency fee,629000
+Eugene,OR,97404,158-Springwood-Dr,"Residential, single family residence",Built in 2004,"Forced air, fireplace(s)",Central air,2 Attached garage spaces,0,"10,018 sqft",$260 price/sqft,2.5% buyers agency fee,679900
+Eugene,OR,97401,1758-Carmel-Ave,"Residential, single family residence",Built in 1966,Forced air,Heat pump,2 Attached garage spaces,0,"9,583 sqft",$401 price/sqft,3% buyers agency fee,575000
+Eugene,OR,97401,815-Waverly-St,"Residential, single family residence",Built in 1947,Other,None,1 Attached garage space,0,"7,840 sqft",$326 price/sqft,2.5% buyers agency fee,430000
+Eugene,OR,97405,2735-Washington-St,"Residential, single family residence",Built in 1962,Forced air,Heat pump,2 Attached garage spaces,0,"7,405 sqft",$339 price/sqft,2.5% buyers agency fee,695000
+Eugene,OR,97403,2082-Golfview-Ct,"Residential, single family residence",Built in 2022,"Forced air, fireplace(s)",Central air,2 Attached garage spaces,0,"10,454 sqft",$419 price/sqft,2.5% buyers agency fee,1125000
+Eugene,OR,97405,85281-Silver-Crest-Dr,"Residential, single family residence",Built in 2001,"Forced air, fireplace(s)",Central air,3 Attached garage spaces,$100 monthly HOA fee,1.41 Acres,$252 price/sqft,2.5% buyers agency fee,1299999
+Eugene,OR,97405,2140-W-27th-Ave,"Residential, single family residence",Built in 1975,"Ceiling, wall furnace",Wall unit(s),2 Attached garage spaces,0,"8,712 sqft",$301 price/sqft,3% buyers agency fee,615000
+Eugene,OR,97402,2035-E-Irwin-Way,"Residential, single family residence",Built in 1945,None,No data,Open parking,0,0.49 Acres,$343 price/sqft,2.5% buyers agency fee,300000
+Eugene,OR,97403,2788-Cascara-Dr,"Residential, Single Family Residence",2023,"ENERGY STAR Qualified Equipment, Forced Air, Forced Air 95 Plus",Central Air,2 Attached Garage spaces,0,"7,405 sqft",$319,$16125,771062
+Eugene,OR,97401,3244-Queens-East-St,"Residential, single family residence",Built in 1989,"Heat pump, fireplace(s)",Central air,2 Attached garage spaces,0,"8,276 sqft",$332 price/sqft,2.5% buyers agency fee,520000
+Eugene,OR,97402,4840-Jessen-Dr,"Residential, single family residence",Built in 1976,Radiant,No data,1 Garage space,0,"8,276 sqft",$303 price/sqft,3% buyers agency fee,465000
+Eugene,OR,97405,3226-Bentley-Ave,"Residential, single family residence",Built in 2019,"Forced air, heat pump, mini split",Central air,2 Attached garage spaces,$50 monthly HOA fee,0.32 Acres,$297 price/sqft,2.5% buyers agency fee,730000
+Eugene,OR,97405,1980-Amazon-Pkwy,"Residential, townhouse",Built in 2023,"Ductless, mini split",Wall unit(s),1 Attached garage space,$362 monthly HOA fee,"2,613 sqft",$406 price/sqft,2.5% buyers agency fee,799000
+Eugene,OR,97403,3740-Rockcress-Rd,"Residential, Single Family Residence",2023,"ENERGY STAR Qualified Equipment, Forced Air, Forced Air 95 Plus",Central Air,2 Attached Garage spaces,0,No Data,$310,$15875,749916
+Eugene,OR,97403,3639-Rockcress-Rd,"Residential, single family residence",Built in 2021,"Forced air, fireplace(s)",No data,2 Attached garage spaces,0,"6,534 sqft",$309 price/sqft,2% buyers agency fee,649500
+Eugene,OR,97408,2983-Grand-Cayman-Dr,"Residential, single family residence",Built in 1998,"Forced air, other, fireplace(s)",Central air,2 Attached garage spaces,$100 annually HOA fee,"9,583 sqft",$304 price/sqft,2.5% buyers agency fee,919900
+Eugene,OR,97402,1800-Lakewood-Ct-SPACE-123,"Residential, manufactured home",Built in 1973,Heat pump,Heat pump,Carport,0,"$1,129 monthly HOA fee",$73 price/sqft,2.5% buyers agency fee,95000
+Eugene,OR,97401,2802-Elysium-Ave,"Residential, single family residence",Built in 2001,Forced air,Heat pump,3 Attached garage spaces,0,"6,534 sqft",$308 price/sqft,2.5% buyers agency fee,525000
+Eugene,OR,97405,662-W-25th-Pl,"Residential, single family residence",Built in 1960,Ductless,Heat pump,1 Attached garage space,0,"6,098 sqft",$410 price/sqft,3% buyers agency fee,515000
+Eugene,OR,97408,2636-Chad-Dr,"Residential, single family residence",Built in 1980,"Heat pump, fireplace(s)",Heat pump,2 Attached garage spaces,0,"6,534 sqft",$404 price/sqft,2.5% buyers agency fee,499000
+Eugene,OR,97401,1611-Gilham-Rd,"Residential, single family residence",Built in 2006,"Forced air, fireplace(s)",Heat pump,2 Attached garage spaces,0,"6,534 sqft",$287 price/sqft,3% buyers agency fee,685000
+Eugene,OR,97405,3359-Videra-Dr,"Residential, single family residence",Built in 1993,"Forced air, heat pump, fireplace(s)",Heat pump,2 Attached garage spaces,$200 semi-annually HOA fee,"6,534 sqft",$291 price/sqft,2.75% buyers agency fee,549000
+Eugene,OR,97408,2983-Grand-Cayman-Dr,"Residential, single family residence",Built in 1998,"Forced air, other, fireplace(s)",Central air,2 Attached garage spaces,$100 annually HOA fee,"9,583 sqft",$304 price/sqft,2.5% buyers agency fee,919900
+Eugene,OR,97402,1800-Lakewood-Ct-SPACE-123,"Residential, manufactured home",Built in 1973,Heat pump,Heat pump,Carport,0,"$1,129 monthly HOA fee",$73 price/sqft,2.5% buyers agency fee,95000
+Eugene,OR,97401,2802-Elysium-Ave,"Residential, single family residence",Built in 2001,Forced air,Heat pump,3 Attached garage spaces,0,"6,534 sqft",$308 price/sqft,2.5% buyers agency fee,525000
+Eugene,OR,97405,662-W-25th-Pl,"Residential, single family residence",Built in 1960,Ductless,Heat pump,1 Attached garage space,0,"6,098 sqft",$410 price/sqft,3% buyers agency fee,515000
+Eugene,OR,97408,2636-Chad-Dr,"Residential, single family residence",Built in 1980,"Heat pump, fireplace(s)",Heat pump,2 Attached garage spaces,0,"6,534 sqft",$404 price/sqft,2.5% buyers agency fee,499000
+Eugene,OR,97401,1611-Gilham-Rd,"Residential, single family residence",Built in 2006,"Forced air, fireplace(s)",Heat pump,2 Attached garage spaces,0,"6,534 sqft",$287 price/sqft,3% buyers agency fee,685000
+Eugene,OR,97405,3359-Videra-Dr,"Residential, single family residence",Built in 1993,"Forced air, heat pump, fireplace(s)",Heat pump,2 Attached garage spaces,$200 semi-annually HOA fee,"6,534 sqft",$291 price/sqft,2.75% buyers agency fee,549000
+Eugene,OR,97408,2983-Grand-Cayman-Dr,"Residential, single family residence",Built in 1998,"Forced air, other, fireplace(s)",Central air,2 Attached garage spaces,$100 annually HOA fee,"9,583 sqft",$304 price/sqft,2.5% buyers agency fee,919900
+Eugene,OR,97402,1800-Lakewood-Ct-SPACE-123,"Residential, manufactured home",Built in 1973,Heat pump,Heat pump,Carport,0,"$1,129 monthly HOA fee",$73 price/sqft,2.5% buyers agency fee,95000
+Eugene,OR,97401,2802-Elysium-Ave,"Residential, single family residence",Built in 2001,Forced air,Heat pump,3 Attached garage spaces,0,"6,534 sqft",$308 price/sqft,2.5% buyers agency fee,525000
+Eugene,OR,97405,662-W-25th-Pl,"Residential, single family residence",Built in 1960,Ductless,Heat pump,1 Attached garage space,0,"6,098 sqft",$410 price/sqft,3% buyers agency fee,515000
+Eugene,OR,97408,2636-Chad-Dr,"Residential, single family residence",Built in 1980,"Heat pump, fireplace(s)",Heat pump,2 Attached garage spaces,0,"6,534 sqft",$404 price/sqft,2.5% buyers agency fee,499000
+Eugene,OR,97401,1611-Gilham-Rd,"Residential, single family residence",Built in 2006,"Forced air, fireplace(s)",Heat pump,2 Attached garage spaces,0,"6,534 sqft",$287 price/sqft,3% buyers agency fee,685000
+Eugene,OR,97405,3359-Videra-Dr,"Residential, single family residence",Built in 1993,"Forced air, heat pump, fireplace(s)",Heat pump,2 Attached garage spaces,$200 semi-annually HOA fee,"6,534 sqft",$291 price/sqft,2.75% buyers agency fee,549000
+Eugene,OR,97408,2983-Grand-Cayman-Dr,"Residential, single family residence",Built in 1998,"Forced air, other, fireplace(s)",Central air,2 Attached garage spaces,$100 annually HOA fee,"9,583 sqft",$304 price/sqft,2.5% buyers agency fee,919900
+Eugene,OR,97402,1800-Lakewood-Ct-SPACE-123,"Residential, manufactured home",Built in 1973,Heat pump,Heat pump,Carport,0,"$1,129 monthly HOA fee",$73 price/sqft,2.5% buyers agency fee,95000
+Eugene,OR,97401,2802-Elysium-Ave,"Residential, single family residence",Built in 2001,Forced air,Heat pump,3 Attached garage spaces,0,"6,534 sqft",$308 price/sqft,2.5% buyers agency fee,525000
+Eugene,OR,97405,662-W-25th-Pl,"Residential, single family residence",Built in 1960,Ductless,Heat pump,1 Attached garage space,0,"6,098 sqft",$410 price/sqft,3% buyers agency fee,515000
+Eugene,OR,97408,2636-Chad-Dr,"Residential, single family residence",Built in 1980,"Heat pump, fireplace(s)",Heat pump,2 Attached garage spaces,0,"6,534 sqft",$404 price/sqft,2.5% buyers agency fee,499000
+Eugene,OR,97401,1611-Gilham-Rd,"Residential, single family residence",Built in 2006,"Forced air, fireplace(s)",Heat pump,2 Attached garage spaces,0,"6,534 sqft",$287 price/sqft,3% buyers agency fee,685000
+Eugene,OR,97405,3359-Videra-Dr,"Residential, single family residence",Built in 1993,"Forced air, heat pump, fireplace(s)",Heat pump,2 Attached garage spaces,$200 semi-annually HOA fee,"6,534 sqft",$291 price/sqft,2.75% buyers agency fee,549000
+Eugene,OR,97408,2983-Grand-Cayman-Dr,"Residential, single family residence",Built in 1998,"Forced air, other, fireplace(s)",Central air,2 Attached garage spaces,$100 annually HOA fee,"9,583 sqft",$304 price/sqft,2.5% buyers agency fee,919900
+Eugene,OR,97402,1800-Lakewood-Ct-SPACE-123,"Residential, manufactured home",Built in 1973,Heat pump,Heat pump,Carport,0,"$1,129 monthly HOA fee",$73 price/sqft,2.5% buyers agency fee,95000
+Eugene,OR,97401,2802-Elysium-Ave,"Residential, single family residence",Built in 2001,Forced air,Heat pump,3 Attached garage spaces,0,"6,534 sqft",$308 price/sqft,2.5% buyers agency fee,525000
+Eugene,OR,97405,662-W-25th-Pl,"Residential, single family residence",Built in 1960,Ductless,Heat pump,1 Attached garage space,0,"6,098 sqft",$410 price/sqft,3% buyers agency fee,515000
+Eugene,OR,97408,2636-Chad-Dr,"Residential, single family residence",Built in 1980,"Heat pump, fireplace(s)",Heat pump,2 Attached garage spaces,0,"6,534 sqft",$404 price/sqft,2.5% buyers agency fee,499000
+Eugene,OR,97401,1611-Gilham-Rd,"Residential, single family residence",Built in 2006,"Forced air, fireplace(s)",Heat pump,2 Attached garage spaces,0,"6,534 sqft",$287 price/sqft,3% buyers agency fee,685000
+Eugene,OR,97405,3359-Videra-Dr,"Residential, single family residence",Built in 1993,"Forced air, heat pump, fireplace(s)",Heat pump,2 Attached garage spaces,$200 semi-annually HOA fee,"6,534 sqft",$291 price/sqft,2.75% buyers agency fee,549000
+Eugene,OR,97408,2983-Grand-Cayman-Dr,"Residential, single family residence",Built in 1998,"Forced air, other, fireplace(s)",Central air,2 Attached garage spaces,$100 annually HOA fee,"9,583 sqft",$304 price/sqft,2.5% buyers agency fee,919900
+Eugene,OR,97402,1800-Lakewood-Ct-SPACE-123,"Residential, manufactured home",Built in 1973,Heat pump,Heat pump,Carport,0,"$1,129 monthly HOA fee",$73 price/sqft,2.5% buyers agency fee,95000
+Eugene,OR,97401,2802-Elysium-Ave,"Residential, single family residence",Built in 2001,Forced air,Heat pump,3 Attached garage spaces,0,"6,534 sqft",$308 price/sqft,2.5% buyers agency fee,525000
+Eugene,OR,97405,662-W-25th-Pl,"Residential, single family residence",Built in 1960,Ductless,Heat pump,1 Attached garage space,0,"6,098 sqft",$410 price/sqft,3% buyers agency fee,515000
+Eugene,OR,97408,2636-Chad-Dr,"Residential, single family residence",Built in 1980,"Heat pump, fireplace(s)",Heat pump,2 Attached garage spaces,0,"6,534 sqft",$404 price/sqft,2.5% buyers agency fee,499000
+Eugene,OR,97401,1611-Gilham-Rd,"Residential, single family residence",Built in 2006,"Forced air, fireplace(s)",Heat pump,2 Attached garage spaces,0,"6,534 sqft",$287 price/sqft,3% buyers agency fee,685000
+Eugene,OR,97405,3359-Videra-Dr,"Residential, single family residence",Built in 1993,"Forced air, heat pump, fireplace(s)",Heat pump,2 Attached garage spaces,$200 semi-annually HOA fee,"6,534 sqft",$291 price/sqft,2.75% buyers agency fee,549000
+Eugene,OR,97408,2983-Grand-Cayman-Dr,"Residential, single family residence",Built in 1998,"Forced air, other, fireplace(s)",Central air,2 Attached garage spaces,$100 annually HOA fee,"9,583 sqft",$304 price/sqft,2.5% buyers agency fee,919900
+Eugene,OR,97402,1800-Lakewood-Ct-SPACE-123,"Residential, manufactured home",Built in 1973,Heat pump,Heat pump,Carport,0,"$1,129 monthly HOA fee",$73 price/sqft,2.5% buyers agency fee,95000
+Eugene,OR,97401,2802-Elysium-Ave,"Residential, single family residence",Built in 2001,Forced air,Heat pump,3 Attached garage spaces,0,"6,534 sqft",$308 price/sqft,2.5% buyers agency fee,525000
+Eugene,OR,97405,662-W-25th-Pl,"Residential, single family residence",Built in 1960,Ductless,Heat pump,1 Attached garage space,0,"6,098 sqft",$410 price/sqft,3% buyers agency fee,515000
+Eugene,OR,97408,2636-Chad-Dr,"Residential, single family residence",Built in 1980,"Heat pump, fireplace(s)",Heat pump,2 Attached garage spaces,0,"6,534 sqft",$404 price/sqft,2.5% buyers agency fee,499000
+Eugene,OR,97401,1611-Gilham-Rd,"Residential, single family residence",Built in 2006,"Forced air, fireplace(s)",Heat pump,2 Attached garage spaces,0,"6,534 sqft",$287 price/sqft,3% buyers agency fee,685000
+Eugene,OR,97405,3359-Videra-Dr,"Residential, single family residence",Built in 1993,"Forced air, heat pump, fireplace(s)",Heat pump,2 Attached garage spaces,$200 semi-annually HOA fee,"6,534 sqft",$291 price/sqft,2.75% buyers agency fee,549000
+Eugene,OR,97408,2983-Grand-Cayman-Dr,"Residential, single family residence",Built in 1998,"Forced air, other, fireplace(s)",Central air,2 Attached garage spaces,$100 annually HOA fee,"9,583 sqft",$304 price/sqft,2.5% buyers agency fee,919900
+Eugene,OR,97402,1800-Lakewood-Ct-SPACE-123,"Residential, manufactured home",Built in 1973,Heat pump,Heat pump,Carport,0,"$1,129 monthly HOA fee",$73 price/sqft,2.5% buyers agency fee,95000
+Eugene,OR,97401,2802-Elysium-Ave,"Residential, single family residence",Built in 2001,Forced air,Heat pump,3 Attached garage spaces,0,"6,534 sqft",$308 price/sqft,2.5% buyers agency fee,525000
+Eugene,OR,97405,662-W-25th-Pl,"Residential, single family residence",Built in 1960,Ductless,Heat pump,1 Attached garage space,0,"6,098 sqft",$410 price/sqft,3% buyers agency fee,515000
+Eugene,OR,97408,2636-Chad-Dr,"Residential, single family residence",Built in 1980,"Heat pump, fireplace(s)",Heat pump,2 Attached garage spaces,0,"6,534 sqft",$404 price/sqft,2.5% buyers agency fee,499000
+Eugene,OR,97401,1611-Gilham-Rd,"Residential, single family residence",Built in 2006,"Forced air, fireplace(s)",Heat pump,2 Attached garage spaces,0,"6,534 sqft",$287 price/sqft,3% buyers agency fee,685000
+Eugene,OR,97405,3359-Videra-Dr,"Residential, single family residence",Built in 1993,"Forced air, heat pump, fireplace(s)",Heat pump,2 Attached garage spaces,$200 semi-annually HOA fee,"6,534 sqft",$291 price/sqft,2.75% buyers agency fee,549000
+Eugene,OR,97408,2983-Grand-Cayman-Dr,"Residential, single family residence",Built in 1998,"Forced air, other, fireplace(s)",Central air,2 Attached garage spaces,$100 annually HOA fee,"9,583 sqft",$304 price/sqft,2.5% buyers agency fee,919900
+Eugene,OR,97402,1800-Lakewood-Ct-SPACE-123,"Residential, manufactured home",Built in 1973,Heat pump,Heat pump,Carport,0,"$1,129 monthly HOA fee",$73 price/sqft,2.5% buyers agency fee,95000
+Eugene,OR,97401,2802-Elysium-Ave,"Residential, single family residence",Built in 2001,Forced air,Heat pump,3 Attached garage spaces,0,"6,534 sqft",$308 price/sqft,2.5% buyers agency fee,525000
+Eugene,OR,97405,662-W-25th-Pl,"Residential, single family residence",Built in 1960,Ductless,Heat pump,1 Attached garage space,0,"6,098 sqft",$410 price/sqft,3% buyers agency fee,515000
+Eugene,OR,97408,2636-Chad-Dr,"Residential, single family residence",Built in 1980,"Heat pump, fireplace(s)",Heat pump,2 Attached garage spaces,0,"6,534 sqft",$404 price/sqft,2.5% buyers agency fee,499000
+Eugene,OR,97401,1611-Gilham-Rd,"Residential, single family residence",Built in 2006,"Forced air, fireplace(s)",Heat pump,2 Attached garage spaces,0,"6,534 sqft",$287 price/sqft,3% buyers agency fee,685000
+Eugene,OR,97405,3359-Videra-Dr,"Residential, single family residence",Built in 1993,"Forced air, heat pump, fireplace(s)",Heat pump,2 Attached garage spaces,$200 semi-annually HOA fee,"6,534 sqft",$291 price/sqft,2.75% buyers agency fee,549000
+Salem,OR,97306,5623-Hawk-Hill-St-SE,Single family residence,Built in 2010,"Natural gas, forced air",No data,2 Attached garage spaces,0,"6,669 sqft",$247 price/sqft,2.5% buyers agency fee,360000
+Salem,OR,97301,2932-Fredrick-St-NE,Single family residence,Built in 1947,"Electric, heat pump, zoned",No data,No garage,0,"6,969 sqft",$258 price/sqft,2.5% buyers agency fee,416000
+Salem,OR,97302,3850-Shaniko-Way-SE,Single family residence,Built in 1959,Forced air,No data,2 Attached garage spaces,0,"9,760 sqft",$216 price/sqft,2.5% buyers agency fee,350000
+Salem,OR,97304,501-Kingwood-Dr-NW,Single family residence,Built in 1961,Electric,No data,2 Carport spaces,0,"7,236 sqft",$162 price/sqft,2.25% buyers agency fee,399900
+Salem,OR,97305,3056-Hollyridge-Loop-NE,Single family residence,Built in 2004,"Electric, heat pump",No data,2 Attached garage spaces,0,$160 monthly HOA fee,"4,791 sqft",$320 price/sqft,425000
+Salem,OR,97306,2556-Dragonfly-Ct-SE,Single family residence,Built in 2016,"Natural gas, forced air",Central air,2 Attached garage spaces,0,"7,841 sqft",$291 price/sqft,2.5% buyers agency fee,620000
+Salem,OR,97302,691-Salem-Heights-Ave-S,Single family residence,Built in 1954,"Natural gas, forced air",No data,2 Attached garage spaces,0,0.38 Acres,$206 price/sqft,2.25% buyers agency fee,499900
+Salem,OR,97306,5888-Mooseberry-Ct-SE,Single family residence,Built in 2007,"Natural gas, forced air",Central air,3 Attached garage spaces,0,"9,583 sqft",$222 price/sqft,2.5% buyers agency fee,720000
+Salem,OR,97301,760-East-St,Single family residence,Built in 1925,No data,No data,No garage,0,"2,765 sqft",$282 price/sqft,2.5% buyers agency fee,316000
+Salem,OR,97301,1330-Market-St-NE,Single family residence,Built in 1929,Forced air,Central air,No garage,0,"6,534 sqft",$159 price/sqft,2.25% buyers agency fee,295000
+Salem,OR,97304,2777-Islander-Ave-NW,Single family residence,Built in 2005,"Electric, forced air",Central air,2 Attached garage spaces,$175 annually HOA fee,"6,098 sqft",$236 price/sqft,2.5% buyers agency fee,659900
+Salem,OR,97302,3038-13th-St-SE,Single family residence,Built in 1952,Natural gas,No data,1 Carport space,0,"6,316 sqft",$414 price/sqft,3.0% buyers agency fee,295000
+Salem,OR,97302,260-Miller-St-S,Single family residence,Built in 1910,"Natural gas, forced air",No data,1 Garage space,0,"4,500 sqft",$163 price/sqft,1% buyers agency fee,490000
+Salem,OR,97304,791-Rosemont-Ave-NW,Single family residence,Built in 1936,"Natural gas, forced air",No data,1 Carport space,0,"5,091 sqft",$323 price/sqft,2.5% buyers agency fee,230000
+Salem,OR,97304,2326-Margarett-St-NW,Single family residence,Built in 1999,"Natural gas, forced air",Central air,2 Attached garage spaces,0,"5,227 sqft",$267 price/sqft,2.5% buyers agency fee,425000
+Salem,OR,97302,240-Miller-St-S,Single family residence,Built in 1935,"Oil, zoned",No data,2 Garage spaces,0,"5,000 sqft",$309 price/sqft,2% buyers agency fee,424424
+Salem,OR,97304,2831-Cleveland-Ave-NW,Single family residence,Built in 1999,"Natural gas, forced air",Central air,3 Attached garage spaces,$150 annually HOA fee,"7,405 sqft",$265 price/sqft,2.5% buyers agency fee,584900
+Salem,OR,97306,7281-Rainbow-Dr-SE,Single family residence,Built in 1947,No data,No data,4 Garage spaces,0,4.93 Acres,$427 price/sqft,2.5% buyers agency fee,569000
+Salem,OR,97301,1995-Trade-St-SE,Single family residence,Built in 1904,"Natural gas, forced air",No data,No garage,0,"8,712 sqft",$231 price/sqft,2.5% buyers agency fee,430000
+Salem,OR,97306,2244-Tuscana-Ave-S,Single family residence,Built in 2011,"Natural gas, forced air",Central air,2 Attached garage spaces,$50 monthly HOA fee,"6,970 sqft",$303 price/sqft,2% buyers agency fee,579900
+Salem,OR,97302,2010-Church-St-SE,Single family residence,Built in 1920,"Natural gas, forced air",No data,1 Attached garage space,0,"3,049 sqft",$245 price/sqft,2.5% buyers agency fee,399000
+Salem,OR,97305,4444-Indian-Earth-Ave-NE,Single family residence,Built in 1996,Forced air,Central air,2 Attached garage spaces,0,"6,000 sqft",$312 price/sqft,2.5% buyers agency fee,425000
+Salem,OR,97301,1060-15th-St-NE,Single family residence,Built in 1928,"Oil, forced air",No data,1 Garage space,0,"7,800 sqft",$179 price/sqft,2.5% buyers agency fee,285000
+Salem,OR,97306,6076-Belknap-Springs-St-SE,Single family residence,Built in 2021,"Natural gas, forced air",Central air,1 Attached garage space,$170 monthly HOA fee,"2,840 sqft",$254 price/sqft,2.25% buyers agency fee,389000
+Salem,OR,97301,880-Norway-St-NE,Single family residence,Built in 1921,"Natural gas, forced air",No data,1 Garage space,0,"6,098 sqft",$462 price/sqft,2.5% buyers agency fee,400000
+Salem,OR,97302,3550-16th-Ct-S,Single family residence,Built in 1975,Forced air,Central air,2 Attached garage spaces,0,0.31 Acres,$278 price/sqft,2.5% buyers agency fee,525000
+Salem,OR,97302,3860-Shropshire-Way-S,Single family residence,Built in 2001,"Natural gas, forced air",Central air,3 Attached garage spaces,0,5 Acres,$361 price/sqft,2.25% buyers agency fee,1800000
+Salem,OR,97301,1545-Trade-St-SE,Single family residence,Built in 1910,"Natural gas, forced air",Central air,1 Attached garage space,0,"4,356 sqft",$267 price/sqft,2.5% buyers agency fee,389900
+Salem,OR,97302,775-Boxwood-Ln-SE,Single family residence,Built in 1946,Electric,No data,2 Attached garage spaces,0,0.42 Acres,$274 price/sqft,2.5% buyers agency fee,439000
+Salem,OR,97301,368-Burma-Ct-NE,Single family residence,Built in 1997,"Natural gas, electric, forced air",No data,2 Attached garage spaces,0,"5,227 sqft",$287 price/sqft,2.5% buyers agency fee,385000
+Salem,OR,97301,1149-45th-Ave-NE,Single family residence,Built in 1979,"Natural gas, electric, forced air",Central air,2 Attached garage spaces,0,1.09 Acres,$219 price/sqft,2.5% buyers agency fee,575000
+Salem,OR,97304,1790-Fair-Oaks-Way-NW,Single family residence,Built in 1947,"Natural gas, electric, forced air",No data,2 Attached garage spaces,0,0.29 Acres,$202 price/sqft,2.5% buyers agency fee,469800
+Salem,OR,97305,4950-Armstrong-Ave-NE,Single family residence,Built in 2021,Natural gas,Central air,2 Attached garage spaces,0,"4,860 sqft",$237 price/sqft,2% buyers agency fee,460000
+Salem,OR,97302,3235-Sumac-Dr-S,Single family residence,Built in 1964,"Natural gas, forced air",Central air,2 Attached garage spaces,0,0.35 Acres,$240 price/sqft,2.5% buyers agency fee,989000
+Salem,OR,97306,8588-Skyline-Rd-S,Single family residence,Built in 1977,"Electric, heat pump, forced air",Central air,2 Attached garage spaces,0,3 Acres,$331 price/sqft,2.5% buyers agency fee,799000
+Salem,OR,97304,2885-Doaks-Ferry-Rd-NW,Single family residence,Built in 1981,"Natural gas, forced air",Central air,2 Attached garage spaces,0,"8,423 sqft",$266 price/sqft,2.5% buyers agency fee,460000
+Salem,OR,97304,2650-Hoo-Doo-Dr-NW,Single family residence,Built in 1991,Natural gas,Central air,3 Attached garage spaces,0,1.21 Acres,$177 price/sqft,2.00% buyers agency fee,1300000
+Salem,OR,97301,1561-Chemeketa-St-NE,Single family residence,Built in 1910,Natural gas,No data,No garage,0,"6,098 sqft",$288 price/sqft,2.5% buyers agency fee,749000
+Salem,OR,97304,2570-Dalke-Ridge-Dr-NW,Single family residence,Built in 2005,"Natural gas, forced air",Central air,2 Attached garage spaces,0,"6,283 sqft",$236 price/sqft,2.5% buyers agency fee,557500
+Salem,OR,97306,756-Jordan-Elizabeth-St-SE,"Residential, single family residence",Built in 2023,Forced air,Central air,2 Attached garage spaces,0,"6,534 sqft",$341 price/sqft,2.5% buyers agency fee,719900
+Salem,OR,97304,1305-W-Meadows-Dr-NW,Single family residence,Built in 2005,"Natural gas, heat pump, forced air",Central air,3 Attached garage spaces,$15 monthly HOA fee,0.33 Acres,$197 price/sqft,2% buyers agency fee,639900
+Salem,OR,97302,1240-Panorama-Ct-SE,Single family residence,Built in 1980,"Natural gas, forced air",Central air,2 Attached garage spaces,0,0.30 Acres,$268 price/sqft,2.5% buyers agency fee,535000
+Salem,OR,97304,1674-Sunrise-Cres-NW,Single family residence,Built in 1976,Heat pump,Central air,2 Attached garage spaces,"$1,215 annually HOA fee","4,356 sqft",$270 price/sqft,2.5% buyers agency fee,407000
+Salem,OR,97306,5485-Mallard-St-SE,Single family residence,Built in 1997,"Natural gas, forced air",Central air,2 Attached garage spaces,0,"6,970 sqft",$252 price/sqft,2.5% buyers agency fee,485000
+Salem,OR,97304,2710-Harding-Ave-NW,Single family residence,Built in 1999,"Natural gas, heat pump",Central air,2 Attached garage spaces,$150 annually HOA fee,"8,540 sqft",$249 price/sqft,2.5% buyers agency fee,559900
+Salem,OR,97301,1720-23rd-St-NE,Single family residence,Built in 1941,"Natural gas, forced air",No data,1 Carport space,0,"6,517 sqft",$281 price/sqft,2.5% buyers agency fee,384900
+Salem,OR,97306,335-Khartoum-St-SE,Single family residence,Built in 1992,Electric,No data,2 Attached garage spaces,0,"8,276 sqft",$262 price/sqft,2.5% buyers agency fee,468000
+Salem,OR,97302,4520-Redinger-Ct-S,Single family residence,Built in 1973,"Natural gas, forced air",Central air,2 Attached garage spaces,0,"8,276 sqft",$246 price/sqft,2.5% buyers agency fee,514900
+Salem,OR,97306,1154-Thunderbird-Ave-S,Single family residence,Built in 2022,"Natural gas, forced air",Central air,2 Attached garage spaces,0,"7,840 sqft",$200 price/sqft,2.25% buyers agency fee,699900
+Salem,OR,97305,4924-Skylab-Ave-NE,Single family residence,Built in 2020,No data,Central air,2 Attached garage spaces,$15 monthly HOA fee,"4,680 sqft",$251 price/sqft,2.25% buyers agency fee,452900
+Salem,OR,97306,528-Creekside-Dr-SE,Single family residence,Built in 1997,"Natural gas, forced air",Central air,2 Attached garage spaces,$49 monthly HOA fee,"5,200 sqft",$257 price/sqft,2.5% buyers agency fee,619000
+Salem,OR,97302,1822-Skyway-St-S,Single family residence,Built in 1990,"Natural gas, forced air",Central air,2 Attached garage spaces,0,"9,776 sqft",$243 price/sqft,2.25% buyers agency fee,564900
+Salem,OR,97306,756-Jordan-Elizabeth-Ave,Single family residence,Built in 2023,No data,Central air,3 Attached garage spaces,0,"6,699 sqft",$341 price/sqft,2.5% buyers agency fee,719900
+Salem,OR,97306,6695-Devon-Ave-SE,"Residential, single family residence",Built in 2023,Forced air,Central air,2 Attached garage spaces,0,"5,662 sqft",$391 price/sqft,2.5% buyers agency fee,627000
+Salem,OR,97302,1513-Leslie-Wind-Ln-SE,Single family residence,Built in 2023,"Electric, heat pump, zoned",No data,2 Attached garage spaces,$75 monthly HOA fee,"5,200 sqft",$395 price/sqft,2.5% buyers agency fee,729000
+Salem,OR,97306,5933-Ballymeade-St-SE,Single family residence,Built in 2001,"Natural gas, forced air",Central air,3 Attached garage spaces,$49 monthly HOA fee,"6,098 sqft",$228 price/sqft,2.5% buyers agency fee,579000
+Salem,OR,97306,5725-Skyline-Rd-S,Single family residence,Built in 1961,"Electric, heat pump",Central air,2 Attached garage spaces,0,0.90 Acres,$390 price/sqft,2.5% buyers agency fee,499999
+Salem,OR,97306,1950-Kari-Dawn-Ave-SE,Single family residence,Built in 2019,No data,No data,2 Attached garage spaces,0,$138 monthly HOA fee,"2,178 sqft",$261 price/sqft,399900
+Salem,OR,97304,1642-Sunrise-Cres-NW,Single family residence,Built in 1971,"Natural gas, heat pump, forced air",Central air,2 Attached garage spaces,"$1,215 annually HOA fee","5,000 sqft",$340 price/sqft,2.25% buyers agency fee,435000
+Salem,OR,97306,6683-Devon-Ave-SE,"Residential, single family residence",Built in 2023,Forced air,Central air,2 Attached garage spaces,0,"5,662 sqft",$391 price/sqft,2.5% buyers agency fee,639900
+Salem,OR,97306,5862-Verona-St-S,"Residential, single family residence",Built in 2022,Forced air 95 plus,Central air,2 Attached garage spaces,0,"9,147 sqft",$254 price/sqft,2.5% buyers agency fee,669900
+Salem,OR,97306,5692-Mount-Rushmore-St-SE,Single family residence,Built in 2018,"Natural gas, forced air",Central air,2 Attached garage spaces,0,"5,319 sqft",$278 price/sqft,2.5% buyers agency fee,589000
+Salem,OR,97306,5361-Lone-Fir-Ave-SE,Single family residence,Built in 2009,Forced air,Central air,2 Attached garage spaces,0,"4,460 sqft",$230 price/sqft,2.5% buyers agency fee,584900
+Salem,OR,97301,995-Park-Ave-NE,Single family residence,Built in 2022,"Natural gas, forced air",Central air,2 Attached garage spaces,$150 annually HOA fee,"6,285 sqft",$288 price/sqft,2.5% buyers agency fee,479900
+Salem,OR,97301,156-Front-St-NE-UNIT-640,"Residential, condominium",Built in 2011,Forced air,Central air,2 Garage spaces,0,$762 monthly HOA fee,$524 price/sqft,2.5% buyers agency fee,1450000
+Salem,OR,97304,1994-Banyan-Ct-NW,Single family residence,Built in 1979,"Electric, heat pump, forced air",No data,3 Attached garage spaces,"$1,215 annually HOA fee","6,178 sqft",$209 price/sqft,2.5% buyers agency fee,480000
+Salem,OR,97306,514-Evelyn-Valley-St,Single family residence,Built in 2023,"Natural gas, forced air",No data,2 Attached garage spaces,0,"10,698 sqft",$329 price/sqft,2.5% buyers agency fee,499900
+Salem,OR,97305,5181-Gemini-Ave-NE,Single family residence,Built in 2019,Forced air,No data,2 Attached garage spaces,$15 monthly HOA fee,"5,040 sqft",$223 price/sqft,2.5% buyers agency fee,484000
+Salem,OR,97301,424-Lost-Lake-St,Single Family Residence,2023,Forced Air,Central Air,2 Attached Garage spaces,$35 monthly,"3,696 sqft",$236,2.5%,439995
+Salem,OR,97306,530-Evelyn-Valley-St,Single family residence,Built in 2023,"Natural gas, forced air",No data,2 Attached garage spaces,0,"6,209 sqft",$279 price/sqft,2.5% buyers agency fee,529900
+Salem,OR,97302,1625-Corina-Dr-SE,Single family residence,Built in 1957,Forced air,No data,2 Attached garage spaces,0,"8,232 sqft",$203 price/sqft,2.25% buyers agency fee,599900
+Salem,OR,97306,5690-Jeremy-Valley-Dr,Single family residence,Built in 2023,"Natural gas, forced air",No data,2 Attached garage spaces,0,"5,860 sqft",$206 price/sqft,2.5% buyers agency fee,599900
+Salem,OR,97306,5651-Jeremy-Valley-Dr,Single family residence,Built in 2023,"Natural gas, forced air",No data,2 Attached garage spaces,0,"5,546 sqft",$279 price/sqft,2.5% buyers agency fee,539900
+Salem,OR,97302,2126-Audubon-Ave-SE,Single family residence,Built in 2023,Heat pump,No data,1 Attached garage space,$150 monthly HOA fee,"1,200 sqft",$243 price/sqft,2.5% buyers agency fee,362900
+Salem,OR,97306,5623-Hawk-Hill-St-SE,Single family residence,Built in 2010,"Natural gas, forced air",No data,2 Attached garage spaces,0,"6,669 sqft",$247 price/sqft,2.5% buyers agency fee,360000
+Salem,OR,97301,2932-Fredrick-St-NE,Single family residence,Built in 1947,"Electric, heat pump, zoned",No data,No garage,0,"6,969 sqft",$258 price/sqft,2.5% buyers agency fee,416000
+Salem,OR,97302,3850-Shaniko-Way-SE,Single family residence,Built in 1959,Forced air,No data,2 Attached garage spaces,0,"9,760 sqft",$216 price/sqft,2.5% buyers agency fee,350000
+Salem,OR,97304,501-Kingwood-Dr-NW,Single family residence,Built in 1961,Electric,No data,2 Carport spaces,0,"7,236 sqft",$162 price/sqft,2.25% buyers agency fee,399900
+Salem,OR,97305,3056-Hollyridge-Loop-NE,Single family residence,Built in 2004,"Electric, heat pump",No data,2 Attached garage spaces,0,$160 monthly HOA fee,"4,791 sqft",$320 price/sqft,425000
+Salem,OR,97306,2556-Dragonfly-Ct-SE,Single family residence,Built in 2016,"Natural gas, forced air",Central air,2 Attached garage spaces,0,"7,841 sqft",$291 price/sqft,2.5% buyers agency fee,620000
+Salem,OR,97302,691-Salem-Heights-Ave-S,Single family residence,Built in 1954,"Natural gas, forced air",No data,2 Attached garage spaces,0,0.38 Acres,$206 price/sqft,2.25% buyers agency fee,499900
+Salem,OR,97306,5623-Hawk-Hill-St-SE,Single family residence,Built in 2010,"Natural gas, forced air",No data,2 Attached garage spaces,0,"6,669 sqft",$247 price/sqft,2.5% buyers agency fee,360000
+Salem,OR,97301,2932-Fredrick-St-NE,Single family residence,Built in 1947,"Electric, heat pump, zoned",No data,No garage,0,"6,969 sqft",$258 price/sqft,2.5% buyers agency fee,416000
+Salem,OR,97302,3850-Shaniko-Way-SE,Single family residence,Built in 1959,Forced air,No data,2 Attached garage spaces,0,"9,760 sqft",$216 price/sqft,2.5% buyers agency fee,350000
+Salem,OR,97304,501-Kingwood-Dr-NW,Single family residence,Built in 1961,Electric,No data,2 Carport spaces,0,"7,236 sqft",$162 price/sqft,2.25% buyers agency fee,399900
+Salem,OR,97305,3056-Hollyridge-Loop-NE,Single family residence,Built in 2004,"Electric, heat pump",No data,2 Attached garage spaces,0,$160 monthly HOA fee,"4,791 sqft",$320 price/sqft,425000
+Salem,OR,97306,2556-Dragonfly-Ct-SE,Single family residence,Built in 2016,"Natural gas, forced air",Central air,2 Attached garage spaces,0,"7,841 sqft",$291 price/sqft,2.5% buyers agency fee,620000
+Salem,OR,97302,691-Salem-Heights-Ave-S,Single family residence,Built in 1954,"Natural gas, forced air",No data,2 Attached garage spaces,0,0.38 Acres,$206 price/sqft,2.25% buyers agency fee,499900
+Salem,OR,97306,5623-Hawk-Hill-St-SE,Single family residence,Built in 2010,"Natural gas, forced air",No data,2 Attached garage spaces,0,"6,669 sqft",$247 price/sqft,2.5% buyers agency fee,360000
+Salem,OR,97301,2932-Fredrick-St-NE,Single family residence,Built in 1947,"Electric, heat pump, zoned",No data,No garage,0,"6,969 sqft",$258 price/sqft,2.5% buyers agency fee,416000
+Salem,OR,97302,3850-Shaniko-Way-SE,Single family residence,Built in 1959,Forced air,No data,2 Attached garage spaces,0,"9,760 sqft",$216 price/sqft,2.5% buyers agency fee,350000
+Salem,OR,97304,501-Kingwood-Dr-NW,Single family residence,Built in 1961,Electric,No data,2 Carport spaces,0,"7,236 sqft",$162 price/sqft,2.25% buyers agency fee,399900
+Salem,OR,97305,3056-Hollyridge-Loop-NE,Single family residence,Built in 2004,"Electric, heat pump",No data,2 Attached garage spaces,0,$160 monthly HOA fee,"4,791 sqft",$320 price/sqft,425000
+Salem,OR,97306,2556-Dragonfly-Ct-SE,Single family residence,Built in 2016,"Natural gas, forced air",Central air,2 Attached garage spaces,0,"7,841 sqft",$291 price/sqft,2.5% buyers agency fee,620000
+Salem,OR,97302,691-Salem-Heights-Ave-S,Single family residence,Built in 1954,"Natural gas, forced air",No data,2 Attached garage spaces,0,0.38 Acres,$206 price/sqft,2.25% buyers agency fee,499900
+Salem,OR,97306,5623-Hawk-Hill-St-SE,Single family residence,Built in 2010,"Natural gas, forced air",No data,2 Attached garage spaces,0,"6,669 sqft",$247 price/sqft,2.5% buyers agency fee,360000
+Salem,OR,97301,2932-Fredrick-St-NE,Single family residence,Built in 1947,"Electric, heat pump, zoned",No data,No garage,0,"6,969 sqft",$258 price/sqft,2.5% buyers agency fee,416000
+Salem,OR,97302,3850-Shaniko-Way-SE,Single family residence,Built in 1959,Forced air,No data,2 Attached garage spaces,0,"9,760 sqft",$216 price/sqft,2.5% buyers agency fee,350000
+Salem,OR,97304,501-Kingwood-Dr-NW,Single family residence,Built in 1961,Electric,No data,2 Carport spaces,0,"7,236 sqft",$162 price/sqft,2.25% buyers agency fee,399900
+Salem,OR,97305,3056-Hollyridge-Loop-NE,Single family residence,Built in 2004,"Electric, heat pump",No data,2 Attached garage spaces,0,$160 monthly HOA fee,"4,791 sqft",$320 price/sqft,425000
+Salem,OR,97306,2556-Dragonfly-Ct-SE,Single family residence,Built in 2016,"Natural gas, forced air",Central air,2 Attached garage spaces,0,"7,841 sqft",$291 price/sqft,2.5% buyers agency fee,620000
+Salem,OR,97302,691-Salem-Heights-Ave-S,Single family residence,Built in 1954,"Natural gas, forced air",No data,2 Attached garage spaces,0,0.38 Acres,$206 price/sqft,2.25% buyers agency fee,499900
+Salem,OR,97306,5623-Hawk-Hill-St-SE,Single family residence,Built in 2010,"Natural gas, forced air",No data,2 Attached garage spaces,0,"6,669 sqft",$247 price/sqft,2.5% buyers agency fee,360000
+Salem,OR,97301,2932-Fredrick-St-NE,Single family residence,Built in 1947,"Electric, heat pump, zoned",No data,No garage,0,"6,969 sqft",$258 price/sqft,2.5% buyers agency fee,416000
+Salem,OR,97302,3850-Shaniko-Way-SE,Single family residence,Built in 1959,Forced air,No data,2 Attached garage spaces,0,"9,760 sqft",$216 price/sqft,2.5% buyers agency fee,350000
+Salem,OR,97304,501-Kingwood-Dr-NW,Single family residence,Built in 1961,Electric,No data,2 Carport spaces,0,"7,236 sqft",$162 price/sqft,2.25% buyers agency fee,399900
+Salem,OR,97305,3056-Hollyridge-Loop-NE,Single family residence,Built in 2004,"Electric, heat pump",No data,2 Attached garage spaces,0,$160 monthly HOA fee,"4,791 sqft",$320 price/sqft,425000
+Salem,OR,97306,2556-Dragonfly-Ct-SE,Single family residence,Built in 2016,"Natural gas, forced air",Central air,2 Attached garage spaces,0,"7,841 sqft",$291 price/sqft,2.5% buyers agency fee,620000
+Salem,OR,97302,691-Salem-Heights-Ave-S,Single family residence,Built in 1954,"Natural gas, forced air",No data,2 Attached garage spaces,0,0.38 Acres,$206 price/sqft,2.25% buyers agency fee,499900
+Salem,OR,97306,5623-Hawk-Hill-St-SE,Single family residence,Built in 2010,"Natural gas, forced air",No data,2 Attached garage spaces,0,"6,669 sqft",$247 price/sqft,2.5% buyers agency fee,360000
+Salem,OR,97301,2932-Fredrick-St-NE,Single family residence,Built in 1947,"Electric, heat pump, zoned",No data,No garage,0,"6,969 sqft",$258 price/sqft,2.5% buyers agency fee,416000
+Salem,OR,97302,3850-Shaniko-Way-SE,Single family residence,Built in 1959,Forced air,No data,2 Attached garage spaces,0,"9,760 sqft",$216 price/sqft,2.5% buyers agency fee,350000
+Salem,OR,97304,501-Kingwood-Dr-NW,Single family residence,Built in 1961,Electric,No data,2 Carport spaces,0,"7,236 sqft",$162 price/sqft,2.25% buyers agency fee,399900
+Salem,OR,97305,3056-Hollyridge-Loop-NE,Single family residence,Built in 2004,"Electric, heat pump",No data,2 Attached garage spaces,0,$160 monthly HOA fee,"4,791 sqft",$320 price/sqft,425000
+Salem,OR,97306,2556-Dragonfly-Ct-SE,Single family residence,Built in 2016,"Natural gas, forced air",Central air,2 Attached garage spaces,0,"7,841 sqft",$291 price/sqft,2.5% buyers agency fee,620000
+Salem,OR,97302,691-Salem-Heights-Ave-S,Single family residence,Built in 1954,"Natural gas, forced air",No data,2 Attached garage spaces,0,0.38 Acres,$206 price/sqft,2.25% buyers agency fee,499900
+Salem,OR,97306,5623-Hawk-Hill-St-SE,Single family residence,Built in 2010,"Natural gas, forced air",No data,2 Attached garage spaces,0,"6,669 sqft",$247 price/sqft,2.5% buyers agency fee,360000
+Salem,OR,97301,2932-Fredrick-St-NE,Single family residence,Built in 1947,"Electric, heat pump, zoned",No data,No garage,0,"6,969 sqft",$258 price/sqft,2.5% buyers agency fee,416000
+Salem,OR,97302,3850-Shaniko-Way-SE,Single family residence,Built in 1959,Forced air,No data,2 Attached garage spaces,0,"9,760 sqft",$216 price/sqft,2.5% buyers agency fee,350000
+Salem,OR,97304,501-Kingwood-Dr-NW,Single family residence,Built in 1961,Electric,No data,2 Carport spaces,0,"7,236 sqft",$162 price/sqft,2.25% buyers agency fee,399900
+Salem,OR,97305,3056-Hollyridge-Loop-NE,Single family residence,Built in 2004,"Electric, heat pump",No data,2 Attached garage spaces,0,$160 monthly HOA fee,"4,791 sqft",$320 price/sqft,425000
+Salem,OR,97306,2556-Dragonfly-Ct-SE,Single family residence,Built in 2016,"Natural gas, forced air",Central air,2 Attached garage spaces,0,"7,841 sqft",$291 price/sqft,2.5% buyers agency fee,620000
+Salem,OR,97302,691-Salem-Heights-Ave-S,Single family residence,Built in 1954,"Natural gas, forced air",No data,2 Attached garage spaces,0,0.38 Acres,$206 price/sqft,2.25% buyers agency fee,499900
+Corvallis,OR,97333,4010-SW-West-Hills-Rd,Single family residence,Built in 1917,"Natural gas, forced air",No data,1 Carport space,0,0.61 Acres,$340 price/sqft,3% buyers agency fee,750000
+Corvallis,OR,97330,536-NW-30th-St,Single family residence,Built in 1940,"Natural gas, forced air",No data,No garage,0,"2,613 sqft",$516 price/sqft,3% buyers agency fee,349000
+Corvallis,OR,97330,3700-NW-Marshall-Dr,Single family residence,Built in 1974,"Heat pump, forced air",No data,2 Attached garage spaces,0,5 Acres,$316 price/sqft,2.25% buyers agency fee,950000
+Corvallis,OR,97333,1330-SW-Maple-Tree-Ct,Condominium,Built in 1981,"Electric, forced air",No data,1 Carport space,0,$205 monthly HOA fee,$335 price/sqft,2.5% buyers agency fee,380000
+Corvallis,OR,97330,3950-NE-Highway-20,Single family residence,Built in 1924,"Electric, forced air",Central air,2 Garage spaces,0,2.11 Acres,$377 price/sqft,2.5% buyers agency fee,649000
+Corvallis,OR,97333,4840-Nash-St,Single family residence,Built in 1953,"Natural gas, wood, stove, forced air",No data,1 Attached garage space,0,6 Acres,$595 price/sqft,2.5% buyers agency fee,709999
+Corvallis,OR,97330,6241-NE-William-R-Carr-St,Single family residence,Built in 2020,"Electric, heat pump, zoned",No data,Attached garage,0,"2,178 sqft",$280 price/sqft,2.5% buyers agency fee,350000
+Corvallis,OR,97330,2869-NW-Daylily-Ave,Single family residence,Built in 2002,"Natural gas, forced air",Central air,2 Attached garage spaces,$190 monthly HOA fee,"2,178 sqft",$270 price/sqft,2.5% buyers agency fee,430000
+Corvallis,OR,97330,7175-NW-Lathrop-Ln,Single family residence,Built in 2016,"Natural gas, radiant ceiling, forced air",Central air,3 Attached garage spaces,0,1.73 Acres,$350 price/sqft,2.5% buyers agency fee,1825000
+Corvallis,OR,97330,965-NW-Wild-Rose-Dr,Single family residence,Built in 1990,No data,Central air,2 Attached garage spaces,0,1.24 Acres,$319 price/sqft,2.70% buyers agency fee,958500
+Corvallis,OR,97330,2875-NW-13th-St,Single family residence,Built in 2006,"Natural gas, forced air",Central air,2 Attached garage spaces,0,"8,712 sqft",$259 price/sqft,2.25% buyers agency fee,715700
+Corvallis,OR,97333,29418-Highway-34,Single family residence,Built in 1935,Natural gas,No data,2 Garage spaces,0,30.50 Acres,$553 price/sqft,2.5% buyers agency fee,1350000
+Corvallis,OR,97330,621-NW-Harman-Ln,Single family residence,Built in 1967,"Natural gas, forced air, zoned",Central air,2 Attached garage spaces,0,3.40 Acres,$470 price/sqft,2.5% buyers agency fee,1200000
+Corvallis,OR,97333,4906-SW-Hollyhock-Cir,Single family residence,Built in 2005,"Heat pump, forced air",Central air,2 Attached garage spaces,$167 monthly HOA fee,"4,356 sqft",$243 price/sqft,2.5% buyers agency fee,598000
+Corvallis,OR,97333,4010-SW-West-Hills-Rd,Single family residence,Built in 1917,"Natural gas, forced air",No data,1 Carport space,0,0.61 Acres,$340 price/sqft,3% buyers agency fee,750000
+Corvallis,OR,97330,536-NW-30th-St,Single family residence,Built in 1940,"Natural gas, forced air",No data,No garage,0,"2,613 sqft",$516 price/sqft,3% buyers agency fee,349000
+Corvallis,OR,97330,3700-NW-Marshall-Dr,Single family residence,Built in 1974,"Heat pump, forced air",No data,2 Attached garage spaces,0,5 Acres,$316 price/sqft,2.25% buyers agency fee,950000
+Corvallis,OR,97333,1330-SW-Maple-Tree-Ct,Condominium,Built in 1981,"Electric, forced air",No data,1 Carport space,0,$205 monthly HOA fee,$335 price/sqft,2.5% buyers agency fee,380000
+Corvallis,OR,97333,4010-SW-West-Hills-Rd,Single family residence,Built in 1917,"Natural gas, forced air",No data,1 Carport space,0,0.61 Acres,$340 price/sqft,3% buyers agency fee,750000
+Corvallis,OR,97330,536-NW-30th-St,Single family residence,Built in 1940,"Natural gas, forced air",No data,No garage,0,"2,613 sqft",$516 price/sqft,3% buyers agency fee,349000
+Corvallis,OR,97330,3700-NW-Marshall-Dr,Single family residence,Built in 1974,"Heat pump, forced air",No data,2 Attached garage spaces,0,5 Acres,$316 price/sqft,2.25% buyers agency fee,950000
+Corvallis,OR,97333,1330-SW-Maple-Tree-Ct,Condominium,Built in 1981,"Electric, forced air",No data,1 Carport space,0,$205 monthly HOA fee,$335 price/sqft,2.5% buyers agency fee,380000
+Corvallis,OR,97333,4010-SW-West-Hills-Rd,Single family residence,Built in 1917,"Natural gas, forced air",No data,1 Carport space,0,0.61 Acres,$340 price/sqft,3% buyers agency fee,750000
+Corvallis,OR,97330,536-NW-30th-St,Single family residence,Built in 1940,"Natural gas, forced air",No data,No garage,0,"2,613 sqft",$516 price/sqft,3% buyers agency fee,349000
+Corvallis,OR,97330,3700-NW-Marshall-Dr,Single family residence,Built in 1974,"Heat pump, forced air",No data,2 Attached garage spaces,0,5 Acres,$316 price/sqft,2.25% buyers agency fee,950000
+Corvallis,OR,97333,1330-SW-Maple-Tree-Ct,Condominium,Built in 1981,"Electric, forced air",No data,1 Carport space,0,$205 monthly HOA fee,$335 price/sqft,2.5% buyers agency fee,380000
+Corvallis,OR,97333,4010-SW-West-Hills-Rd,Single family residence,Built in 1917,"Natural gas, forced air",No data,1 Carport space,0,0.61 Acres,$340 price/sqft,3% buyers agency fee,750000
+Corvallis,OR,97330,536-NW-30th-St,Single family residence,Built in 1940,"Natural gas, forced air",No data,No garage,0,"2,613 sqft",$516 price/sqft,3% buyers agency fee,349000
+Corvallis,OR,97330,3700-NW-Marshall-Dr,Single family residence,Built in 1974,"Heat pump, forced air",No data,2 Attached garage spaces,0,5 Acres,$316 price/sqft,2.25% buyers agency fee,950000
+Corvallis,OR,97333,1330-SW-Maple-Tree-Ct,Condominium,Built in 1981,"Electric, forced air",No data,1 Carport space,0,$205 monthly HOA fee,$335 price/sqft,2.5% buyers agency fee,380000
+Corvallis,OR,97333,4010-SW-West-Hills-Rd,Single family residence,Built in 1917,"Natural gas, forced air",No data,1 Carport space,0,0.61 Acres,$340 price/sqft,3% buyers agency fee,750000
+Corvallis,OR,97330,536-NW-30th-St,Single family residence,Built in 1940,"Natural gas, forced air",No data,No garage,0,"2,613 sqft",$516 price/sqft,3% buyers agency fee,349000
+Corvallis,OR,97330,3700-NW-Marshall-Dr,Single family residence,Built in 1974,"Heat pump, forced air",No data,2 Attached garage spaces,0,5 Acres,$316 price/sqft,2.25% buyers agency fee,950000
+Corvallis,OR,97333,1330-SW-Maple-Tree-Ct,Condominium,Built in 1981,"Electric, forced air",No data,1 Carport space,0,$205 monthly HOA fee,$335 price/sqft,2.5% buyers agency fee,380000
+Corvallis,OR,97333,4010-SW-West-Hills-Rd,Single family residence,Built in 1917,"Natural gas, forced air",No data,1 Carport space,0,0.61 Acres,$340 price/sqft,3% buyers agency fee,750000
+Corvallis,OR,97330,536-NW-30th-St,Single family residence,Built in 1940,"Natural gas, forced air",No data,No garage,0,"2,613 sqft",$516 price/sqft,3% buyers agency fee,349000
+Corvallis,OR,97330,3700-NW-Marshall-Dr,Single family residence,Built in 1974,"Heat pump, forced air",No data,2 Attached garage spaces,0,5 Acres,$316 price/sqft,2.25% buyers agency fee,950000
+Corvallis,OR,97333,1330-SW-Maple-Tree-Ct,Condominium,Built in 1981,"Electric, forced air",No data,1 Carport space,0,$205 monthly HOA fee,$335 price/sqft,2.5% buyers agency fee,380000
+Corvallis,OR,97333,4010-SW-West-Hills-Rd,Single family residence,Built in 1917,"Natural gas, forced air",No data,1 Carport space,0,0.61 Acres,$340 price/sqft,3% buyers agency fee,750000
+Corvallis,OR,97330,536-NW-30th-St,Single family residence,Built in 1940,"Natural gas, forced air",No data,No garage,0,"2,613 sqft",$516 price/sqft,3% buyers agency fee,349000
+Corvallis,OR,97330,3700-NW-Marshall-Dr,Single family residence,Built in 1974,"Heat pump, forced air",No data,2 Attached garage spaces,0,5 Acres,$316 price/sqft,2.25% buyers agency fee,950000
+Corvallis,OR,97333,1330-SW-Maple-Tree-Ct,Condominium,Built in 1981,"Electric, forced air",No data,1 Carport space,0,$205 monthly HOA fee,$335 price/sqft,2.5% buyers agency fee,380000
+Corvallis,OR,97333,4010-SW-West-Hills-Rd,Single family residence,Built in 1917,"Natural gas, forced air",No data,1 Carport space,0,0.61 Acres,$340 price/sqft,3% buyers agency fee,750000
+Corvallis,OR,97330,536-NW-30th-St,Single family residence,Built in 1940,"Natural gas, forced air",No data,No garage,0,"2,613 sqft",$516 price/sqft,3% buyers agency fee,349000
+Corvallis,OR,97330,3700-NW-Marshall-Dr,Single family residence,Built in 1974,"Heat pump, forced air",No data,2 Attached garage spaces,0,5 Acres,$316 price/sqft,2.25% buyers agency fee,950000
+Corvallis,OR,97333,1330-SW-Maple-Tree-Ct,Condominium,Built in 1981,"Electric, forced air",No data,1 Carport space,0,$205 monthly HOA fee,$335 price/sqft,2.5% buyers agency fee,380000
+Corvallis,OR,97333,4010-SW-West-Hills-Rd,Single family residence,Built in 1917,"Natural gas, forced air",No data,1 Carport space,0,0.61 Acres,$340 price/sqft,3% buyers agency fee,750000
+Corvallis,OR,97330,536-NW-30th-St,Single family residence,Built in 1940,"Natural gas, forced air",No data,No garage,0,"2,613 sqft",$516 price/sqft,3% buyers agency fee,349000
+Corvallis,OR,97330,3700-NW-Marshall-Dr,Single family residence,Built in 1974,"Heat pump, forced air",No data,2 Attached garage spaces,0,5 Acres,$316 price/sqft,2.25% buyers agency fee,950000
+Corvallis,OR,97333,1330-SW-Maple-Tree-Ct,Condominium,Built in 1981,"Electric, forced air",No data,1 Carport space,0,$205 monthly HOA fee,$335 price/sqft,2.5% buyers agency fee,380000
+Corvallis,OR,97333,4010-SW-West-Hills-Rd,Single family residence,Built in 1917,"Natural gas, forced air",No data,1 Carport space,0,0.61 Acres,$340 price/sqft,3% buyers agency fee,750000
+Corvallis,OR,97330,536-NW-30th-St,Single family residence,Built in 1940,"Natural gas, forced air",No data,No garage,0,"2,613 sqft",$516 price/sqft,3% buyers agency fee,349000
+Corvallis,OR,97330,3700-NW-Marshall-Dr,Single family residence,Built in 1974,"Heat pump, forced air",No data,2 Attached garage spaces,0,5 Acres,$316 price/sqft,2.25% buyers agency fee,950000
+Corvallis,OR,97333,1330-SW-Maple-Tree-Ct,Condominium,Built in 1981,"Electric, forced air",No data,1 Carport space,0,$205 monthly HOA fee,$335 price/sqft,2.5% buyers agency fee,380000
+Corvallis,OR,97333,4010-SW-West-Hills-Rd,Single family residence,Built in 1917,"Natural gas, forced air",No data,1 Carport space,0,0.61 Acres,$340 price/sqft,3% buyers agency fee,750000
+Corvallis,OR,97330,536-NW-30th-St,Single family residence,Built in 1940,"Natural gas, forced air",No data,No garage,0,"2,613 sqft",$516 price/sqft,3% buyers agency fee,349000
+Corvallis,OR,97330,3700-NW-Marshall-Dr,Single family residence,Built in 1974,"Heat pump, forced air",No data,2 Attached garage spaces,0,5 Acres,$316 price/sqft,2.25% buyers agency fee,950000
+Corvallis,OR,97333,1330-SW-Maple-Tree-Ct,Condominium,Built in 1981,"Electric, forced air",No data,1 Carport space,0,$205 monthly HOA fee,$335 price/sqft,2.5% buyers agency fee,380000
+Corvallis,OR,97333,4010-SW-West-Hills-Rd,Single family residence,Built in 1917,"Natural gas, forced air",No data,1 Carport space,0,0.61 Acres,$340 price/sqft,3% buyers agency fee,750000
+Corvallis,OR,97330,536-NW-30th-St,Single family residence,Built in 1940,"Natural gas, forced air",No data,No garage,0,"2,613 sqft",$516 price/sqft,3% buyers agency fee,349000
+Corvallis,OR,97330,3700-NW-Marshall-Dr,Single family residence,Built in 1974,"Heat pump, forced air",No data,2 Attached garage spaces,0,5 Acres,$316 price/sqft,2.25% buyers agency fee,950000
+Corvallis,OR,97333,1330-SW-Maple-Tree-Ct,Condominium,Built in 1981,"Electric, forced air",No data,1 Carport space,0,$205 monthly HOA fee,$335 price/sqft,2.5% buyers agency fee,380000
+Corvallis,OR,97333,4010-SW-West-Hills-Rd,Single family residence,Built in 1917,"Natural gas, forced air",No data,1 Carport space,0,0.61 Acres,$340 price/sqft,3% buyers agency fee,750000
+Corvallis,OR,97330,536-NW-30th-St,Single family residence,Built in 1940,"Natural gas, forced air",No data,No garage,0,"2,613 sqft",$516 price/sqft,3% buyers agency fee,349000
+Corvallis,OR,97330,3700-NW-Marshall-Dr,Single family residence,Built in 1974,"Heat pump, forced air",No data,2 Attached garage spaces,0,5 Acres,$316 price/sqft,2.25% buyers agency fee,950000
+Corvallis,OR,97333,1330-SW-Maple-Tree-Ct,Condominium,Built in 1981,"Electric, forced air",No data,1 Carport space,0,$205 monthly HOA fee,$335 price/sqft,2.5% buyers agency fee,380000
+Corvallis,OR,97333,4010-SW-West-Hills-Rd,Single family residence,Built in 1917,"Natural gas, forced air",No data,1 Carport space,0,0.61 Acres,$340 price/sqft,3% buyers agency fee,750000
+Corvallis,OR,97330,536-NW-30th-St,Single family residence,Built in 1940,"Natural gas, forced air",No data,No garage,0,"2,613 sqft",$516 price/sqft,3% buyers agency fee,349000
+Corvallis,OR,97330,3700-NW-Marshall-Dr,Single family residence,Built in 1974,"Heat pump, forced air",No data,2 Attached garage spaces,0,5 Acres,$316 price/sqft,2.25% buyers agency fee,950000
+Corvallis,OR,97333,1330-SW-Maple-Tree-Ct,Condominium,Built in 1981,"Electric, forced air",No data,1 Carport space,0,$205 monthly HOA fee,$335 price/sqft,2.5% buyers agency fee,380000
+Corvallis,OR,97333,4010-SW-West-Hills-Rd,Single family residence,Built in 1917,"Natural gas, forced air",No data,1 Carport space,0,0.61 Acres,$340 price/sqft,3% buyers agency fee,750000
+Corvallis,OR,97330,536-NW-30th-St,Single family residence,Built in 1940,"Natural gas, forced air",No data,No garage,0,"2,613 sqft",$516 price/sqft,3% buyers agency fee,349000
+Corvallis,OR,97330,3700-NW-Marshall-Dr,Single family residence,Built in 1974,"Heat pump, forced air",No data,2 Attached garage spaces,0,5 Acres,$316 price/sqft,2.25% buyers agency fee,950000
+Corvallis,OR,97333,1330-SW-Maple-Tree-Ct,Condominium,Built in 1981,"Electric, forced air",No data,1 Carport space,0,$205 monthly HOA fee,$335 price/sqft,2.5% buyers agency fee,380000
