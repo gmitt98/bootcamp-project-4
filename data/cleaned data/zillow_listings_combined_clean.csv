@@ -1,319 +1,988 @@
 city,state,zip,year built,cooling type,garage type,sqft,price per sqft,buyers fee,listing price,housing category,HOA yearly
-Portland,OR,97233,1983,Central air,2 Attached garage spaces,7840.0,340,2.5 ,402500,single family,0.0
-Portland,OR,97225,1964,Central air,2 Attached garage spaces,,312,2.5 ,695000,single family,0.0
-Portland,OR,97215,1913,Window unit(s),1 Garage space,3920.0,358,2.5 ,575000,single family,0.0
-Portland,OR,97229,1957,Central air,2 Garage spaces,,312,2.5 ,1000000,single family,0.0
-Portland,OR,97218,1928,Heat pump,Open parking,4791.0,280,2.5 ,295000,single family,0.0
-Portland,OR,97219,1957,Central air,2 Attached garage spaces,8712.0,405,2.5 ,699000,single family,0.0
-Portland,OR,97215,1927,No data,1 Attached garage space,,337,2.25 ,750000,single family,0.0
-Portland,OR,97212,1939,Central air,2 Garage spaces,5227.0,315,2.5 ,950000,single family,0.0
-Portland,OR,97203,1906,No data,Open parking,5227.0,255,2 ,599900,single family,0.0
-Portland,OR,97211,2000,Central air,2 Attached garage spaces,8276.0,287,2.5 ,450000,single family,0.0
-Portland,OR,97229,1969,Central air,2 Attached garage spaces,,381,2.5 ,800000,single family,0.0
-Portland,OR,97202,1920,,Open parking,5227.0,271,2.5 ,700000,single family,0.0
-Portland,OR,97202,1955,Central air,2 Attached garage spaces,,504,2.5 ,1295000,single family,0.0
-Portland,OR,97229,1994,Central air,2 Attached garage spaces,7405.0,324,2.5 ,700000,single family,0.0
-Portland,OR,97213,1920,No data,1 Garage space,5227.0,342,2.5 ,625000,single family,0.0
-Portland,OR,97217,2002,No data,2 Garage spaces,,335,2.5 ,365000,single family,5280.0
-Portland,OR,97229,1998,Central air,3 Attached garage spaces,10454.0,311,2.5 ,1050000,single family,744.0
-Portland,OR,97219,1951,Central air,2 Attached garage spaces,,591,2.25 ,1498000,single family,0.0
-Portland,OR,97206,1913,No data,1 Garage space,3920.0,230,2.5 ,397500,single family,0.0
-Portland,OR,97212,1927,Central air,1 Garage space,4356.0,371,2.5 ,1190000,single family,0.0
-Portland,OR,97217,1960,Heat pump,Off street,2263.0,146,2.5 ,299000,single family,0.0
-Portland,OR,97219,1929,No data,1 Garage space,5227.0,224,2.25 ,475000,single family,0.0
-Portland,OR,97202,1923,Central air,Open parking,5227.0,391,2.5 ,785000,single family,0.0
-Portland,OR,97203,1904,Central air,Open parking,4791.0,280,2.5 ,799900,single family,0.0
-Portland,OR,97266,1979,,2 Attached garage spaces,5227.0,318,2.25 ,399993,single family,0.0
-Portland,OR,97213,1976,Central air,2 Attached garage spaces,5227.0,328,2.5 ,399900,single family,0.0
-Portland,OR,97217,1991,No data,Off street,1800.0,208,2.5 ,259000,single family,11700.0
-Portland,OR,97211,2022,Central air,Open parking,,406,2.5 ,525000,single family,576.0
-Portland,OR,97205,2006,Heat pump,1 Attached garage space,,415,2.5 ,650000,condominium,0.0
-Portland,OR,97229,1995,Central air,1 Garage space,1742.0,430,2.25 ,555000,single family,5748.0
-Portland,OR,97229,1995,Central air,2 Attached garage spaces,2178.0,368,2.5 ,560000,townhouse,6894.0
-Portland,OR,97209,2007,Central air,1 Attached garage space,,410,2.5 ,650000,condominium,0.0
-Portland,OR,97266,1955,Central air,1 Attached garage space,7840.0,310,2.5 ,434950,single family,0.0
-Portland,OR,97201,1909,Wall unit(s),1 Garage space,5227.0,206,2.5 ,500000,single family,0.0
-Portland,OR,97203,1985,Heat pump,2 Attached garage spaces,6534.0,394,2.5 ,489000,single family,0.0
-Portland,OR,97209,1908,Central air,1 Garage space,2178.0,613,2.5 ,1225000,townhouse,0.0
-Portland,OR,97206,1930,No data,1 Garage space,4791.0,311,2.5 ,719000,single family,0.0
-Portland,OR,97201,1917,,2 Garage spaces,,432,2.5 ,720000,condominium,0.0
-Portland,OR,97203,2007,No data,No data,2613.0,257,2.5 ,369900,single family,1404.0
-Portland,OR,97201,1957,Central air,2 Garage spaces,,311,2.5 ,1050000,single family,0.0
-Portland,OR,97225,2006,Central air,2 Attached garage spaces,1306.0,335,2.5 ,710000,townhouse,4704.0
-Portland,OR,97210,1904,Central air,Open parking,6534.0,336,2.5 ,1989000,single family,0.0
-Portland,OR,97236,1949,,Open parking,,325,2.5 ,320000,single family,0.0
-Portland,OR,97206,1952,,1 Garage space,7405.0,215,2.5 ,395000,single family,0.0
-Portland,OR,97203,2010,Heat pump,1 Garage space,3920.0,282,2.5 ,675000,single family,0.0
-Portland,OR,97229,1999,Central air,2 Attached garage spaces,6098.0,461,2.5 ,847000,single family,0.0
-Portland,OR,97206,2012,Heat pump,Open parking,,612,2.5 ,205000,condominium,0.0
-Portland,OR,97211,1999,No data,2 Attached garage spaces,3920.0,353,2.5 ,450000,single family,0.0
-Portland,OR,97217,2021,Energy star qualified equipment,"Deeded, off street",,330,2.5 ,264000,single family,10092.0
-Portland,OR,97203,2004,Heat pump,Off street,3920.0,397,2.25 ,375000,single family,0.0
-Portland,OR,97217,1993,No data,Secured,,236,2.5 ,199900,single family,18456.0
-Portland,OR,97230,1969,,Open parking,2613.0,258,2.25 ,265000,single family,0.0
-Portland,OR,97236,2007,No data,Carport,,246,2 ,199900,condominium,0.0
-Portland,OR,97217,1927,Heat pump,1 Garage space,3484.0,284,2.25 ,489900,single family,0.0
-Portland,OR,97205,2006,Central air,2 Attached garage spaces,,443,2.25 ,949000,condominium,0.0
-Portland,OR,97201,1991,Central air,2 Garage spaces,,501,2.25 ,1600000,single family,0.0
-Portland,OR,97220,1941,Central air,2 Attached garage spaces,,233,2.5 ,695000,single family,0.0
-Portland,OR,97231,1924,No data,2 Garage spaces,,218,2.5 ,575000,single family,0.0
-Portland,OR,97229,1973,Central air,2 Garage spaces,,333,2.5 ,1200000,single family,0.0
-Portland,OR,97205,1917,Central air,Off street,6534.0,281,2 ,1750000,single family,0.0
-Portland,OR,97239,1928,Central air,Open parking,,159,2.5 ,795000,single family,0.0
-Portland,OR,97214,1943,Central air,1 Garage space,6098.0,215,2.5 ,639000,single family,0.0
-Portland,OR,97219,1974,Wall unit(s),2 Garage spaces,,292,2.5 ,405000,condominium,7740.0
-Portland,OR,97203,2004,,No data,,298,2.5 ,280000,condominium,0.0
-Portland,OR,97203,1980,Wall unit(s),1 Garage space,8276.0,251,2.5 ,575000,single family,0.0
-Portland,OR,97219,1942,Central air,1 Attached garage space,5227.0,282,2.5 ,683500,single family,0.0
-Portland,OR,97217,2018,Heat pump,Open parking,,383,2.5 ,350000,condominium,0.0
-Portland,OR,97236,1946,No data,Open parking,7840.0,114,2.25 ,399985,single family,0.0
-Portland,OR,97202,1915,No data,2 Garage spaces,4791.0,288,2.25 ,550000,single family,0.0
-Portland,OR,97211,2023,Heat pump,No data,,403,2.5 ,329900,condominium,0.0
-Portland,OR,97210,1905,,Open parking,,343,2.5 ,365000,condominium,0.0
-Portland,OR,97239,1948,,1 Garage space,5227.0,397,2.25 ,515000,single family,0.0
-Portland,OR,97211,1948,Central air,1 Attached garage space,7405.0,290,2.5 ,640000,single family,0.0
-Portland,OR,97203,1944,Central air,Open parking,5662.0,289,2.5 ,592500,single family,0.0
-Portland,OR,97209,2001,Central air,1 Attached garage space,,403,2.5 ,310000,condominium,0.0
-Portland,OR,97229,1979,,Off street,,323,2.5 ,192500,condominium,0.0
-Portland,OR,97229,1992,Other,Deeded,,439,2.5 ,275000,condominium,0.0
-Portland,OR,97227,2000,No data,Open parking,,325,2.5 ,345000,condominium,3516.0
-Portland,OR,97209,2006,Central air,1 Attached garage space,,499,2.5 ,625000,condominium,0.0
-Portland,OR,97231,1994,"Central air, energy star qualified equipment",Carport,,402,2.5 ,759900,single family,0.0
-Portland,OR,97206,2023,Heat exchanger,Open parking,,592,2.5 ,380000,condominium,0.0
-Portland,OR,97266,1911,,Carport,3920.0,362,2.5 ,249000,single family,0.0
-Portland,OR,97213,2019,Central air,1 Attached garage space,2613.0,261,2.5 ,559900,single family,0.0
-Portland,OR,97202,1922,,1 Garage space,5227.0,336,2.25 ,768000,single family,0.0
-Portland,OR,97219,1943,,Open parking,,476,2.5 ,655000,single family,0.0
-Portland,OR,97202,1921,Central air,1 Garage space,4791.0,412,2.25 ,775000,single family,0.0
-Portland,OR,97227,1888,,Open parking,6098.0,299,2.5 ,650000,single family,0.0
-Portland,OR,97212,2014,No data,Open parking,,298,2.5 ,499999,condominium,0.0
-Portland,OR,97217,1912,No data,1 Garage space,3920.0,280,2.25 ,399500,single family,0.0
-Portland,OR,97217,1940,No data,1 Garage space,,37,3 ,49000,single family,0.0
-Portland,OR,97266,1910,No data,2 Garage spaces,5227.0,158,2.5 ,285000,single family,0.0
-Portland,OR,97206,1954,,Open parking,5227.0,351,2.25 ,359950,single family,0.0
-Portland,OR,97230,1952,Central air,Open parking,7840.0,229,2.5 ,525000,single family,0.0
-Portland,OR,97210,1925,No data,2 Attached garage spaces,6969.0,420,2.5 ,1299999,single family,0.0
-Portland,OR,97215,1922,No data,1 Garage space,4791.0,310,2.25 ,665000,single family,0.0
-Portland,OR,97209,1982,Central air,Deeded,,340,2.5 ,249800,condominium,0.0
-Portland,OR,97209,2001,Heat pump,Open parking,,321,2.5 ,234500,condominium,0.0
-Portland,OR,97266,1910,,2 Garage spaces,4356.0,196,2.25 ,335000,single family,0.0
-Portland,OR,97212,1924,No data,1 Garage space,3920.0,278,2.5 ,699000,single family,0.0
-Portland,OR,97215,1941,Central air,1 Garage space,5227.0,422,2.5 ,1250000,single family,0.0
-Portland,OR,97206,1907,Central air,1 Garage space,6098.0,194,2.5 ,384900,single family,0.0
-Portland,OR,97225,1977,Heat pump,Carport,,314,2.25 ,255000,condominium,0.0
-Portland,OR,97206,2023,Heat pump,Open parking,,352,2.7 ,369500,condominium,0.0
-Portland,OR,97212,1911,Central air,1 Attached garage space,2613.0,333,2.5 ,775000,single family,0.0
-Portland,OR,97229,1991,Central air,3 Attached garage spaces,,668,2.5 ,4200000,single family,0.0
-Portland,OR,97203,1909,No data,Open parking,7405.0,246,2.25 ,569989,single family,0.0
-Portland,OR,97232,1909,Central air,1 Garage space,,543,2.25 ,459000,single family,0.0
-Portland,OR,97266,1986,No data,2 Attached garage spaces,4791.0,349,2.25 ,399000,single family,0.0
-Portland,OR,97215,1880,Central air,1 Garage space,7405.0,272,2.5 ,925000,single family,0.0
-Portland,OR,97206,1959,Central air,1 Garage space,3920.0,418,2.5 ,399000,single family,0.0
-Portland,OR,97233,1956,No data,Carport,6969.0,233,2.25 ,399990,single family,0.0
-Portland,OR,97203,1896,Central air,Open parking,4791.0,330,2.5 ,559000,single family,0.0
-Portland,OR,97214,1912,No data,Open parking,4791.0,244,2.5 ,799900,single family,0.0
-Portland,OR,97203,1924,No data,2 Garage spaces,6534.0,353,2.25 ,450000,single family,0.0
-Portland,OR,97212,1910,Central air,1 Attached garage space,5227.0,446,2.5 ,1795000,single family,0.0
-Portland,OR,97221,1972,Wall unit(s),2 Attached garage spaces,7405.0,381,2.5 ,495000,single family,0.0
-Portland,OR,97232,1927,,Open parking,,391,2.5 ,243000,condominium,0.0
-Portland,OR,97203,1952,Window unit(s),1 Attached garage space,,359,2.25 ,499000,single family,0.0
-Portland,OR,97266,1952,No data,Open parking,7405.0,224,2.25 ,638000,single family,0.0
-Portland,OR,97213,2023,Heat pump,No data,,405,2.5 ,329900,condominium,480.0
-Portland,OR,97201,1985,Central air,1 Attached garage space,,456,2.25 ,729500,single family,0.0
-Portland,OR,97206,2023,Heat pump,No data,,372,2.5 ,329900,condominium,384.0
-Portland,OR,97203,1924,No data,2 Garage spaces,5662.0,208,2.5 ,599000,single family,0.0
-Portland,OR,97203,1932,Central air,1 Garage space,5227.0,289,2 ,499000,single family,0.0
-Portland,OR,97212,1928,Central air,1 Garage space,5227.0,273,2.5 ,849000,single family,0.0
-Portland,OR,97211,1922,Central air,Open parking,8276.0,212,2.5 ,495000,single family,0.0
-Portland,OR,97217,1983,Central air,1 Garage space,,326,2.5 ,360000,condominium,0.0
-Portland,OR,97217,1961,Window unit(s),"Off street, secured",2580.0,225,2.5 ,395000,single family,4200.0
-Portland,OR,97219,1962,Window unit(s),Carport,,270,2.25 ,349000,condominium,0.0
-Portland,OR,97202,1952,Central air,2 Attached garage spaces,,153,2.25 ,639900,single family,0.0
-Portland,OR,97213,1940,Central air,Open parking,6098.0,334,2.5 ,875000,single family,0.0
-Portland,OR,97209,1907,No data,Open parking,,384,2.25 ,359100,condominium,0.0
-Portland,OR,97214,2005,,1 Attached garage space,,374,2.5 ,510000,condominium,0.0
-Portland,OR,97212,1890,No data,No data,4791.0,216,2.25 ,499500,single family,0.0
-Portland,OR,97202,1931,Central air,2 Garage spaces,7840.0,437,2 ,1599900,single family,0.0
-Portland,OR,97212,1911,Central air,Open parking,,292,2.25 ,2895000,single family,0.0
-Portland,OR,97239,1993,Central air,3 Attached garage spaces,,294,2.5 ,1170000,single family,0.0
-Portland,OR,97209,2001,Heat pump,1 Attached garage space,,415,2.25 ,244000,condominium,0.0
-Portland,OR,97220,1947,No data,1 Attached garage space,5227.0,348,2.5 ,450000,single family,0.0
-Portland,OR,97210,1951,No data,1 Attached garage space,10018.0,465,2.5 ,899500,single family,0.0
-Portland,OR,97221,1993,Central air,2 Attached garage spaces,,368,2.5 ,699900,single family,0.0
-Portland,OR,97202,1916,No data,Open parking,5227.0,448,2.5 ,525000,single family,0.0
-Portland,OR,97217,1912,Heat pump,Open parking,5227.0,205,2.25 ,669000,single family,0.0
-Portland,OR,97233,1954,No data,1 Garage space,,256,2.5 ,415000,single family,0.0
-Portland,OR,97219,1942,No data,1 Attached garage space,,262,2.25 ,624900,single family,0.0
-Portland,OR,97217,1980,Central air,"Off street, secured, rv boat storage, garage door opener",,397,2.5 ,499000,single family,4800.0
-Portland,OR,97229,2017,Central air,3 Attached garage spaces,6098.0,352,2.25 ,1400000,single family,1404.0
-Portland,OR,97215,1958,Central air,4 Attached garage spaces,,496,2.5 ,2800000,single family,0.0
-Portland,OR,97206,1939,Central air,2 Garage spaces,3920.0,251,2.5 ,549900,single family,0.0
-Portland,OR,97206,2023,Heat pump,No data,,385,2.5 ,349900,condominium,600.0
-Portland,OR,97202,1927,Central air,1 Attached garage space,3484.0,360,2.5 ,775000,single family,0.0
-Portland,OR,97206,1924,,Open parking,5227.0,201,2.5 ,695000,single family,0.0
-Portland,OR,97216,2010,Central air,1 Attached garage space,2613.0,301,2.5 ,489900,single family,0.0
-Portland,OR,97211,1907,No data,1 Garage space,8276.0,235,2.25 ,799000,single family,0.0
-Portland,OR,97225,2002,Central air,2 Attached garage spaces,4791.0,299,2.3 ,789000,single family,0.0
-Portland,OR,97214,1913,Central air,Open parking,,241,2.5 ,2249000,single family,0.0
-Portland,OR,97212,1926,Central air,2 Garage spaces,5227.0,325,2.5 ,849900,single family,0.0
-Portland,OR,97229,2000,Central air,2 Attached garage spaces,,283,2.5 ,1225000,single family,744.0
-Portland,OR,97221,1931,Central air,2 Attached garage spaces,,445,2.7 ,1949900,single family,0.0
-Portland,OR,97236,1958,Window unit(s),1 Attached garage space,9583.0,207,2.5 ,399000,single family,0.0
-Portland,OR,97213,1949,,1 Garage space,5227.0,226,2.25 ,545000,single family,0.0
-Portland,OR,97233,1954,Window unit(s),Carport,7840.0,268,2 ,450000,single family,0.0
-Portland,OR,97229,1942,No data,No data,,651,2.5 ,779000,single family,0.0
-Portland,OR,97219,1990,Central air,3 Attached garage spaces,,486,2.5 ,1989000,single family,0.0
-Portland,OR,97211,2015,Heat pump,2 Garage spaces,,290,2.5 ,547000,single family,0.0
-Eugene,OR,97408,1998,Central air,2 Attached garage spaces,9583.0,304,2.5 ,919900,single family,0.0
-Eugene,OR,97402,1973,Heat pump,Carport,,73,2.5 ,95000,manufactured,0.0
-Eugene,OR,97401,2001,Heat pump,3 Attached garage spaces,6534.0,308,2.5 ,525000,single family,0.0
-Eugene,OR,97405,1960,Heat pump,1 Attached garage space,6098.0,410,3 ,515000,single family,0.0
-Eugene,OR,97408,1980,Heat pump,2 Attached garage spaces,6534.0,404,2.5 ,499000,single family,0.0
-Eugene,OR,97401,2006,Heat pump,2 Attached garage spaces,6534.0,287,3 ,685000,single family,0.0
-Eugene,OR,97405,1993,Heat pump,2 Attached garage spaces,6534.0,291,2.75 ,549000,single family,400.0
-Eugene,OR,97404,1993,Heat pump,2 Attached garage spaces,7840.0,287,2.5 ,475000,single family,0.0
-Eugene,OR,97402,1948,No data,1 Attached garage space,5227.0,280,2.5 ,349900,single family,0.0
-Eugene,OR,97402,1988,Central air,Carport,,82,3 ,115000,manufactured,0.0
-Eugene,OR,97403,1950,Central air,2 Garage spaces,,394,3 ,1395000,single family,0.0
-Eugene,OR,97401,1976,Window unit(s),2 Attached garage spaces,7840.0,225,2.5 ,450000,single family,0.0
-Eugene,OR,97405,1954,,Carport,9583.0,368,3 ,450000,single family,0.0
-Eugene,OR,97402,1988,Heat pump,Carport,1306.0,284,2.5 ,335000,single family,1800.0
-Eugene,OR,97405,1971,,2 Attached garage spaces,6969.0,265,2.5 ,590000,single family,0.0
-Eugene,OR,97402,1949,,4 Garage spaces,,273,2.5 ,419999,single family,0.0
-Eugene,OR,97405,1968,Heat pump,2 Attached garage spaces,7405.0,299,2.75 ,399000,single family,0.0
-Eugene,OR,97401,1925,,1 Attached garage space,2613.0,380,2.5 ,339500,single family,0.0
-Eugene,OR,97405,2019,Central air,2 Attached garage spaces,4791.0,316,2.5 ,570000,single family,0.0
-Eugene,OR,97404,1979,Heat pump,2 Attached garage spaces,8276.0,349,2.75 ,419000,single family,0.0
-Eugene,OR,97404,1963,Wall unit(s),Open parking,8276.0,246,2.5 ,290000,single family,0.0
-Eugene,OR,97404,1994,Heat pump,2 Attached garage spaces,8276.0,212,3 ,469000,single family,0.0
-Eugene,OR,97403,1962,Heat pump,Carport,,298,2.5 ,999000,single family,0.0
-Eugene,OR,97405,1974,Other,2 Attached garage spaces,,449,2.5 ,1295000,single family,0.0
-Eugene,OR,97402,2000,Central air,3 Attached garage spaces,6098.0,330,2.5 ,499000,single family,0.0
-Eugene,OR,97402,1960,Central air,Open parking,,79,2.5 ,520000,single family,0.0
-Eugene,OR,97401,1978,Heat pump,2 Attached garage spaces,6969.0,442,2.5 ,485000,single family,0.0
-Eugene,OR,97405,1990,Heat pump,2 Garage spaces,6534.0,319,2.5 ,525000,single family,0.0
-Eugene,OR,97402,2020,Heat pump,2 Attached garage spaces,5227.0,338,2.5 ,500000,single family,0.0
-Eugene,OR,97402,2019,Heat pump,1 Attached garage space,2613.0,363,2.5 ,415500,single family,0.0
-Eugene,OR,97402,1977,Heat pump,2 Attached garage spaces,,372,2.5 ,339000,single family,0.0
-Eugene,OR,97402,2003,Central air,2 Attached garage spaces,6969.0,331,2.5 ,449000,single family,0.0
-Eugene,OR,97401,2023,Central air,2 Attached garage spaces,4356.0,406,2.5 ,799900,single family,0.0
-Eugene,OR,97401,2023,No data,2 Attached garage spaces,4791.0,392,2.5 ,639900,single family,0.0
-Eugene,OR,97401,1952,Central air,3 Attached garage spaces,8712.0,503,2.5 ,450000,single family,0.0
-Eugene,OR,97402,1993,,Carport,,280,2.5 ,665000,single family,0.0
-Eugene,OR,97408,1966,Central air,2 Attached garage spaces,7405.0,268,2.5 ,475000,single family,0.0
-Eugene,OR,97401,1963,,Open parking,,288,3 ,295000,condominium,3204.0
-Eugene,OR,97402,1949,Heat pump,1 Garage space,,338,2.5 ,555000,single family,0.0
-Eugene,OR,97404,1965,,2 Attached garage spaces,7840.0,228,3 ,425000,single family,0.0
-Eugene,OR,97402,1972,Heat pump,4 Attached garage spaces,,276,2.5 ,980000,single family,0.0
-Eugene,OR,97401,1975,Heat pump,2 Attached garage spaces,6098.0,305,2.5 ,500000,single family,0.0
-Eugene,OR,97405,1978,Central air,3 Garage spaces,,409,2.5 ,955000,single family,0.0
-Eugene,OR,97405,1971,Heat pump,2 Attached garage spaces,8276.0,255,3 ,495000,single family,0.0
-Eugene,OR,97405,1999,Heat pump,2 Attached garage spaces,8712.0,238,2.5 ,650000,single family,0.0
-Eugene,OR,97405,1974,Heat pump,Carport,,314,2.5 ,295000,condominium,0.0
-Eugene,OR,97405,1974,Heat pump,3 Garage spaces,,235,2.5 ,895000,single family,0.0
-Eugene,OR,97403,2019,Heat pump,3 Attached garage spaces,5227.0,469,2.5 ,925000,single family,0.0
-Eugene,OR,97401,1996,Central air,2 Attached garage spaces,6969.0,322,2.5 ,945000,single family,0.0
-Eugene,OR,97401,2006,Central air,1 Garage space,,477,2.75 ,629000,condominium,0.0
-Eugene,OR,97404,2004,Central air,2 Attached garage spaces,10018.0,260,2.5 ,679900,single family,0.0
-Eugene,OR,97401,1966,Heat pump,2 Attached garage spaces,9583.0,401,3 ,575000,single family,0.0
-Eugene,OR,97401,1947,,1 Attached garage space,7840.0,326,2.5 ,430000,single family,0.0
-Eugene,OR,97405,1962,Heat pump,2 Attached garage spaces,7405.0,339,2.5 ,695000,single family,0.0
-Eugene,OR,97403,2022,Central air,2 Attached garage spaces,10454.0,419,2.5 ,1125000,single family,0.0
-Eugene,OR,97405,2001,Central air,3 Attached garage spaces,,252,2.5 ,1299999,single family,1200.0
-Eugene,OR,97405,1975,Wall unit(s),2 Attached garage spaces,8712.0,301,3 ,615000,single family,0.0
-Eugene,OR,97402,1945,No data,Open parking,,343,2.5 ,300000,single family,0.0
-Eugene,OR,97403,2023,Central Air,2 Attached Garage spaces,7405.0,319,5054.858934169279,771062,single family,0.0
-Eugene,OR,97401,1989,Central air,2 Attached garage spaces,8276.0,332,2.5 ,520000,single family,0.0
-Eugene,OR,97402,1976,No data,1 Garage space,8276.0,303,3 ,465000,single family,0.0
-Eugene,OR,97405,2019,Central air,2 Attached garage spaces,,297,2.5 ,730000,single family,600.0
-Eugene,OR,97405,2023,Wall unit(s),1 Attached garage space,2613.0,406,2.5 ,799000,townhouse,4344.0
-Eugene,OR,97403,2023,Central Air,2 Attached Garage spaces,,310,5120.967741935484,749916,single family,0.0
-Eugene,OR,97403,2021,No data,2 Attached garage spaces,6534.0,309,2 ,649500,single family,0.0
-Salem,OR,97306,2010,No data,2 Attached garage spaces,6669.0,247,2.5 ,360000,single family,0.0
-Salem,OR,97301,1947,No data,No garage,6969.0,258,2.5 ,416000,single family,0.0
-Salem,OR,97302,1959,No data,2 Attached garage spaces,9760.0,216,2.5 ,350000,single family,0.0
-Salem,OR,97304,1961,No data,2 Carport spaces,7236.0,162,2.25 ,399900,single family,0.0
-Salem,OR,97305,2004,No data,2 Attached garage spaces,4791.0,320,2.5 ,425000,single family,1920.0
-Salem,OR,97306,2016,Central air,2 Attached garage spaces,7841.0,291,2.5 ,620000,single family,0.0
-Salem,OR,97302,1954,No data,2 Attached garage spaces,,206,2.25 ,499900,single family,0.0
-Salem,OR,97306,2007,Central air,3 Attached garage spaces,9583.0,222,2.5 ,720000,single family,0.0
-Salem,OR,97301,1925,No data,No garage,2765.0,282,2.5 ,316000,single family,0.0
-Salem,OR,97301,1929,Central air,No garage,6534.0,159,2.25 ,295000,single family,0.0
-Salem,OR,97304,2005,Central air,2 Attached garage spaces,6098.0,236,2.5 ,659900,single family,0.0
-Salem,OR,97302,1952,No data,1 Carport space,6316.0,414,3.0 ,295000,single family,0.0
-Salem,OR,97302,1910,No data,1 Garage space,4500.0,163,1 ,490000,single family,0.0
-Salem,OR,97304,1936,No data,1 Carport space,5091.0,323,2.5 ,230000,single family,0.0
-Salem,OR,97304,1999,Central air,2 Attached garage spaces,5227.0,267,2.5 ,425000,single family,0.0
-Salem,OR,97302,1935,No data,2 Garage spaces,5000.0,309,2 ,424424,single family,0.0
-Salem,OR,97304,1999,Central air,3 Attached garage spaces,7405.0,265,2.5 ,584900,single family,0.0
-Salem,OR,97306,1947,No data,4 Garage spaces,,427,2.5 ,569000,single family,0.0
-Salem,OR,97301,1904,No data,No garage,8712.0,231,2.5 ,430000,single family,0.0
-Salem,OR,97306,2011,Central air,2 Attached garage spaces,6970.0,303,2 ,579900,single family,600.0
-Salem,OR,97302,1920,No data,1 Attached garage space,3049.0,245,2.5 ,399000,single family,0.0
-Salem,OR,97305,1996,Central air,2 Attached garage spaces,6000.0,312,2.5 ,425000,single family,0.0
-Salem,OR,97301,1928,No data,1 Garage space,7800.0,179,2.5 ,285000,single family,0.0
-Salem,OR,97306,2021,Central air,1 Attached garage space,2840.0,254,2.25 ,389000,single family,2040.0
-Salem,OR,97301,1921,No data,1 Garage space,6098.0,462,2.5 ,400000,single family,0.0
-Salem,OR,97302,1975,Central air,2 Attached garage spaces,,278,2.5 ,525000,single family,0.0
-Salem,OR,97302,2001,Central air,3 Attached garage spaces,,361,2.25 ,1800000,single family,0.0
-Salem,OR,97301,1910,Central air,1 Attached garage space,4356.0,267,2.5 ,389900,single family,0.0
-Salem,OR,97302,1946,No data,2 Attached garage spaces,,274,2.5 ,439000,single family,0.0
-Salem,OR,97301,1997,No data,2 Attached garage spaces,5227.0,287,2.5 ,385000,single family,0.0
-Salem,OR,97301,1979,Central air,2 Attached garage spaces,,219,2.5 ,575000,single family,0.0
-Salem,OR,97304,1947,No data,2 Attached garage spaces,,202,2.5 ,469800,single family,0.0
-Salem,OR,97305,2021,Central air,2 Attached garage spaces,4860.0,237,2 ,460000,single family,0.0
-Salem,OR,97302,1964,Central air,2 Attached garage spaces,,240,2.5 ,989000,single family,0.0
-Salem,OR,97306,1977,Central air,2 Attached garage spaces,,331,2.5 ,799000,single family,0.0
-Salem,OR,97304,1981,Central air,2 Attached garage spaces,8423.0,266,2.5 ,460000,single family,0.0
-Salem,OR,97304,1991,Central air,3 Attached garage spaces,,177,2.00 ,1300000,single family,0.0
-Salem,OR,97301,1910,No data,No garage,6098.0,288,2.5 ,749000,single family,0.0
-Salem,OR,97304,2005,Central air,2 Attached garage spaces,6283.0,236,2.5 ,557500,single family,0.0
-Salem,OR,97306,2023,Central air,2 Attached garage spaces,6534.0,341,2.5 ,719900,single family,0.0
-Salem,OR,97304,2005,Central air,3 Attached garage spaces,,197,2 ,639900,single family,180.0
-Salem,OR,97302,1980,Central air,2 Attached garage spaces,,268,2.5 ,535000,single family,0.0
-Salem,OR,97304,1976,Central air,2 Attached garage spaces,4356.0,270,2.5 ,407000,single family,0.0
-Salem,OR,97306,1997,Central air,2 Attached garage spaces,6970.0,252,2.5 ,485000,single family,0.0
-Salem,OR,97304,1999,Central air,2 Attached garage spaces,8540.0,249,2.5 ,559900,single family,0.0
-Salem,OR,97301,1941,No data,1 Carport space,6517.0,281,2.5 ,384900,single family,0.0
-Salem,OR,97306,1992,No data,2 Attached garage spaces,8276.0,262,2.5 ,468000,single family,0.0
-Salem,OR,97302,1973,Central air,2 Attached garage spaces,8276.0,246,2.5 ,514900,single family,0.0
-Salem,OR,97306,2022,Central air,2 Attached garage spaces,7840.0,200,2.25 ,699900,single family,0.0
-Salem,OR,97305,2020,Central air,2 Attached garage spaces,4680.0,251,2.25 ,452900,single family,180.0
-Salem,OR,97306,1997,Central air,2 Attached garage spaces,5200.0,257,2.5 ,619000,single family,588.0
-Salem,OR,97302,1990,Central air,2 Attached garage spaces,9776.0,243,2.25 ,564900,single family,0.0
-Salem,OR,97306,2023,Central air,3 Attached garage spaces,6699.0,341,2.5 ,719900,single family,0.0
-Salem,OR,97306,2023,Central air,2 Attached garage spaces,5662.0,391,2.5 ,627000,single family,0.0
-Salem,OR,97302,2023,No data,2 Attached garage spaces,5200.0,395,2.5 ,729000,single family,900.0
-Salem,OR,97306,2001,Central air,3 Attached garage spaces,6098.0,228,2.5 ,579000,single family,588.0
-Salem,OR,97306,1961,Central air,2 Attached garage spaces,,390,2.5 ,499999,single family,0.0
-Salem,OR,97306,2019,No data,2 Attached garage spaces,2178.0,261,2.5 ,399900,single family,1656.0
-Salem,OR,97304,1971,Central air,2 Attached garage spaces,5000.0,340,2.25 ,435000,single family,0.0
-Salem,OR,97306,2023,Central air,2 Attached garage spaces,5662.0,391,2.5 ,639900,single family,0.0
-Salem,OR,97306,2022,Central air,2 Attached garage spaces,9147.0,254,2.5 ,669900,single family,0.0
-Salem,OR,97306,2018,Central air,2 Attached garage spaces,5319.0,278,2.5 ,589000,single family,0.0
-Salem,OR,97306,2009,Central air,2 Attached garage spaces,4460.0,230,2.5 ,584900,single family,0.0
-Salem,OR,97301,2022,Central air,2 Attached garage spaces,6285.0,288,2.5 ,479900,single family,0.0
-Salem,OR,97301,2011,Central air,2 Garage spaces,,524,2.5 ,1450000,condominium,0.0
-Salem,OR,97304,1979,No data,3 Attached garage spaces,6178.0,209,2.5 ,480000,single family,0.0
-Salem,OR,97306,2023,No data,2 Attached garage spaces,10698.0,329,2.5 ,499900,single family,0.0
-Salem,OR,97305,2019,No data,2 Attached garage spaces,5040.0,223,2.5 ,484000,single family,180.0
-Salem,OR,97301,2023,Central Air,2 Attached Garage spaces,3696.0,236,2.50,439995,single family,420.0
-Salem,OR,97306,2023,No data,2 Attached garage spaces,6209.0,279,2.5 ,529900,single family,0.0
-Salem,OR,97302,1957,No data,2 Attached garage spaces,8232.0,203,2.25 ,599900,single family,0.0
-Salem,OR,97306,2023,No data,2 Attached garage spaces,5860.0,206,2.5 ,599900,single family,0.0
-Salem,OR,97306,2023,No data,2 Attached garage spaces,5546.0,279,2.5 ,539900,single family,0.0
-Salem,OR,97302,2023,No data,1 Attached garage space,1200.0,243,2.5 ,362900,single family,1800.0
-Corvallis,OR,97333,1917,No data,1 Carport space,,340,3 ,750000,single family,0.0
-Corvallis,OR,97330,1940,No data,No garage,2613.0,516,3 ,349000,single family,0.0
-Corvallis,OR,97330,1974,No data,2 Attached garage spaces,,316,2.25 ,950000,single family,0.0
-Corvallis,OR,97333,1981,No data,1 Carport space,,335,2.5 ,380000,condominium,0.0
-Corvallis,OR,97330,1924,Central air,2 Garage spaces,,377,2.5 ,649000,single family,0.0
-Corvallis,OR,97333,1953,No data,1 Attached garage space,,595,2.5 ,709999,single family,0.0
-Corvallis,OR,97330,2020,No data,Attached garage,2178.0,280,2.5 ,350000,single family,0.0
-Corvallis,OR,97330,2002,Central air,2 Attached garage spaces,2178.0,270,2.5 ,430000,single family,2280.0
-Corvallis,OR,97330,2016,Central air,3 Attached garage spaces,,350,2.5 ,1825000,single family,0.0
-Corvallis,OR,97330,1990,Central air,2 Attached garage spaces,,319,2.70 ,958500,single family,0.0
-Corvallis,OR,97330,2006,Central air,2 Attached garage spaces,8712.0,259,2.25 ,715700,single family,0.0
-Corvallis,OR,97333,1935,No data,2 Garage spaces,,553,2.5 ,1350000,single family,0.0
-Corvallis,OR,97330,1967,Central air,2 Attached garage spaces,,470,2.5 ,1200000,single family,0.0
-Corvallis,OR,97333,2005,Central air,2 Attached garage spaces,4356.0,243,2.5 ,598000,single family,2004.0
+Hillsboro,OR,97123,2023,Central Air,1 Attached Garage space,3049.0,428,2,519900,single family,186
+Hillsboro,OR,97123,2023,Central Air,2 Attached Garage spaces,,320,2,729900,single family,91
+Hillsboro,OR,97123,2023,ENERGY STAR Qualified Equipment,2 Attached Garage spaces,5227.0,379,2,689900,single family,147
+Hillsboro,OR,97123,2023,Central Air,2 Attached Garage spaces,,329,2,499900,townhouse,186
+Hillsboro,OR,97123,2023,ENERGY STAR Qualified Equipment,2 Garage spaces,3049.0,312,2,599900,single family,147
+Hillsboro,OR,97123,2023,ENERGY STAR Qualified Equipment,2 Attached Garage spaces,4791.0,332,2,709900,single family,147
+Vancouver,WA,98665,2023,Heat Pump,3 Attached Garage spaces,,283,2,525995,single family,60
+Vancouver,WA,98682,2023,Heat Pump,2 Attached Garage spaces,,296,2,604900,single family,132
+Seattle,WA,98101,2019,"Forced air, heat pump",1 Garage space,,1255,3 ,1279900,condominium,0
+Prairie,WA,98606,2023,Heat Pump,2 Attached Garage spaces,,309,2,633990,single family,35
+Portland,OR,97224,1974,Heat pump,Carport,,78,3 ,75000,manufactured,0
+Vancouver,WA,98682,2023,Heat Pump,3 Attached Garage spaces,,337,2,704900,single family,132
+Prairie,WA,98606,2024,Heat Pump,2 Attached Garage spaces,,309,2,632990,single family,35
+Beaverton,OR,97007,2023,Central Air,2 Attached Garage spaces,,368,2.25,879000,single family,81
+Beaverton,OR,97007,2023,Air Conditioning Ready,2 Attached Garage spaces,3910.0,300,2.25,839990,single family,40
+Tigard,OR,97224,2023,Air Conditioning Ready,2 Attached Garage spaces,,293,2.50,769854,single family,70
+Beaverton,OR,97007,2023,Air Conditioning Ready,2 Attached Garage spaces,,320,2.70,719990,single family,80
+Beaverton,OR,97007,2023,Air Conditioning Ready,2 Attached Garage spaces,,303,2.70,864990,single family,90
+Vancouver,WA,98686,2023,Heat Pump,1 Attached Garage space,,470,3,454900,single family,924
+Seattle,WA,98122,2023,Ductless HP-Mini Split,1 Attached Garage space,1.0,639,3,1725000,single family,51
+Cornelius,OR,97113,2024,Heat Exchanger,1 Attached Garage space,,282,3270.9219858156025,428719,single family,126
+Cornelius,OR,97113,2023,Heat Exchanger,1 Attached Garage space,,299,3272.9096989966556,454000,single family,126
+Vancouver,WA,98665,2023,Heat Pump,2 Attached Garage spaces,,258,3972.8682170542634,444990,townhouse,174
+Vancouver,WA,98665,2023,Heat Pump,2 Attached Garage spaces,,258,3972.8682170542634,444990,townhouse,174
+Portland,OR,97224,2023,Air Conditioning Ready,1 Attached Garage space,,292,3946.9178082191784,474990,condominium,207
+Beaverton,OR,97007,2023,Air Conditioning Ready,2 Attached Garage spaces,,363,3305.7851239669417,599990,single family,76
+Portland,OR,97224,2023,Central Air,2 Attached Garage spaces,,300,4133.333333333334,518990,condominium,207
+Portland,OR,97224,2023,Central Air,1 Attached Garage space,,237,5274.261603375528,509990,condominium,226
+Portland,OR,97224,2023,Air Conditioning Ready,2 Attached Garage spaces,,253,4960.474308300395,509990,condominium,226
+Vancouver,WA,98682,2023,Heat Pump,2 Attached Garage spaces,,323,3947.0588235294117,520200,single family,28
+Beaverton,OR,97007,2023,Air Conditioning Ready,2 Attached Garage spaces,,354,3689.2090395480222,739990,single family,81
+Vancouver,WA,98686,2023,Heat Pump,2 Attached Garage spaces,4356.0,297,4469.39393939394,604550,single family,28
+Vancouver,WA,98686,2023,Heat Pump,3 Attached Garage spaces,,314,4406.56050955414,628000,single family,28
+Beaverton,OR,97007,2023,Air Conditioning Ready,2 Attached Garage spaces,,284,5295.704225352112,834990,single family,81
+Beaverton,OR,97007,1970,Central air,2 Attached garage spaces,,2613,2.25 ,750000,single family,0
+Portland,OR,97224,2023,Air Conditioning Ready,2 Attached Garage spaces,,298,5687.919463087248,675990,single family,126
+Beaverton,OR,97007,2023,Air Conditioning Ready,2 Attached Garage spaces,,310,5846.774193548387,762990,single family,76
+Vancouver,WA,98686,2023,Heat pump,2 Attached garage spaces,,259,3884.7490347490348,421800,townhouse,144
+Eugene,OR,97403,2023,Heat pump,2 Attached garage spaces,,295,3996.305084745763,664920,single family,130
+Tigard,OR,97224,2023,Air conditioning ready,3 Attached garage spaces,5540.0,315,5079.3650793650795,826670,single family,70
+Tacoma,WA,98403,1975,No data,1 Garage space,,246,3 ,615000,condominium,0
+Seattle,WA,98117,1968,,1 Open parking space,,659,3 ,699000,condominium,0
+Corvallis,OR,97333,2023,Central air,2 Attached garage spaces,,314,1990.4458598726117,689624,single family,100
+Seattle,WA,98101,1983,Central air,1 Garage space,,788,2.5 ,799999,condominium,0
+Vancouver,WA,98660,2022,Central air,2 Attached garage spaces,,1073,2.5 ,1500000,condominium,0
+Seattle,WA,98121,2015,Central air,2 Garage spaces,,873,3 ,1095000,condominium,0
+Beaverton,OR,97007,2023,Central air,2 Attached garage spaces,,310,15750 ,699990,single family,44
+Seattle,WA,98121,2016,Central air,1 Garage space,,774,3 ,949000,condominium,0
+Portland,OR,97205,2006,Central air,2 Attached garage spaces,,443,2.25 ,949000,condominium,0
+Portland,OR,97201,1939,Heat pump,1 Attached garage space,,423,2 ,1175000,condominium,0
+Tigard,OR,97224,2023,Central air,2 Attached garage spaces,,300,2.5 ,689900,condominium,0
+Seattle,WA,98118,1965,,Off street,,4500,3 ,135000,condominium,0
+Salem,OR,97306,2019,No data,2 Attached garage spaces,2178.0,261,0,399900,single family,138
+Seattle,WA,98117,2023,Ductless hp-mini split,1 Open parking space,,662,2.5 ,674900,condominium,0
+Corvallis,OR,97330,2002,No data,2 Attached garage spaces,,274,2.5 ,429900,condominium,0
+Portland,OR,97239,2007,Central air,2 Garage spaces,,302,2.25 ,572000,condominium,0
+Seattle,WA,98118,2025,,Garage,,92,2.5 ,66081,condominium,0
+Portland,OR,97230,1975,Central air,2 Attached garage spaces,,255,2.25 ,365000,single family,480
+Portland,OR,97217,1986,Wall unit(s),2 Garage spaces,,359,2.25 ,750000,single family,440
+Vancouver,WA,98661,2005,Central air,3 Attached garage spaces,,937,2.25 ,4000000,condominium,0
+Vancouver,WA,98660,2022,No data,1 Garage space,,1080,2.5 ,3299000,condominium,0
+Portland,OR,97230,1977,Central air,2 Attached garage spaces,,183,2.25 ,299900,single family,474
+Seattle,WA,98106,2023,Ductless hp-mini split,1 Garage space,,560,3 ,689950,condominium,0
+Eugene,OR,97405,1981,No data,2 Garage spaces,,267,2.5 ,350000,manufactured,0
+Seattle,WA,98126,2020,"Central air, forced air",2 Garage spaces,,424,2.5 ,1625000,condominium,0
+Portland,OR,97236,1924,,1 Garage space,,169,2.5 ,389900,condominium,0
+Vancouver,WA,98685,2023,Central air,1 Garage space,,432,2.25 ,680000,condominium,0
+Portland,OR,97236,1974,Wall unit(s),1 Garage space,,214,2.25 ,170000,condominium,354
+Salem,OR,97304,1999,Central air,2 Attached garage spaces,,188,2.5 ,399000,manufactured,0
+Beaverton,OR,97007,2003,,1 Attached garage space,,357,2.75 ,365000,condominium,0
+Portland,OR,97203,1963,,Carport,,372,2.25 ,217000,condominium,0
+Portland,OR,97236,2007,No data,1 Attached garage space,,212,2.5 ,319000,condominium,0
+Beaverton,OR,97006,2007,Wall unit(s),Carport,,332,2.25 ,317000,condominium,0
+Bothell,WA,98011,2021,"90%+ high efficiency, ductless hp-mini split, forced air",2 Garage spaces,,612,2.5 ,829000,condominium,0
+Portland,OR,97214,1999,Central air,1 Attached garage space,,349,2.25 ,515000,townhouse,291
+Seattle,WA,98122,2007,,1 Garage space,,745,3 ,324900,condominium,0
+Portland,OR,97229,1994,Central air,3 Attached garage spaces,,392,2.25 ,2000000,single family,700
+Vancouver,WA,98661,1974,No data,1 Attached garage space,,255,2.5 ,219900,condominium,0
+Seattle,WA,98107,1988,,,,613,3 ,255000,condominium,0
+Portland,OR,97229,1992,Other,Deeded,,439,2.5 ,275000,condominium,0
+Portland,OR,97209,2006,Heat pump,,,409,2.5 ,289900,condominium,0
+Hillsboro,OR,97124,2004,Central air,1 Attached garage space,,359,2.5 ,420000,condominium,0
+Vancouver,WA,98686,1980,,1 Garage space,,205,2 ,315000,condominium,0
+Vancouver,WA,98664,2004,Wall unit(s),1 Attached garage space,,361,2.25 ,340000,condominium,0
+Vancouver,WA,98664,2004,Wall unit(s),1 Attached garage space,,302,2.25 ,349000,condominium,0
+Portland,OR,97201,1903,No data,Open parking,,396,2.5 ,199444,condominium,0
+Tacoma,WA,98422,1994,Forced air,3 Garage spaces,,300,2.5 ,459995,condominium,0
+Vancouver,WA,98683,1984,Heat exchanger,1 Garage space,,358,2 ,345000,condominium,0
+Portland,OR,97230,2006,Wall unit(s),"Deeded, off street",,264,2.25 ,214900,condominium,356
+Seattle,WA,98115,1982,,1 Garage space,,464,2.5 ,299950,condominium,0
+Seattle,WA,98107,2000,"None, window unit(s)",1 Garage space,,540,2.5 ,309000,condominium,0
+Portland,OR,97209,2001,Central air,1 Attached garage space,,566,2.5 ,345000,condominium,0
+Beaverton,OR,97007,1981,No data,Carport,,307,2 ,297000,condominium,0
+Portland,OR,97209,1927,No data,Open parking,,503,2.25 ,158000,condominium,0
+Seattle,WA,98106,2023,Ductless hp-mini split,,,549,3.0 ,474950,condominium,0
+Eugene,OR,97405,1974,Heat pump,Carport,,314,2.5 ,295000,condominium,0
+Seattle,WA,98119,1965,,1 Parking space,,519,2 ,350000,condominium,0
+Portland,OR,97225,1966,Central air,2 Attached garage spaces,,299,2.25 ,849900,single family,152
+Seattle,WA,98101,2008,"Central air, forced air",2 Garage spaces,,2084,2.5 ,5000000,condominium,0
+Beaverton,OR,97007,2023,Central air,2 Attached garage spaces,,316,2.25 ,499990,single family,150
+Portland,OR,97203,2004,,No data,,298,2.5 ,280000,condominium,0
+Portland,OR,97217,1970,No data,"Off street, secured",,124,2.5 ,169000,manufactured,0
+Beaverton,OR,97003,2004,No data,1 Attached garage space,1742.0,308,2.25 ,449900,townhouse,265
+Vancouver,WA,98686,1987,Window unit(s),1 Garage space,,358,2.25 ,239900,condominium,0
+Seattle,WA,98133,1979,,2 Parking spaces,,421,3.0 ,399950,condominium,0
+Portland,OR,97212,2009,Heat pump,1 Garage space,,415,2 ,358500,condominium,0
+Beaverton,OR,97007,2006,Central air,3 Attached garage spaces,,272,2.25 ,1799000,single family,725
+Beaverton,OR,97008,1990,Central air,2 Attached garage spaces,7405.0,362,2.25 ,699000,single family,300
+Beaverton,OR,97007,2019,Central air,2 Attached garage spaces,5662.0,346,2.25 ,735000,single family,83
+Beaverton,OR,97006,2002,Central air,2 Attached garage spaces,4791.0,289,2.25 ,684900,single family,420
+Eugene,OR,97401,1966,Window unit(s),"Deeded, secured",,334,2.5 ,275000,condominium,0
+Beaverton,OR,97007,2023,Central air,2 Attached garage spaces,,308,2.25 ,517828,single family,150
+Portland,OR,97201,2000,Wall unit(s),Open parking,,498,2.5 ,229000,condominium,0
+Hillsboro,OR,97123,2022,Central air,1 Attached garage space,1742.0,334,2.25 ,460000,townhouse,269
+Hillsboro,OR,97124,2003,Central air,1 Attached garage space,1742.0,310,2.25 ,410000,townhouse,43
+Portland,OR,97209,1915,No data,Open parking,,413,2.5 ,255000,condominium,0
+Bothell,WA,98021,1997,,1 Parking space,,499,2.5 ,435000,condominium,0
+Hillsboro,OR,97123,2008,Central air,2 Attached garage spaces,1306.0,240,2.25 ,445000,townhouse,205
+Tacoma,WA,98406,1977,,1 Parking space,,273,2.5 ,319950,condominium,0
+Portland,OR,97219,1961,,Deeded,,246,2.5 ,244500,condominium,0
+Hillsboro,OR,97123,2009,Central air,1 Attached garage space,3049.0,316,2.25 ,495000,single family,93
+Hillsboro,OR,97124,1996,Central air,2 Attached garage spaces,7405.0,262,2.25 ,635000,single family,100
+Seattle,WA,98109,1947,,,,549,2.5 ,345000,condominium,0
+Hillsboro,OR,97123,2023,Central air,2 Attached garage spaces,,326,2.25 ,434767,single family,270
+Hillsboro,OR,97123,2023,Central air,2 Attached garage spaces,,327,2.25 ,540518,single family,270
+Seattle,WA,98125,1986,,1 Garage space,,437,2.5 ,389000,condominium,0
+Beaverton,OR,97007,2023,No data,2 Attached garage spaces,,364,2.25 ,759000,single family,81
+Portland,OR,97209,2001,Heat pump,Open parking,,315,2.5 ,229900,condominium,0
+Tigard,OR,97224,2023,Air conditioning ready,2 Attached garage spaces,,274,2.25 ,757340,single family,72
+Oswego,OR,97035,1994,No data,Carport,,297,2.5 ,299000,condominium,0
+Oswego,OR,97035,1985,No data,1 Garage space,,346,2.5 ,319500,condominium,0
+Seattle,WA,98168,2023,Ductless hp-mini split,2 Garage spaces,,322,2.5 ,699950,condominium,0
+Tigard,OR,97224,2019,No data,2 Attached garage spaces,,330,2.25 ,399900,townhouse,316
+Tigard,OR,97224,2013,Central air,2 Attached garage spaces,5227.0,266,2.25 ,729900,single family,108
+Bothell,WA,98011,1979,,1 Open parking space,,445,2.5 ,325000,condominium,0
+Portland,OR,97223,2000,Central air,2 Attached garage spaces,,268,2.25 ,424900,townhouse,363
+Tacoma,WA,98402,2006,Central air,2 Garage spaces,,413,2.5 ,425000,condominium,0
+Hillsboro,OR,97124,2001,Central air,1 Garage space,,450,2.5 ,315000,condominium,0
+Portland,OR,97223,2022,Central air,2 Attached garage spaces,4791.0,305,2.25 ,770000,single family,85
+Tigard,OR,97224,2021,Central air,2 Attached garage spaces,4791.0,283,2.25 ,749900,single family,84
+Portland,OR,97224,2023,No data,2 Attached garage spaces,,263,2.25 ,963000,single family,72
+Tigard,OR,97224,2023,No data,3 Attached garage spaces,4791.0,333,2.25 ,849000,single family,72
+Portland,OR,97224,2023,No data,2 Attached garage spaces,,256,2.25 ,816000,single family,72
+Seattle,WA,98115,2023,Ductless hp-mini split,1 Parking space,,730,2.5 ,1050000,condominium,0
+Tigard,OR,97224,1979,Window unit(s),1 Garage space,,233,2.25 ,310000,condominium,0
+Portland,OR,97205,2006,Central air,1 Attached garage space,,453,2.5 ,349950,condominium,0
+Seattle,WA,98121,2008,Central air,1 Garage space,,805,2.5 ,450000,condominium,0
+Oswego,OR,97035,1980,Heat pump,1 Garage space,,317,2.25 ,289000,condominium,536
+Seattle,WA,98104,2002,,1 Garage space,,515,2.5 ,439950,condominium,0
+Seattle,WA,98116,1985,Radiant,1 Garage space,,1009,2.5 ,1295000,condominium,0
+Olympia,WA,98502,1973,Ductless hp-mini split,1 Garage space,,249,2.5 ,293000,condominium,0
+Tacoma,WA,98418,2002,Central air,2 Garage spaces,,321,2.5 ,425000,condominium,0
+Oswego,OR,97034,2000,Central air,2 Attached garage spaces,7405.0,1247,2.25 ,5750000,single family,2
+Hillsboro,OR,97124,2001,Central air,1 Garage space,,384,2.25 ,319900,condominium,0
+Oswego,OR,97034,1955,Central air,2 Attached garage spaces,8712.0,674,2.25 ,959900,single family,2
+Oswego,OR,97035,1993,Central air,2 Attached garage spaces,,266,2.25 ,1125000,single family,526
+Seattle,WA,98101,1991,Forced air,1 Garage space,,806,2.5 ,485000,condominium,0
+Seattle,WA,98101,2007,Central air,1 Garage space,,695,2.5 ,499950,condominium,0
+Vancouver,WA,98660,2000,Central air,1 Garage space,,525,2.0 ,499000,condominium,0
+Vancouver,WA,98660,2000,Heat pump,1 Attached garage space,,470,2.25 ,475000,condominium,0
+Seattle,WA,98122,2007,Ductless hp-mini split,2 Garage spaces,,1026,2.5 ,1245000,condominium,0
+Portland,OR,97205,1983,Wall unit(s),"Deeded, secured, condo garage (deeded), shared garage",,429,2.5 ,435000,condominium,0
+Troutdale,OR,97060,1976,Central air,2 Attached garage spaces,8276.0,245,2.25 ,425000,single family,265
+Troutdale,OR,97060,1976,Central air,2 Attached garage spaces,10018.0,257,2.25 ,515000,single family,265
+Oswego,OR,97034,1966,No data,1 Garage space,,284,2.5 ,340000,condominium,0
+Troutdale,OR,97060,1975,Central air,2 Attached garage spaces,6534.0,237,2.25 ,539900,single family,300
+Seattle,WA,98119,1982,,1 Garage space,,593,2.5 ,634999,condominium,0
+Tacoma,WA,98402,2008,"Central air, forced air",2 Garage spaces,,546,2.5 ,920000,condominium,0
+Bothell,WA,98011,1999,,2 Garage spaces,,414,2.5 ,495950,condominium,0
+Vancouver,WA,98660,2004,Evaporative cooling,"Off street, secured, condo garage (rent), garage available",,409,2.25 ,345500,condominium,0
+Seattle,WA,98116,1986,Insert,1 Garage space,,577,2.5 ,700000,condominium,0
+Seattle,WA,98122,1980,,1 Carport space,,472,3 ,515000,condominium,0
+Portland,OR,97229,2014,Central air,Attached garage,,380,2.25 ,565000,condominium,0
+Vancouver,WA,98662,1983,No data,1 Garage space,,260,2.25 ,270000,condominium,300
+Vancouver,WA,98682,2006,Central air,3 Garage spaces,7840.0,212,2.25 ,835000,single family,69
+Seattle,WA,98117,1968,,1 Open parking space,,721,3 ,580000,condominium,0
+Hillsboro,OR,97123,1983,Window unit(s),Carport,,122,2.5 ,139900,manufactured,0
+Seattle,WA,98134,1980,"Insert, wall unit(s)",1 Carport space,,435,2.5 ,499950,condominium,0
+Seattle,WA,98101,1960,Radiant,1 Garage space,,647,2.5 ,574990,condominium,0
+Vancouver,WA,98662,1996,Central air,1 Attached garage space,3484.0,337,2.25 ,365000,single family,83
+Tacoma,WA,98407,2022,Central air,2 Garage spaces,,815,2.5 ,1350000,condominium,0
+Vancouver,WA,98683,2000,Central air,1 Attached garage space,3049.0,341,2.25 ,569900,townhouse,115
+Milwaukie,OR,97222,1979,No data,1 Garage space,,287,3 ,259000,condominium,0
+Vancouver,WA,98665,2005,No data,1 Attached garage space,,234,2.25 ,315000,condominium,337
+Vancouver,WA,98661,2001,Wall unit(s),1 Attached garage space,,321,2.25 ,500000,townhouse,540
+Vancouver,WA,98685,2018,Heat pump,3 Attached garage spaces,6098.0,320,2.25 ,750000,single family,252
+Seattle,WA,98199,2000,,1 Garage space,,642,2.5 ,715000,condominium,0
+Seattle,WA,98112,2007,,2 Garage spaces,,1237,2 ,2950000,condominium,0
+Seattle,WA,98121,2008,"Central air, forced air",2 Garage spaces,,646,3 ,725000,condominium,0
+Tacoma,WA,98402,2002,Central air,2 Garage spaces,,480,3 ,430000,condominium,0
+Oswego,OR,97034,1965,Heat pump,Carport,,264,2.5 ,344999,condominium,0
+Burien,WA,98146,1982,,1 Parking space,,233,3 ,449000,condominium,0
+Eugene,OR,97408,1971,Other,Attached garage,,48,5.208333333333334,59900,manufactured,0
+Tacoma,WA,98407,2021,"Central air, forced air, heat pump",3 Garage spaces,,702,2.5 ,1400000,condominium,0
+Portland,OR,97205,2006,Heat pump,1 Attached garage space,,415,2.5 ,650000,condominium,0
+Oswego,OR,97034,2023,Central air,1 Attached garage space,,965,2.7 ,1960847,condominium,0
+Portland,OR,97239,1975,Central air,2 Attached garage spaces,,319,2.5 ,895000,condominium,0
+Milwaukie,OR,97222,1977,Wall unit(s),2 Attached garage spaces,,359,2.25 ,689900,single family,0
+Vancouver,WA,98662,1961,No data,2 Attached garage spaces,,262,2.25 ,559000,single family,0
+Portland,OR,97202,1925,Wall unit(s),2 Attached garage spaces,,277,2.5 ,1325000,single family,0
+Portland,OR,97201,2023,Central air,2 Attached garage spaces,,576,2.5 ,1999900,single family,0
+Beaverton,OR,97005,1948,No data,Open parking,,550,2.5 ,440000,single family,0
+Eugene,OR,97405,2002,Central air,2 Attached garage spaces,,239,2.5 ,650000,single family,0
+Vancouver,WA,98684,1969,Central air,2 Garage spaces,,231,2.25 ,325000,condominium,175
+Oswego,OR,97035,1970,No data,Carport,,497,2 ,669000,single family,0
+Springfield,OR,97478,2009,Central air,1 Attached garage space,,274,2 ,565500,single family,0
+Vancouver,WA,98661,2001,No data,1 Attached garage space,,334,2.25 ,449900,condominium,274
+Oswego,OR,97034,1961,Central air,2 Attached garage spaces,,381,2.5 ,825000,single family,0
+Olympia,WA,98501,1998,"Central air, forced air",3 Carport spaces,,285,2.5 ,659500,single family,0
+Vancouver,WA,98684,2016,Central air,3 Attached garage spaces,,474,2 ,2050000,single family,0
+Vancouver,WA,98683,2014,Central air,3 Attached garage spaces,9583.0,308,2.25 ,974900,single family,200
+Vancouver,WA,98665,2005,Central air,4 Attached garage spaces,,492,2.25 ,3995000,single family,583
+Burien,WA,98166,1973,Central air,2 Attached garage spaces,,313,3 ,875000,single family,0
+Beaverton,OR,97008,1985,Central air,3 Attached garage spaces,,308,2.25 ,810000,single family,0
+Vancouver,WA,98685,2000,Central air,3 Attached garage spaces,,239,2.25 ,919000,single family,0
+Tigard,OR,97223,2000,Central air,2 Attached garage spaces,,283,2.5 ,950000,single family,0
+Vancouver,WA,98683,1990,Central air,3 Attached garage spaces,,297,2.25 ,1045500,single family,100
+Vancouver,WA,98664,1997,Other,1 Attached garage space,,263,2.25 ,335000,condominium,391
+Vancouver,WA,98683,1996,Central air,2 Attached garage spaces,5662.0,296,2.25 ,539000,single family,90
+Eugene,OR,97401,1978,Heat pump,1 Garage space,,363,2.5 ,575000,single family,0
+Salem,OR,97303,1951,Central air,2 Attached garage spaces,,269,2.5 ,399900,single family,0
+Vancouver,WA,98682,2006,Central air,2 Attached garage spaces,5227.0,266,2.25 ,724900,single family,66
+Vancouver,WA,98662,1970,Heat pump,1 Covered parking space,,229,2 ,399900,single family,0
+Vancouver,WA,98682,2004,Central air,2 Attached garage spaces,5662.0,217,2.25 ,579000,single family,125
+Vancouver,WA,98685,2003,Central air,2 Attached garage spaces,6534.0,233,2.25 ,668900,single family,110
+Olympia,WA,98506,1979,Ductless hp-mini split,2 Attached garage spaces,,369,1.5 ,589000,single family,0
+Oswego,OR,97035,2023,Central air,3 Attached garage spaces,,604,2.25 ,2450000,single family,0
+Vancouver,WA,98662,1967,Heat pump,2 Attached garage spaces,,218,2.25 ,500000,single family,0
+Vancouver,WA,98664,1991,,2 Attached garage spaces,,339,2.25 ,495000,single family,0
+Vancouver,WA,98665,2023,Heat pump,2 Attached garage spaces,,333,2.25 ,797640,single family,0
+Vancouver,WA,98686,2023,Central air,3 Attached garage spaces,,476,2.25 ,1295000,single family,250
+Vancouver,WA,98685,2013,Central air,3 Attached garage spaces,,303,2.25 ,649900,single family,100
+Vancouver,WA,98682,2018,Central air,2 Attached garage spaces,5662.0,235,2.25 ,767900,single family,32
+Portland,OR,97231,1934,Central air,Open parking,,140,2.5 ,324997,single family,0
+Portland,OR,97229,1995,Central air,3 Attached garage spaces,,296,2.5 ,1225000,single family,0
+Portland,OR,97215,1909,No data,4 Attached garage spaces,,190,2.5 ,925000,single family,0
+Tacoma,WA,98422,1938,,1 Garage space,,428,2.5 ,325000,single family,0
+Portland,OR,97233,1962,Central air,1 Attached garage space,,408,2 ,409999,single family,0
+Tacoma,WA,98465,1969,,2 Attached garage spaces,,262,3 ,724000,single family,0
+Oswego,OR,97034,1954,Central air,1 Attached garage space,,641,2.25 ,1098000,single family,0
+Beaverton,OR,97078,1984,No data,2 Garage spaces,,358,2.5 ,479000,single family,0
+Eugene,OR,97401,1979,Heat pump,2 Attached garage spaces,,285,2.5 ,750000,single family,0
+Salem,OR,97304,1947,No data,2 Attached garage spaces,,202,2.5 ,469800,single family,0
+Vancouver,WA,98662,1978,Heat pump,1 Garage space,,257,2.25 ,550000,townhouse,434
+Vancouver,WA,98682,2010,Central air,2 Attached garage spaces,4356.0,320,2.25 ,498000,single family,64
+Springfield,OR,97478,1994,Heat pump,2 Attached garage spaces,,363,2 ,599900,single family,0
+Vancouver,WA,98682,1998,Central air,3 Garage spaces,,313,2.25 ,579000,single family,0
+Portland,OR,97266,1939,No data,Open parking,,203,2.5 ,410000,single family,0
+Portland,OR,97236,1949,Heat pump,1 Garage space,,184,2.5 ,450000,single family,0
+Prairie,WA,98606,2023,"Heat pump, energy star qualified equipment",3 Attached garage spaces,,263,2.25 ,709000,single family,35
+Oswego,OR,97035,1989,,2 Attached garage spaces,,466,2.5 ,770000,single family,0
+Oswego,OR,97034,1986,Central air,3 Attached garage spaces,,298,2.5 ,1399900,single family,0
+Vancouver,WA,98682,2023,Heat pump,2 Attached garage spaces,,352,2.25 ,639000,single family,60
+Vancouver,WA,98682,2023,Heat pump,3 Attached garage spaces,,346,2.25 ,899000,single family,60
+Salem,OR,97302,1980,Central air,2 Attached garage spaces,,268,2.5 ,535000,single family,0
+Portland,OR,97225,1968,Window unit(s),2 Attached garage spaces,,341,2 ,580000,single family,0
+Tacoma,WA,98422,1998,"90%+ high efficiency, central air, forced air",3 Attached garage spaces,,360,3 ,1070000,single family,0
+Vancouver,WA,98683,1901,Window unit(s),2 Garage spaces,,184,2.25 ,625000,single family,0
+Vancouver,WA,98661,1979,Wall unit(s),2 Attached garage spaces,,310,2.25 ,465000,single family,0
+Milwaukie,OR,97267,1957,No data,1 Attached garage space,,208,2.5 ,669900,single family,0
+Oswego,OR,97035,1961,,Open parking,,371,2.5 ,550000,single family,0
+Vancouver,WA,98686,1979,Heat pump,2 Attached garage spaces,,242,2.25 ,524900,single family,0
+Portland,OR,97220,1941,Central air,2 Attached garage spaces,,233,2.5 ,695000,single family,0
+Corvallis,OR,97330,1997,Central air,2 Attached garage spaces,,208,2.5 ,745000,single family,0
+Seattle,WA,98125,1940,,2 Carport spaces,,226,2.5 ,997000,single family,0
+Seattle,WA,98112,1930,Other – see remarks,2 Attached garage spaces,,1270,2.5 ,6400000,single family,0
+Seattle,WA,98168,1922,"90%+ high efficiency, central air, forced air",1 Attached garage space,,439,2.5 ,575000,single family,0
+Portland,OR,97201,1964,No data,Open parking,,246,2.25 ,449950,single family,0
+Portland,OR,97212,1911,Central air,Open parking,,292,2.25 ,2895000,single family,0
+Tacoma,WA,98465,1966,Forced air,2 Attached garage spaces,,298,2.5 ,895000,single family,0
+Burien,WA,98166,1959,,2 Attached garage spaces,,539,2.5 ,1675000,single family,0
+Tigard,OR,97223,1956,Heat pump,2 Attached garage spaces,,429,2 ,489000,single family,0
+Beaverton,OR,97007,1977,,2 Attached garage spaces,,305,2.5 ,715000,single family,0
+Oswego,OR,97034,1975,,2 Garage spaces,,370,2.5 ,949900,single family,0
+Vancouver,WA,98664,1989,Central air,3 Attached garage spaces,,262,2.5 ,580000,single family,0
+Tacoma,WA,98422,1975,Central air,2 Attached garage spaces,,328,2.5 ,590000,single family,0
+Portland,OR,97221,1942,Heat pump,Open parking,,275,2.5 ,985000,single family,0
+Oswego,OR,97034,2012,Central air,2 Attached garage spaces,,342,2.5 ,840000,single family,0
+Portland,OR,97212,1925,No data,2 Attached garage spaces,,552,2.25 ,4000000,single family,0
+Portland,OR,97227,2000,No data,Open parking,,325,2.5 ,345000,condominium,293
+Beaverton,OR,97007,2014,Air conditioning ready,2 Attached garage spaces,,507,2.25 ,749000,single family,0
+Aloha,OR,97078,1971,Heat pump,Open parking,,365,2.5 ,625000,single family,0
+Salem,OR,97302,1972,Central air,2 Attached garage spaces,,224,2.5 ,778000,single family,0
+Burien,WA,98166,1984,Forced air,2 Attached garage spaces,,667,2.5 ,1448000,single family,0
+Portland,OR,97214,1949,No data,1 Garage space,,488,2.5 ,344900,condominium,393
+Hillsboro,OR,97123,1966,Wall unit(s),4 Attached garage spaces,,318,2.5 ,635000,single family,0
+Milwaukie,OR,97222,1955,Central air,2 Attached garage spaces,,224,2.5 ,799000,single family,0
+Milwaukie,OR,97267,1950,,1 Attached garage space,,175,2.5 ,399900,single family,0
+Portland,OR,97236,2003,Central air,2 Attached garage spaces,5227.0,237,2.5 ,579900,single family,50
+Portland,OR,97219,1942,No data,1 Attached garage space,,262,2.25 ,624900,single family,0
+Bothell,WA,98012,2023,,2 Attached garage spaces,,426,2.5 ,1235000,townhouse,0
+Beaverton,OR,97007,2023,Central air,2 Attached garage spaces,,372,2.7 ,849900,single family,0
+Portland,OR,97206,2023,Heat pump,Open parking,5227.0,452,2.5 ,459000,single family,276
+Portland,OR,97201,1991,Central air,2 Garage spaces,,501,2.25 ,1600000,single family,0
+Vancouver,WA,98661,1927,Wall unit(s),3 Garage spaces,,268,2.25 ,419000,single family,0
+Vancouver,WA,98682,1978,Window unit(s),2 Attached garage spaces,,474,2.25 ,499000,single family,0
+Springfield,OR,97478,1953,No data,1 Attached garage space,,343,2.5 ,600000,single family,0
+Hillsboro,OR,97123,1979,Central air,2 Garage spaces,,219,2.5 ,775000,single family,0
+Vancouver,WA,98662,2000,No data,3 Attached garage spaces,,345,2.25 ,550000,single family,0
+Eugene,OR,97405,1968,Central air,2 Attached garage spaces,,263,2.5 ,720000,single family,0
+Oswego,OR,97034,2024,Central air,3 Attached garage spaces,,662,2.25 ,4499900,single family,0
+Portland,OR,97229,1999,Central air,2 Attached garage spaces,6098.0,461,2.5 ,847000,single family,2
+Portland,OR,97203,2023,Heat pump,No data,,377,2.5 ,329900,condominium,50
+Portland,OR,97229,2007,Central air,5 Attached garage spaces,,393,2.5 ,4980000,single family,2
+Salem,OR,97317,2002,Central air,2 Attached garage spaces,,314,2.5 ,365000,single family,0
+Vancouver,WA,98682,1969,Central air,"Rv parking, none",,358,2.25 ,1100000,single family,0
+Oswego,OR,97034,2023,Central air,3 Attached garage spaces,,842,2.25 ,4995000,single family,0
+Beaverton,OR,97007,1990,Central air,3 Attached garage spaces,,298,2.5 ,849900,single family,0
+Olympia,WA,98501,1977,Heat pump,3 Attached garage spaces,,311,2.5 ,674950,single family,0
+Portland,OR,97239,1928,Central air,2 Attached garage spaces,,562,2.5 ,3500000,single family,0
+Salem,OR,97317,1963,Central air,2 Attached garage spaces,,304,2.5 ,698000,single family,0
+Springfield,OR,97478,1964,Heat pump,2 Attached garage spaces,,382,2.5 ,550000,single family,0
+Corvallis,OR,97333,1917,No data,1 Carport space,,340,3 ,750000,single family,0
+Vancouver,WA,98682,2024,Air conditioning ready,2 Attached garage spaces,,256,2.25 ,449000,townhouse,0
+Eugene,OR,97405,1949,Central air,2 Attached garage spaces,,267,2.5 ,750000,single family,0
+Portland,OR,97203,2023,Heat pump,No data,,394,2.5 ,349900,condominium,50
+Vancouver,WA,98661,2005,Heat pump,4 Attached garage spaces,,412,2.25 ,3750000,single family,0
+Portland,OR,97209,2006,Central air,2 Attached garage spaces,,477,2.5 ,995000,condominium,913
+Bothell,WA,98011,2002,"Central air, heat pump",3 Attached garage spaces,,438,2 ,2300000,single family,0
+Oswego,OR,97034,2023,Central air,3 Attached garage spaces,,889,2.25 ,4945000,single family,0
+Tacoma,WA,98465,2023,"Central air, heat pump",3 Attached garage spaces,,554,2.5 ,1350000,single family,0
+Vancouver,WA,98682,2000,Central air,3 Attached garage spaces,,360,2.25 ,895000,single family,0
+Seattle,WA,98177,1951,,2 Garage spaces,,616,2.5 ,1700000,single family,0
+Vancouver,WA,98664,2001,Central air,3 Attached garage spaces,,542,2 ,3995000,single family,0
+Hillsboro,OR,97123,1963,Heat pump,2 Attached garage spaces,,560,2.5 ,699900,single family,0
+Olympia,WA,98501,1950,,Driveway,,357,2.5 ,625000,single family,0
+Portland,OR,97229,2002,,1 Attached garage space,,281,2.5 ,459000,condominium,469
+Portland,OR,97221,1939,Central air,2 Attached garage spaces,,352,2.5 ,1595000,single family,0
+Vancouver,WA,98682,1994,Heat pump,2 Attached garage spaces,,293,2.25 ,770000,single family,0
+Portland,OR,97229,2005,Central air,3 Attached garage spaces,9583.0,278,2.5 ,1380000,single family,375
+Portland,OR,97229,1957,Central air,2 Garage spaces,,312,2.5 ,1000000,single family,0
+Bothell,WA,98021,1966,,3 Garage spaces,,210,2.5 ,700000,single family,0
+Seattle,WA,98102,1997,No data,,,652,3 ,365000,single family,0
+Seattle,WA,98103,1982,Ductless hp-mini split,Off street,,1246,3 ,299000,single family,0
+Seattle,WA,98116,2023,Ductless hp-mini split,Off street,1023.0,584,3 ,785000,townhouse,0
+Seattle,WA,98107,2023,Ductless hp-mini split,Off street,1202.0,612,3 ,859900,townhouse,0
+Seattle,WA,98144,2017,"Ductless hp-mini split, heat pump",1 Attached garage space,1219.0,594,2.5 ,949950,single family,0
+Seattle,WA,98107,2007,,1 Attached garage space,1237.0,593,2.5 ,860000,townhouse,0
+Seattle,WA,98199,2015,,1 Attached garage space,1267.0,589,2.5 ,925000,townhouse,0
+Seattle,WA,98116,2023,Ductless hp-mini split,1 Carport space,1285.0,605,3 ,779000,townhouse,0
+Portland,OR,97210,2004,No data,2 Attached garage spaces,1306.0,468,2 ,799000,townhouse,0
+Seattle,WA,98107,2023,Ductless hp-mini split,Off street,1376.0,568,3 ,995000,townhouse,0
+Seattle,WA,98122,2023,Ductless hp-mini split,1 Covered parking space,1398.0,674,3 ,1064900,townhouse,0
+Portland,OR,97236,2000,,1 Attached garage space,1742.0,259,2.25 ,324950,townhouse,0
+Vancouver,WA,98682,2024,Air conditioning ready,2 Attached garage spaces,1742.0,228,2.25 ,399000,townhouse,0
+Vancouver,WA,98682,2024,Air conditioning ready,2 Attached garage spaces,1742.0,228,2.25 ,399000,townhouse,0
+Portland,OR,97239,1902,Heat pump,Open parking,1742.0,489,2.5 ,369000,single family,0
+Seattle,WA,98107,2020,Ductless hp-mini split,Off street,1755.0,776,3.0 ,1375000,single family,0
+Seattle,WA,98109,2023,Ductless hp-mini split,2 Attached garage spaces,1807.0,824,3 ,1709900,single family,0
+Seattle,WA,98119,1950,,"Driveway, off street",1846.0,702,3 ,1348000,single family,0
+Salem,OR,97317,1978,No data,4 Attached garage spaces,,290,2.5 ,699900,single family,0
+Salem,OR,97317,1979,No data,No garage,,217,2 ,750000,single family,0
+Salem,OR,97301,1979,Central air,2 Attached garage spaces,,219,2.5 ,575000,single family,0
+Olympia,WA,98501,1954,"Central air, ductless hp-mini split",2 Attached garage spaces,,208,2.5 ,569999,single family,0
+Portland,OR,97229,1999,Central air,3 Attached garage spaces,,243,2.5 ,1099000,single family,224
+Portland,OR,97211,1956,Wall unit(s),2 Garage spaces,,237,2.5 ,379000,single family,989
+Hillsboro,OR,97123,1963,Central air,2 Attached garage spaces,,283,2.5 ,849950,single family,0
+Portland,OR,97210,1890,,"Off street, secured",,281,2.5 ,599000,condominium,332
+Portland,OR,97229,1997,Central air,3 Garage spaces,8276.0,278,2.5 ,779000,single family,150
+Vancouver,WA,98683,1997,Central air,4 Attached garage spaces,,544,2.25 ,4250000,single family,0
+Salem,OR,97304,1991,Central air,3 Attached garage spaces,,177,2.00 ,1300000,single family,0
+Tacoma,WA,98422,1999,Forced air,3 Attached garage spaces,,419,2.5 ,1200000,single family,0
+Salem,OR,97302,1957,Central air,2 Attached garage spaces,,215,2.5 ,1100000,single family,0
+Springfield,OR,97478,2019,No data,2 Attached garage spaces,,244,3 ,775000,single family,0
+Salem,OR,97317,1976,Central air,2 Carport spaces,,355,2.5 ,679500,single family,0
+Portland,OR,97210,2005,Central air,2 Attached garage spaces,,365,2.5 ,1180000,single family,0
+Salem,OR,97306,2001,Central air,2 Attached garage spaces,,248,2.5 ,815000,single family,0
+Salem,OR,97317,1975,Central air,2 Attached garage spaces,,381,2.5 ,1075000,single family,0
+Corvallis,OR,97333,1947,No data,2 Attached garage spaces,,356,2.5 ,470000,single family,0
+Seattle,WA,98144,1969,"Forced air, central air",2 Attached garage spaces,,1297,1.75 ,8950000,single family,0
+Corvallis,OR,97330,2016,Central air,3 Attached garage spaces,,350,2.5 ,1825000,single family,0
+Oswego,OR,97034,2004,Central air,5 Attached garage spaces,,742,2.25 ,6795000,single family,0
+Eugene,OR,97402,1946,Heat pump,2 Garage spaces,,1091,2.5 ,1100000,single family,0
+Portland,OR,97230,1975,Central air,2 Attached garage spaces,10018.0,267,2.25 ,575000,single family,0
+Portland,OR,97266,1993,Central air,2 Attached garage spaces,10018.0,346,2.25 ,524900,single family,0
+Portland,OR,97206,1963,No data,2 Attached garage spaces,10018.0,277,2.5 ,916230,single family,0
+Portland,OR,97225,1947,Central air,2 Attached garage spaces,10018.0,251,2.5 ,789900,single family,0
+Milwaukie,OR,97222,1932,Central air,Open parking,10018.0,217,2.5 ,970000,single family,0
+Troutdale,OR,97060,1995,Central air,3 Attached garage spaces,10018.0,279,2.5 ,775000,single family,0
+Eugene,OR,97402,1994,Heat pump,2 Attached garage spaces,10018.0,313,2.5 ,385500,single family,0
+Eugene,OR,97404,2004,Central air,2 Attached garage spaces,10018.0,260,2.5 ,679900,single family,0
+Beaverton,OR,97008,1992,Central air,2 Attached garage spaces,6969.0,350,2.5 ,634900,single family,120
+Springfield,OR,97477,1964,Heat pump,2 Attached garage spaces,10018.0,305,2.5 ,525000,single family,0
+Beaverton,OR,97005,1981,Central air,1 Garage space,,276,2.5 ,450000,condominium,415
+Springfield,OR,97477,1956,No data,2 Attached garage spaces,10018.0,340,2.5 ,429000,single family,0
+Beaverton,OR,97008,1992,Central air,2 Attached garage spaces,6098.0,308,2.5 ,649000,single family,402
+Springfield,OR,97478,1994,Heat pump,2 Attached garage spaces,10018.0,304,2.5 ,490000,single family,0
+Eugene,OR,97401,1974,Central air,2 Attached garage spaces,10018.0,342,3 ,595000,single family,0
+Aloha,OR,97007,1995,Central air,2 Attached garage spaces,8712.0,244,2.5 ,736500,single family,52
+Beaverton,OR,97007,1987,Heat pump,2 Attached garage spaces,,280,2.5 ,799000,single family,738
+Beaverton,OR,97007,2002,Central air,2 Attached garage spaces,,303,2.5 ,340000,condominium,479
+Tacoma,WA,98408,1977,,2 Attached garage spaces,10018.0,350,3 ,425000,single family,0
+Beaverton,OR,97078,2013,No data,2 Attached garage spaces,3484.0,282,2.5 ,575000,single family,55
+Seattle,WA,98106,1939,,1 Garage space,10118.0,565,3 ,649900,single family,0
+Seattle,WA,98136,1991,Ductless hp-mini split,2 Attached garage spaces,10310.0,819,2.5 ,3598000,single family,0
+Seattle,WA,98125,1916,"Forced air, high efficiency (unspecified)","Driveway, off street",10319.0,368,2.5 ,1525000,single family,0
+Tacoma,WA,98407,1964,Forced air,2 Attached garage spaces,10358.0,409,2.5 ,639000,single family,0
+Seattle,WA,98105,1946,,2 Garage spaces,10402.0,777,2 ,2650000,single family,0
+Portland,OR,97239,1950,No data,2 Attached garage spaces,10454.0,298,2.25 ,650000,single family,0
+Beaverton,OR,97007,2023,Central air,2 Attached garage spaces,6098.0,323,2.5 ,759950,single family,2
+Beaverton,OR,97078,2003,Central air,1 Attached garage space,1742.0,294,2.5 ,424900,townhouse,282
+Beaverton,OR,97006,2004,Central air,1 Attached garage space,1306.0,255,2.5 ,389990,townhouse,332
+Beaverton,OR,97007,1995,Central air,3 Attached garage spaces,,242,2.5 ,950000,single family,200
+Tigard,OR,97223,1998,Central air,3 Attached garage spaces,10454.0,314,2.25 ,1398000,single family,0
+Beaverton,OR,97007,2023,Air conditioning ready,2 Attached garage spaces,,303,2.5 ,728531,single family,44
+Oswego,OR,97034,2023,Air conditioning ready,2 Attached garage spaces,10454.0,723,2.25 ,3589000,single family,0
+Vancouver,WA,98682,1971,Heat pump,3 Attached garage spaces,10454.0,266,2.25 ,425000,single family,0
+Vancouver,WA,98685,2014,Central air,2 Attached garage spaces,10454.0,247,2.25 ,949900,single family,0
+Beaverton,OR,97007,1992,Central air,2 Attached garage spaces,10454.0,275,2.5 ,620000,single family,0
+Eugene,OR,97403,2022,Central air,2 Attached garage spaces,10454.0,419,2.5 ,1125000,single family,0
+Hillsboro,OR,97124,1978,Heat pump,2 Attached garage spaces,,865,2.25 ,4250000,single family,0
+Hillsboro,OR,97124,2001,Wall unit(s),2 Attached garage spaces,,242,2.5 ,419900,condominium,345
+Hillsboro,OR,97124,2004,Central air,2 Attached garage spaces,2178.0,330,2.5 ,495000,townhouse,345
+Portland,OR,97229,2023,Air conditioning ready,6 Attached garage spaces,,919,2.5 ,4950000,single family,0
+Hillsboro,OR,97123,1995,Central air,2 Attached garage spaces,7405.0,313,2.5 ,567900,single family,25
+Eugene,OR,97405,1920,No data,2 Attached garage spaces,,429,2.5 ,499000,single family,0
+Seattle,WA,98107,1946,,,2583.0,421,2.5 ,1100000,single family,0
+Portland,OR,97230,1969,,Open parking,2613.0,258,2.25 ,265000,single family,0
+Portland,OR,97239,1908,Central air,Open parking,2613.0,244,2.5 ,575000,single family,0
+Hillsboro,OR,97124,2000,Central air,2 Attached garage spaces,5227.0,269,2.5 ,660000,single family,118
+Hillsboro,OR,97123,2006,No data,1 Attached garage space,3049.0,262,2.5 ,585500,single family,104
+Hillsboro,OR,97123,2020,Central air,2 Attached garage spaces,5227.0,295,2.5 ,875000,single family,111
+Hillsboro,OR,97123,2008,No data,2 Attached garage spaces,1742.0,237,2.5 ,449900,townhouse,205
+Hillsboro,OR,97123,2003,Heat pump,2 Attached garage spaces,7405.0,294,2.5 ,834000,single family,200
+Beaverton,OR,97003,2005,Central air,2 Garage spaces,1306.0,266,2.5 ,439900,townhouse,309
+Tigard,OR,97223,1995,Central air,2 Attached garage spaces,6098.0,339,2.5 ,629900,single family,225
+Tigard,OR,97224,2005,Central air,2 Attached garage spaces,1306.0,255,2.5 ,429000,townhouse,370
+Portland,OR,97216,2003,Central air,1 Attached garage space,2613.0,283,2.5 ,425000,single family,0
+Portland,OR,97206,1923,,Open parking,2613.0,223,2.5 ,498900,single family,0
+Portland,OR,97216,2004,No data,1 Attached garage space,2613.0,266,2.5 ,399900,single family,0
+Portland,OR,97213,2019,Central air,1 Attached garage space,2613.0,261,2.5 ,559900,single family,0
+Tigard,OR,97224,1993,Central air,2 Attached garage spaces,9147.0,284,2.5 ,840000,single family,200
+Portland,OR,97203,2020,Central air,1 Attached garage space,2613.0,333,2.5 ,579989,single family,0
+Tigard,OR,97224,1997,Central air,3 Attached garage spaces,9147.0,307,2.5 ,835000,single family,150
+Tigard,OR,97224,2020,No data,1 Attached garage space,1306.0,342,2.5 ,399000,single family,285
+Tigard,OR,97224,1973,Central air,2 Attached garage spaces,,378,2.5 ,519900,single family,650
+Portland,OR,97224,2021,Central air,2 Attached garage spaces,5227.0,356,2.5 ,950000,single family,107
+Tigard,OR,97223,2003,Central air,3 Attached garage spaces,6969.0,285,2.5 ,855000,single family,430
+Portland,OR,97224,2023,Air conditioning ready,2 Attached garage spaces,,274,2.5 ,699990,single family,70
+Beaverton,OR,97003,2005,Central air,2 Attached garage spaces,2613.0,299,2.5 ,474900,townhouse,0
+Portland,OR,97224,2023,Central air,2 Attached garage spaces,,293,2.5 ,875964,single family,75
+Seattle,WA,98144,1908,,1 Attached garage space,2639.0,396,2.5 ,890000,single family,0
+Salem,OR,97317,1992,No data,No garage,,385,2.5 ,596700,single family,0
+Oswego,OR,97035,2023,Central air,4 Attached garage spaces,,676,2.5 ,2995000,single family,0
+Vancouver,WA,98685,1997,Heat pump,3 Attached garage spaces,,351,2.25 ,1699000,single family,0
+Vancouver,WA,98662,1959,Central air,Open parking,,479,2.25 ,770000,single family,0
+Eugene,OR,97405,1978,Heat pump,4 Attached garage spaces,,209,2 ,2995000,single family,0
+Oswego,OR,97034,1996,Central air,12 Attached garage spaces,,591,2.25 ,11500000,single family,0
+Salem,OR,97306,1977,Central air,2 Attached garage spaces,,331,2.5 ,799000,single family,0
+Seattle,WA,98105,1921,Ductless hp-mini split,1 Garage space,3001.0,699,2.5 ,1175000,single family,0
+Seattle,WA,98103,1909,Ductless hp-mini split,"Driveway, off street",3001.0,641,2.5 ,1150000,single family,0
+Oswego,OR,97035,1988,Central air,2 Attached garage spaces,7840.0,397,2.5 ,1180000,single family,150
+Portland,OR,97203,1927,Central air,1 Garage space,3049.0,277,2.25 ,449000,single family,0
+Oswego,OR,97034,1935,Central air,2 Attached garage spaces,7405.0,597,2.5 ,2250000,single family,2
+Vancouver,WA,98661,2020,No data,2 Attached garage spaces,3049.0,254,2.25 ,500000,single family,0
+Oswego,OR,97034,1948,No data,Carport,,226,2.5 ,375000,condominium,592
+Oswego,OR,97035,2002,Central air,2 Attached garage spaces,10018.0,295,2.5 ,1100000,single family,553
+Portland,OR,97202,1910,No data,Open parking,3049.0,361,2.5 ,499000,single family,0
+Portland,OR,97231,1942,Central air,Open parking,3049.0,590,2.5 ,399000,single family,0
+Vancouver,WA,98686,2006,Central air,2 Attached garage spaces,3079.0,241,2.25 ,499900,single family,0
+Seattle,WA,98122,1905,,1 Carport space,3240.0,500,3 ,1200000,single family,0
+Tacoma,WA,98405,1890,,"Rv parking, driveway, off street",3249.0,353,3 ,385000,single family,0
+Portland,OR,97211,1904,No data,1 Attached garage space,3484.0,194,2.25 ,459000,single family,0
+Oswego,OR,97035,1979,Heat pump,3 Attached garage spaces,8712.0,276,2.5 ,799950,single family,88
+Portland,OR,97217,1911,Wall unit(s),Off street,3484.0,354,2.5 ,475000,single family,0
+Springfield,OR,97478,1997,No data,Open parking,3484.0,350,2.75 ,315000,single family,0
+Oswego,OR,97034,2004,Central air,3 Attached garage spaces,,370,2.5 ,1425000,single family,250
+Tacoma,WA,98406,1962,,Carport,3598.0,509,2.5 ,299000,single family,0
+Seattle,WA,98119,2023,Ductless hp-mini split,1 Garage space,3598.0,708,2.5 ,2700000,single family,0
+Seattle,WA,98119,1920,,1 Garage space,3598.0,482,3 ,1495000,single family,0
+Oswego,OR,97034,1990,Central air,3 Attached garage spaces,,371,2.5 ,1290000,single family,300
+Oswego,OR,97035,2023,Central air,2 Attached garage spaces,8894.0,539,2.5 ,2195000,single family,500
+Seattle,WA,98103,1909,,2 Garage spaces,3598.0,562,3 ,1495000,single family,0
+Seattle,WA,98106,1948,,,3632.0,758,2.5 ,485000,single family,0
+Seattle,WA,98115,1931,,1 Attached garage space,3680.0,534,2.50 ,950000,single family,0
+Tacoma,WA,98406,1910,,"Rv parking, driveway, off street",3750.0,292,2.5 ,680000,single family,0
+Seattle,WA,98122,1900,,"Driveway, off street",3750.0,738,2.5 ,1299000,single family,0
+Salem,OR,97302,1929,Central air,1 Garage space,3800.0,226,2.5 ,485000,single family,0
+Tacoma,WA,98418,1917,,2 Carport spaces,3841.0,225,2.5 ,460000,single family,0
+Eugene,OR,97408,1995,Central air,2 Attached garage spaces,6969.0,277,2.5 ,710000,single family,100
+Portland,OR,97239,1991,No data,No data,3920.0,233,2.25 ,400000,single family,0
+Eugene,OR,97408,1998,Central air,2 Attached garage spaces,9583.0,304,2.5 ,919900,single family,100
+Portland,OR,97266,1914,No data,Open parking,3920.0,211,2.25 ,489900,single family,0
+Portland,OR,97216,1925,No data,Open parking,3920.0,425,2.25 ,389900,single family,0
+Portland,OR,97215,1913,Window unit(s),1 Garage space,3920.0,358,2.5 ,575000,single family,0
+Beaverton,OR,97007,1980,No data,2 Garage spaces,3920.0,261,2.5 ,397000,single family,0
+Corvallis,OR,97333,1947,No data,No garage,3920.0,280,2.5 ,300000,single family,0
+Seattle,WA,98112,1926,,1 Attached garage space,3937.0,630,2.5 ,1650000,single family,0
+Seattle,WA,98109,1913,Ductless hp-mini split,,3942.0,639,2.5 ,2250000,single family,0
+Tacoma,WA,98418,1926,Ductless hp-mini split,1 Garage space,3998.0,363,2.5 ,379000,single family,0
+Seattle,WA,98118,1942,,Off street,3998.0,607,2.5 ,425000,single family,0
+Seattle,WA,98133,1931,Forced air,"Driveway, off street",3998.0,491,3 ,899000,single family,0
+Springfield,OR,97478,1935,No data,4 Garage spaces,,348,2.5 ,550000,single family,0
+Corvallis,OR,97333,1935,No data,2 Garage spaces,,553,2.5 ,1350000,single family,0
+Seattle,WA,98122,1900,,1 Attached garage space,4051.0,430,3.0 ,1499950,single family,0
+Seattle,WA,98108,1969,,"Rv parking, driveway, off street",4068.0,402,2.5 ,925000,single family,0
+Seattle,WA,98105,2023,Ductless hp-mini split,2 Attached garage spaces,4190.0,804,2.5 ,2699950,single family,0
+Tacoma,WA,98407,2023,Other – see remarks,2 Garage spaces,4199.0,468,2.5 ,1195000,single family,0
+Eugene,OR,97405,1976,,2 Attached garage spaces,7840.0,260,2.5 ,491000,single family,223
+Tacoma,WA,98418,1921,,2 Garage spaces,4199.0,305,2.5 ,485000,single family,0
+Seattle,WA,98112,1904,,Garage,4199.0,482,2 ,1499000,single family,0
+Portland,OR,97230,2003,No data,2 Attached garage spaces,4356.0,276,2.25 ,464900,single family,0
+Portland,OR,97217,1924,Central air,1 Garage space,4356.0,345,2.25 ,530000,single family,0
+Vancouver,WA,98685,2023,Central air,3 Attached garage spaces,4356.0,334,2.25 ,1000000,single family,0
+Portland,OR,97239,1913,,2 Attached garage spaces,4356.0,366,2.5 ,625000,single family,0
+Eugene,OR,97401,2000,Central air,4 Attached garage spaces,,425,2.5 ,1800000,single family,130
+Portland,OR,97202,1903,Central air,Carport,4356.0,366,2.5 ,849950,single family,0
+Eugene,OR,97405,1975,Heat pump,2 Attached garage spaces,8712.0,266,2.5 ,699000,single family,96
+Beaverton,OR,97003,1994,No data,2 Attached garage spaces,4356.0,290,2.5 ,385000,townhouse,0
+Hillsboro,OR,97124,1999,Air conditioning ready,2 Attached garage spaces,4356.0,348,2.5 ,569000,single family,0
+Eugene,OR,97408,2005,No data,2 Attached garage spaces,3049.0,241,2.5 ,479000,single family,165
+Oswego,OR,97034,2018,Central air,2 Garage spaces,4356.0,669,2.5 ,1350000,single family,0
+Portland,OR,97203,1943,,Open parking,4356.0,276,3 ,295000,single family,0
+Salem,OR,97306,2023,Central air,2 Attached garage spaces,4546.0,301,2.5 ,569950,single family,0
+Seattle,WA,98109,2023,Ductless hp-mini split,1 Attached garage space,4599.0,812,3 ,928500,single family,0
+Tacoma,WA,98408,1914,,1 Garage space,4626.0,321,2.5 ,444950,single family,0
+Salem,OR,97304,2016,Central air,2 Attached garage spaces,4725.0,320,2.5 ,399900,single family,0
+Seattle,WA,98108,2022,Central air,2 Attached garage spaces,4739.0,388,2.5 ,1375000,single family,0
+Tacoma,WA,98405,1942,"Ductless hp-mini split, forced air",Off street,4782.0,398,2.5 ,650000,single family,0
+Eugene,OR,97401,1978,Heat pump,1 Attached garage space,,315,2.5 ,315000,condominium,340
+Eugene,OR,97405,2019,Central air,2 Attached garage spaces,,297,2.5 ,730000,single family,50
+Eugene,OR,97401,1971,Heat pump,2 Garage spaces,,270,2.5 ,380000,condominium,352
+Portland,OR,97213,1925,No data,1 Attached garage space,4791.0,466,2.25 ,399000,single family,0
+Portland,OR,97211,1910,No data,Open parking,4791.0,266,2.25 ,499500,single family,0
+Eugene,OR,97403,2004,Central air,2 Attached garage spaces,1742.0,309,2.5 ,670000,single family,130
+Portland,OR,97212,1890,No data,No data,4791.0,216,2.25 ,499500,single family,0
+Milwaukie,OR,97222,1930,No data,1 Garage space,4791.0,202,2.25 ,222500,single family,0
+Vancouver,WA,98660,1916,Other,Open parking,4791.0,321,2.25 ,699500,single family,0
+Portland,OR,97214,1926,Central air,2 Garage spaces,4791.0,191,2.35 ,850000,single family,0
+Eugene,OR,97403,2023,Central air,2 Attached garage spaces,,508,2.5 ,1375000,single family,500
+Portland,OR,97218,1928,Heat pump,Open parking,4791.0,280,2.5 ,295000,single family,0
+Portland,OR,97211,1929,No data,2 Garage spaces,4791.0,240,2.5 ,549950,single family,0
+Portland,OR,97220,1928,Other,Open parking,4791.0,168,2.5 ,365000,single family,0
+Portland,OR,97203,1904,Central air,Open parking,4791.0,280,2.5 ,799900,single family,0
+Springfield,OR,97477,2002,Central air,2 Attached garage spaces,8276.0,320,2.5 ,549000,single family,60
+Portland,OR,97206,1978,Central air,2 Attached garage spaces,4791.0,475,2.5 ,495000,single family,0
+Portland,OR,97213,1923,No data,1 Garage space,4791.0,252,2.5 ,520000,single family,0
+Portland,OR,97212,2013,Central air,2 Attached garage spaces,4791.0,351,2.5 ,1249000,single family,0
+Portland,OR,97209,1902,Central air,Open parking,4791.0,329,2.5 ,1295000,single family,0
+Milwaukie,OR,97222,1912,No data,1 Garage space,4791.0,248,2.5 ,499000,single family,0
+Oswego,OR,97034,2022,Central air,2 Attached garage spaces,4791.0,441,2.5 ,1399000,single family,0
+Eugene,OR,97404,2021,Central air,2 Attached garage spaces,4791.0,338,2.5 ,474900,single family,0
+Eugene,OR,97405,2019,Central air,2 Attached garage spaces,4791.0,316,2.5 ,570000,single family,0
+Eugene,OR,97404,1928,Heat pump,2 Garage spaces,4791.0,215,2.5 ,429000,single family,0
+Eugene,OR,97401,2023,No data,2 Attached garage spaces,4791.0,392,2.5 ,639900,single family,0
+Springfield,OR,97477,1935,,1 Garage space,4791.0,278,2.5 ,299000,single family,0
+Salem,OR,97304,1920,Central air,1 Garage space,4792.0,387,2 ,324900,single family,0
+Seattle,WA,98108,1942,Forced air,1 Garage space,4800.0,473,2.5 ,530000,single family,0
+Seattle,WA,98118,1910,"Forced air, heat pump",1 Garage space,4800.0,312,2.5 ,749950,single family,0
+Tacoma,WA,98405,1908,,Off street,4874.0,276,2.5 ,475000,single family,0
+Seattle,WA,98122,2023,"Ductless hp-mini split, heat pump, high efficiency (unspecified)",4 Attached garage spaces,4891.0,766,2.5 ,2795000,single family,0
+Springfield,OR,97477,2007,Central air,2 Attached garage spaces,5227.0,279,2.5 ,630000,single family,20
+Salem,OR,97306,2022,Central air,2 Attached garage spaces,4967.0,323,2.25 ,489900,single family,0
+Vancouver,WA,98683,2003,Central air,4 Attached garage spaces,,726,2.25 ,6500000,single family,0
+Portland,OR,97229,1942,No data,No data,,651,2.5 ,779000,single family,0
+Springfield,OR,97478,1979,Heat pump,3 Attached garage spaces,,310,2.5 ,925000,single family,0
+Vancouver,WA,98686,1955,Heat pump,1 Garage space,,332,2.25 ,835000,single family,0
+Salem,OR,97302,1974,No data,2 Attached garage spaces,,390,2.5 ,1500000,single family,0
+Eugene,OR,97402,1964,No data,2 Garage spaces,,448,2.5 ,1250000,single family,0
+Salem,OR,97302,1928,Central air,1 Garage space,5000.0,302,2.5 ,435000,single family,0
+Corvallis,OR,97333,1996,Central air,2 Attached garage spaces,5663.0,347,2.5 ,524900,single family,120
+Salem,OR,97302,1910,No data,1 Garage space,5000.0,179,2.5 ,225000,single family,0
+Corvallis,OR,97333,1999,No data,2 Attached garage spaces,5227.0,312,2.5 ,520000,single family,170
+Tacoma,WA,98404,1912,,2 Garage spaces,5000.0,269,2.5 ,499950,single family,0
+Tacoma,WA,98405,2000,,Driveway,5000.0,241,2.5 ,495000,single family,0
+Seattle,WA,98144,2007,No data,1 Attached garage space,5000.0,451,2.5 ,535000,townhouse,0
+Seattle,WA,98118,1920,"90%+ high efficiency, central air, forced air",Off street,5148.0,409,3 ,785000,single family,0
+Seattle,WA,98119,1929,,1 Attached garage space,5157.0,463,2.5 ,1495000,single family,0
+Seattle,WA,98106,1918,Forced air,"Driveway, off street",5161.0,384,2.5 ,895000,single family,0
+Tacoma,WA,98444,1996,,2 Attached garage spaces,5188.0,242,2.5 ,489900,single family,0
+Portland,OR,97266,1979,,2 Attached garage spaces,5227.0,318,2.25 ,399993,single family,0
+Portland,OR,97219,1960,Central air,1 Attached garage space,5227.0,285,2.25 ,650000,single family,0
+Portland,OR,97202,1922,,1 Garage space,5227.0,336,2.25 ,768000,single family,0
+Portland,OR,97206,1940,No data,No data,5227.0,259,2.25 ,575000,single family,0
+Portland,OR,97217,1960,,1 Attached garage space,5227.0,391,2.25 ,399999,single family,0
+Portland,OR,97236,2000,Central air,2 Attached garage spaces,5227.0,351,2.25 ,440000,single family,0
+Beaverton,OR,97007,2000,Central air,2 Attached garage spaces,5227.0,230,2.25 ,749000,single family,0
+Hillsboro,OR,97123,2003,Central air,2 Attached garage spaces,5227.0,305,2.25 ,610000,single family,0
+Vancouver,WA,98685,1998,No data,2 Garage spaces,5227.0,323,2.25 ,549900,single family,0
+Vancouver,WA,98682,2018,Central air,2 Attached garage spaces,5227.0,321,2.25 ,585000,single family,0
+Portland,OR,97212,1939,Central air,2 Garage spaces,5227.0,315,2.5 ,950000,single family,0
+Portland,OR,97217,1924,Central air,1 Garage space,5227.0,278,2.5 ,889000,single family,0
+Portland,OR,97202,1923,Central air,Open parking,5227.0,391,2.5 ,785000,single family,0
+Portland,OR,97221,2023,Central air,2 Attached garage spaces,5227.0,382,2.5 ,1195000,single family,0
+Portland,OR,97213,1910,No data,Open parking,5227.0,373,2.5 ,499000,single family,0
+Salem,OR,97304,1978,No data,2 Attached garage spaces,5500.0,249,2.5 ,385000,single family,1
+Portland,OR,97212,1910,Central air,Open parking,5227.0,267,2.5 ,899900,single family,0
+Portland,OR,97214,1907,No data,Open parking,5227.0,331,2.5 ,699000,single family,0
+Portland,OR,97202,1928,Central air,1 Garage space,5227.0,321,2.5 ,750000,single family,0
+Salem,OR,97301,2023,Central air,2 Attached garage spaces,3535.0,238,2.5 ,447995,single family,35
+Salem,OR,97304,2013,Central air,2 Attached garage spaces,6800.0,287,2.5 ,644900,single family,175
+Portland,OR,97215,1911,,Open parking,5227.0,289,2.5 ,650000,single family,0
+Portland,OR,97202,1908,Energy star qualified equipment,Open parking,5227.0,446,2.5 ,549900,single family,0
+Portland,OR,97215,1906,No data,2 Garage spaces,5227.0,196,2.5 ,585000,single family,0
+Portland,OR,97203,1904,No data,2 Garage spaces,5227.0,321,2.5 ,479900,single family,0
+Portland,OR,97203,1904,Air conditioning ready,1 Garage space,5227.0,247,2.5 ,449000,single family,0
+Portland,OR,97212,1910,Central air,1 Attached garage space,5227.0,446,2.5 ,1795000,single family,0
+Beaverton,OR,97005,2007,Central air,3 Attached garage spaces,5227.0,294,2.5 ,779000,single family,0
+Beaverton,OR,97005,1952,Wall unit(s),1 Garage space,5227.0,567,2.5 ,749000,single family,0
+Eugene,OR,97401,1946,Heat pump,Open parking,5227.0,237,2.5 ,465000,single family,0
+Salem,OR,97306,2014,No data,2 Attached garage spaces,9764.0,270,2.5 ,595000,single family,49
+Salem,OR,97306,2001,Central air,3 Attached garage spaces,6098.0,228,2.5 ,579000,single family,49
+Eugene,OR,97402,2020,Heat pump,2 Attached garage spaces,5227.0,338,2.5 ,500000,single family,0
+Salem,OR,97302,2023,No data,2 Attached garage spaces,5200.0,395,2.5 ,729000,single family,75
+Salem,OR,97304,2010,Central air,3 Attached garage spaces,6970.0,286,2.5 ,659900,single family,175
+Eugene,OR,97403,2019,Heat pump,3 Attached garage spaces,5227.0,456,2.5 ,899900,single family,0
+Springfield,OR,97478,1982,Central air,2 Attached garage spaces,5227.0,366,2.5 ,375000,single family,0
+Salem,OR,97306,1997,Central air,2 Attached garage spaces,5200.0,257,2.5 ,619000,single family,49
+Salem,OR,97302,2016,Central air,2 Attached garage spaces,5600.0,307,2.5 ,589900,single family,435
+Springfield,OR,97478,2017,Central air,2 Attached garage spaces,5227.0,251,2.5 ,499000,single family,0
+Salem,OR,97302,1928,No data,2 Garage spaces,5227.0,223,2.5 ,399900,single family,0
+Portland,OR,97216,1942,,Open parking,5227.0,198,2 ,399999,single family,0
+Portland,OR,97214,1884,Central air,2 Garage spaces,5227.0,233,2 ,569900,single family,0
+Eugene,OR,97401,1890,Wall unit(s),Open parking,5227.0,221,3 ,660000,single family,0
+Seattle,WA,98105,1930,Forced air,"Rv parking, off street",5235.0,481,3 ,1260000,single family,0
+Seattle,WA,98108,1953,,Driveway,5266.0,361,2.5 ,599995,single family,0
+Seattle,WA,98146,1942,,1 Garage space,5279.0,741,2.5 ,599990,single family,0
+Salem,OR,97302,2023,Central air,1 Attached garage space,5288.0,314,2.5 ,775000,single family,0
+Salem,OR,97301,2022,Central air,2 Garage spaces,4205.0,245,2.5 ,559900,single family,150
+Salem,OR,97302,2023,No data,1 Attached garage space,1200.0,243,2.5 ,362900,single family,150
+Seattle,WA,98199,1948,Other – see remarks,1 Garage space,5375.0,495,3 ,1474950,single family,0
+Tacoma,WA,98405,1949,"Ductless hp-mini split, wall unit(s)",2 Garage spaces,5401.0,534,2.5 ,409900,single family,0
+Way,WA,98023,1992,,2 Carport spaces,5401.0,378,3 ,574950,single family,0
+Vancouver,WA,98685,2022,Central air,3 Attached garage spaces,8159.0,280,2.5 ,999995,single family,67
+Seattle,WA,98112,1908,Ductless hp-mini split,Driveway,5401.0,581,3 ,1295000,single family,0
+Tacoma,WA,98407,1950,Window unit(s),"Rv parking, none",5436.0,413,2.5 ,459950,single family,0
+Tacoma,WA,98406,1925,,Off street,5501.0,289,2.5 ,739000,single family,0
+Seattle,WA,98102,1891,Radiant,1 Garage space,5501.0,638,3 ,1295000,single family,0
+Beaverton,OR,97003,1994,Central air,2 Attached garage spaces,5662.0,288,2.25 ,599999,single family,0
+Tumwater,WA,98512,2003,"Central air, forced air",2 Attached garage spaces,5035.0,200,2.5 ,579900,single family,548
+Vancouver,WA,98686,1998,Central air,2 Attached garage spaces,5662.0,245,2.25 ,569000,single family,0
+Portland,OR,97203,1945,Central air,1 Attached garage space,5662.0,258,2.5 ,549000,single family,0
+Tumwater,WA,98512,1988,,2 Attached garage spaces,,260,2.5 ,569500,single family,125
+Olympia,WA,98501,1992,Central air,2 Attached garage spaces,,309,2.5 ,669000,single family,18
+Olympia,WA,98512,2003,"Central air, forced air",2 Attached garage spaces,5000.0,299,2.5 ,524900,single family,250
+Portland,OR,97221,1999,Central air,1 Attached garage space,5662.0,318,2.5 ,899000,single family,0
+Olympia,WA,98506,2006,"Central air, forced air",2 Attached garage spaces,6425.0,189,2.5 ,589000,single family,450
+Olympia,WA,98512,2018,Forced air,2 Attached garage spaces,,313,2.5 ,675000,single family,295
+Portland,OR,97203,1924,No data,2 Garage spaces,5662.0,208,2.5 ,599000,single family,0
+Olympia,WA,98501,2001,,2 Attached garage spaces,4965.0,262,2.5 ,519950,single family,40
+Olympia,WA,98501,1976,Ductless hp-mini split,2 Attached garage spaces,,317,2.5 ,460000,single family,99
+Salem,OR,97301,1935,No data,1 Garage space,5662.0,199,2.5 ,350000,single family,0
+Olympia,WA,98506,2022,Forced air,2 Attached garage spaces,6255.0,232,2.5 ,878900,single family,115
+Salem,OR,97306,2023,Central air,2 Attached garage spaces,5662.0,391,2.5 ,627000,single family,0
+Vancouver,WA,98665,1998,Heat pump,2 Attached garage spaces,5662.0,383,2.5 ,460000,single family,0
+Tacoma,WA,98406,1905,"90%+ high efficiency, central air, forced air",1 Garage space,5662.0,441,2.5 ,1877000,single family,0
+Tacoma,WA,98404,1919,,,3123.0,515,2.5 ,356990,single family,0
+Springfield,OR,97478,1973,Heat pump,Open parking,5662.0,256,2.75 ,365000,single family,0
+Salem,OR,97306,2001,No data,2 Attached garage spaces,5733.0,277,3 ,544900,single family,0
+Tacoma,WA,98405,1971,,"Driveway, off street",5850.0,250,2.5 ,489950,single family,0
+Seattle,WA,98118,1905,,,5880.0,395,3 ,789000,single family,0
+Salem,OR,97304,2004,No data,2 Attached garage spaces,5886.0,296,2 ,445000,single family,0
+Tacoma,WA,98408,1908,,2 Garage spaces,5998.0,253,2.5 ,479000,single family,0
+Tacoma,WA,98404,1944,,"Driveway, off street",5998.0,264,2.5 ,415000,single family,0
+Tacoma,WA,98408,1940,Window unit(s),"Driveway, off street",5998.0,438,2.5 ,410000,single family,0
+Tacoma,WA,98407,2016,,2 Attached garage spaces,5998.0,318,2.5 ,995000,single family,0
+Tacoma,WA,98465,1975,,2 Garage spaces,2840.0,370,2.5 ,399950,townhouse,385
+Tacoma,WA,98404,1970,,"Driveway, off street",5998.0,376,2.5 ,440000,single family,0
+Seattle,WA,98103,1908,,1 Garage space,5998.0,567,2.5 ,2160000,single family,0
+Tacoma,WA,98405,1918,"Forced air, heat pump",3 Garage spaces,5998.0,329,3 ,1290000,single family,0
+Burien,WA,98146,1929,,Driveway,5998.0,444,3 ,475000,single family,0
+Portland,OR,97231,1944,Other,1 Garage space,,469,2.5 ,750000,single family,0
+Seattle,WA,98107,2022,Ductless hp-mini split,,,604,2.5 ,689950,townhouse,0
+Seattle,WA,98136,2023,Ductless hp-mini split,Off street,,669,3 ,799000,townhouse,0
+Seattle,WA,98107,2023,Ductless hp-mini split,,,662,2.75 ,659950,townhouse,0
+Seattle,WA,98119,1904,,1 Carport space,6002.0,556,3.0 ,850000,single family,0
+Seattle,WA,98136,1913,,"Driveway, off street",6028.0,587,3 ,1050000,single family,0
+Tacoma,WA,98404,1920,,Driveway,6050.0,530,2.5 ,364950,single family,0
+Seattle,WA,98102,1922,,1 Garage space,6050.0,573,2.5 ,1995000,single family,0
+Tacoma,WA,98422,2001,,3 Attached garage spaces,9670.0,305,2.5 ,715000,single family,200
+Portland,OR,97210,1924,Central air,2 Attached garage spaces,6098.0,539,2.25 ,2795000,single family,0
+Salem,OR,97302,1925,No data,1 Garage space,6098.0,264,2.25 ,359900,single family,0
+Tacoma,WA,98422,1994,"Central air, forced air",3 Attached garage spaces,,399,2.5 ,945000,single family,32
+Tacoma,WA,98406,1992,,3 Attached garage spaces,9374.0,390,2.5 ,899950,single family,360
+Vancouver,WA,98685,2005,Central air,2 Attached garage spaces,6098.0,266,2.25 ,590000,single family,0
+Vancouver,WA,98684,1989,Central air,2 Attached garage spaces,6098.0,258,2.25 ,545000,single family,0
+Vancouver,WA,98682,1994,Heat pump,2 Attached garage spaces,6098.0,195,2.25 ,625000,single family,0
+Vancouver,WA,98684,1989,Air conditioning ready,2 Attached garage spaces,6098.0,330,2.25 ,555000,single family,0
+Portland,OR,97231,2009,No data,Off street,6098.0,103,2.5 ,495000,single family,0
+Hillsboro,OR,97123,1996,Central air,2 Attached garage spaces,6098.0,327,2.5 ,544900,single family,0
+Portland,OR,97224,1999,Central air,2 Attached garage spaces,6098.0,385,2.5 ,615000,single family,0
+Eugene,OR,97402,1961,,1 Garage space,6098.0,331,2.5 ,450000,single family,0
+Tacoma,WA,98402,2006,Central air,1 Garage space,,463,2.5 ,352000,townhouse,360
+Eugene,OR,97402,2000,Central air,3 Attached garage spaces,6098.0,330,2.5 ,499000,single family,0
+Eugene,OR,97404,1997,Heat pump,2 Attached garage spaces,6098.0,301,2.5 ,450000,single family,0
+Eugene,OR,97401,1994,Central air,2 Attached garage spaces,6098.0,284,2.5 ,675000,single family,0
+Eugene,OR,97401,1967,Other,2 Attached garage spaces,6098.0,369,2.5 ,425000,single family,0
+Springfield,OR,97477,1946,Heat pump,2 Garage spaces,6098.0,343,2.5 ,374900,single family,0
+Salem,OR,97306,2006,Central air,2 Attached garage spaces,6098.0,220,2.5 ,525000,single family,0
+Salem,OR,97301,1910,No data,No garage,6098.0,288,2.5 ,749000,single family,0
+Eugene,OR,97405,1960,Heat pump,1 Attached garage space,6098.0,410,3 ,515000,single family,0
+Olympia,WA,98501,1927,,1 Attached garage space,6237.0,201,2.5 ,683000,single family,0
+Tacoma,WA,98407,1972,Forced air,1 Garage space,6242.0,241,3 ,899000,single family,0
+Salem,OR,97306,2023,Central air,2 Attached garage spaces,6266.0,333,2.5 ,659900,single family,0
+Seattle,WA,98122,1926,,,6359.0,747,2.5 ,2690000,single family,0
+Seattle,WA,98108,2010,No data,Off street,2308.0,355,2.5 ,599999,townhouse,311
+Tacoma,WA,98418,1925,,,6398.0,253,2.75 ,379977,single family,0
+Tacoma,WA,98444,1915,"90%+ high efficiency, ductless hp-mini split",Off street,6403.0,298,2.5 ,490000,single family,0
+Tacoma,WA,98404,1996,,3 Garage spaces,6499.0,299,2.25 ,345000,single family,0
+Tacoma,WA,98404,1969,,1 Attached garage space,6499.0,398,2.5 ,399000,single family,0
+Tacoma,WA,98404,1913,Wall unit(s),1 Garage space,6499.0,295,2 ,430000,single family,0
+Salem,OR,97306,1976,Central air,2 Attached garage spaces,6534.0,273,2.25 ,499900,single family,0
+Portland,OR,97201,1960,Heat pump,2 Attached garage spaces,6534.0,201,2.5 ,799900,single family,0
+Hillsboro,OR,97124,1926,Central air,1 Garage space,6534.0,213,2.5 ,639900,single family,0
+Eugene,OR,97401,2006,Central air,2 Attached garage spaces,6534.0,327,2.5 ,710000,single family,0
+Eugene,OR,97404,1999,Heat pump,2 Attached garage spaces,6534.0,324,2.5 ,489000,single family,0
+Springfield,OR,97478,2003,No data,2 Attached garage spaces,6534.0,263,2.5 ,415000,single family,0
+Salem,OR,97302,2023,Central air,3 Attached garage spaces,6534.0,303,2.5 ,720000,single family,0
+Eugene,OR,97403,2021,No data,2 Attached garage spaces,6534.0,309,2 ,649500,single family,0
+Eugene,OR,97408,2021,Central air,2 Attached garage spaces,6534.0,395,3 ,800000,single family,0
+Seattle,WA,98122,1952,90%+ high efficiency,2 Garage spaces,6547.0,525,2.5 ,850000,single family,0
+Salem,OR,97306,2010,No data,2 Attached garage spaces,6669.0,247,2.5 ,360000,single family,0
+Tacoma,WA,98404,1970,,Off street,6751.0,327,2.5 ,399500,single family,0
+Kirkland,WA,98034,1967,"Central air, forced air",2 Attached garage spaces,6751.0,667,3 ,950000,single family,0
+Tacoma,WA,98407,1979,,2 Attached garage spaces,6838.0,320,3 ,599950,single family,0
+Seattle,WA,98168,1940,Forced air,1 Garage space,6886.0,554,2.5 ,564800,single family,0
+Salem,OR,97306,2001,Central air,3 Attached garage spaces,6888.0,269,2.5 ,680000,single family,0
+Portland,OR,97203,1898,Central air,1 Garage space,6969.0,239,2.25 ,649000,single family,0
+Beaverton,OR,97007,1991,No data,2 Attached garage spaces,6969.0,287,2.25 ,475000,single family,0
+Beaverton,OR,97078,1948,Central air,2 Attached garage spaces,6969.0,316,2.25 ,495000,single family,0
+Troutdale,OR,97060,1995,Central air,3 Attached garage spaces,6969.0,292,2.25 ,549900,single family,0
+Portland,OR,97220,1947,No data,1 Attached garage space,6969.0,341,2.5 ,325000,single family,0
+Seattle,WA,98144,2015,Ductless hp-mini split,1 Carport space,4024.0,503,2.5 ,709900,single family,38
+Beaverton,OR,97005,1967,Window unit(s),2 Attached garage spaces,6969.0,375,2.5 ,750000,single family,0
+Beaverton,OR,97006,1981,Heat pump,2 Attached garage spaces,6969.0,343,2.5 ,695000,single family,0
+Tigard,OR,97224,2000,Central air,3 Attached garage spaces,6969.0,283,2.5 ,824900,single family,0
+Troutdale,OR,97060,1969,No data,Open parking,6969.0,256,2.5 ,399900,single family,0
+Eugene,OR,97401,1979,Window unit(s),2 Attached garage spaces,6969.0,417,2.5 ,399900,single family,0
+Eugene,OR,97405,1946,Heat pump,Open parking,6969.0,422,2.5 ,699000,single family,0
+Eugene,OR,97401,1978,Heat pump,2 Attached garage spaces,6969.0,442,2.5 ,485000,single family,0
+Springfield,OR,97478,1975,Window unit(s),1 Attached garage space,6969.0,331,2.5 ,299900,single family,0
+Springfield,OR,97477,1928,Wall unit(s),Open parking,6969.0,251,2.5 ,269000,single family,0
+Springfield,OR,97477,1980,Heat pump,1 Attached garage space,6969.0,314,2.5 ,339000,single family,0
+Salem,OR,97317,1948,Central air,2 Garage spaces,6969.0,279,2.5 ,385000,single family,0
+Seattle,WA,98103,2023,Ductless hp-mini split,1 Attached garage space,2443.0,720,2.5 ,2248000,single family,70
+Salem,OR,97301,1957,Central air,1 Garage space,6969.0,251,2.5 ,425000,single family,0
+Salem,OR,97302,2013,Central air,2 Attached garage spaces,6969.0,288,2.5 ,679500,single family,0
+Beaverton,OR,97003,2001,Central air,2 Attached garage spaces,6970.0,258,2.5 ,589000,single family,0
+Philomath,OR,97370,2021,Central air,3 Attached garage spaces,6970.0,269,2.5 ,645000,single family,0
+Salem,OR,97301,1928,No data,1 Garage space,6970.0,406,2.5 ,370000,single family,0
+Seattle,WA,98105,1947,Central air,2 Attached garage spaces,9600.0,936,2.5 ,2500000,single family,850
+Seattle,WA,98117,2023,Ductless hp-mini split,Off street,4795.0,634,2.5 ,699900,single family,691
+Salem,OR,97317,1969,Central air,2 Attached garage spaces,6970.0,278,2.5 ,369900,single family,0
+Salem,OR,97304,1946,No data,No garage,6970.0,266,2.5 ,514999,single family,0
+Seattle,WA,98102,1994,"Forced air, other – see remarks, wall unit(s)",3 Garage spaces,,665,2.5 ,998000,townhouse,500
+Salem,OR,97306,1988,No data,3 Attached garage spaces,,672,2.5 ,1990000,single family,0
+Seattle,WA,98144,2023,Ductless hp-mini split,,,564,2.5 ,599950,townhouse,0
+Seattle,WA,98122,2023,Ductless hp-mini split,,,604,2.75 ,635000,townhouse,0
+Seattle,WA,98122,2023,Ductless hp-mini split,,,628,2.75 ,649950,townhouse,0
+Seattle,WA,98102,1978,Ductless hp-mini split,,,2167,2.5 ,2200000,single family,740
+Seattle,WA,98136,2022,Ductless hp-mini split,,,510,3 ,699000,townhouse,0
+Seattle,WA,98115,2023,Ductless hp-mini split,Off street,,662,2.5 ,719950,townhouse,0
+Tacoma,WA,98409,1918,,3 Garage spaces,7000.0,449,2.5 ,549000,single family,0
+Salem,OR,97306,1979,Central air,2 Attached garage spaces,7125.0,228,2.5 ,475000,single family,0
+Tacoma,WA,98408,1955,"Ductless hp-mini split, wall unit(s)",1 Garage space,7148.0,312,2.5 ,499900,single family,0
+Seattle,WA,98112,2001,Central air,2 Attached garage spaces,7200.0,931,2.5 ,5800000,single family,0
+Burien,WA,98168,1957,,1 Attached garage space,7200.0,383,2.5 ,569950,single family,0
+Salem,OR,97304,1961,No data,2 Carport spaces,7236.0,162,2.25 ,399900,single family,0
+Tacoma,WA,98404,1952,Ductless hp-mini split,1 Garage space,7278.0,348,2.5 ,405000,single family,0
+Portland,OR,97219,1920,No data,Off street,7405.0,557,2.25 ,535000,single family,0
+Seattle,WA,98115,2023,Ductless hp-mini split,2 Garage spaces,,593,2.5 ,1450000,townhouse,54
+Hillsboro,OR,97123,1998,Central air,2 Attached garage spaces,7405.0,316,2.25 ,465000,single family,0
+Oswego,OR,97035,2023,Central air,2 Attached garage spaces,7405.0,562,2.25 ,2399000,single family,0
+Vancouver,WA,98685,1991,Heat pump,2 Attached garage spaces,7405.0,317,2.25 ,599000,single family,0
+Portland,OR,97202,1927,Window unit(s),2 Garage spaces,7405.0,298,2.5 ,899000,single family,0
+Seattle,WA,98122,2023,"Ductless hp-mini split, hepa air filtration",1 Attached garage space,,645,2.5 ,1250000,single family,250
+Seattle,WA,98136,2022,"Forced air, heat pump, central air",2 Attached garage spaces,7457.0,783,2.5 ,3595000,single family,125
+Portland,OR,97206,1952,,1 Garage space,7405.0,215,2.5 ,395000,single family,0
+Portland,OR,97221,1972,Wall unit(s),2 Attached garage spaces,7405.0,381,2.5 ,495000,single family,0
+Portland,OR,97219,1950,Central air,1 Attached garage space,7405.0,752,2.5 ,599999,single family,0
+Portland,OR,97219,1978,No data,2 Attached garage spaces,7405.0,316,2.5 ,579000,single family,0
+Portland,OR,97212,1946,Central air,Attached garage,7405.0,472,2.5 ,565000,single family,0
+Portland,OR,97219,1973,Central air,2 Attached garage spaces,7405.0,278,2.5 ,664000,single family,0
+Beaverton,OR,97007,1989,No data,2 Attached garage spaces,7405.0,395,2.5 ,589000,single family,0
+Tigard,OR,97223,1920,No data,Open parking,7405.0,201,2.5 ,565000,single family,0
+Eugene,OR,97405,1978,Window unit(s),Open parking,7405.0,317,2.5 ,609000,single family,0
+Springfield,OR,97477,1940,,2 Garage spaces,7405.0,365,2.5 ,389900,single family,0
+Springfield,OR,97477,1961,Energy star qualified equipment,2 Attached garage spaces,7405.0,329,2.5 ,399999,single family,0
+Salem,OR,97302,2024,Central air,2 Attached garage spaces,7405.0,221,2.5 ,679000,single family,0
+Bothell,WA,98012,2006,,2 Attached garage spaces,3920.0,444,2.5 ,1199950,single family,550
+Vancouver,WA,98664,1951,Other,1 Attached garage space,7405.0,346,2 ,439000,single family,0
+Tacoma,WA,98404,1921,Forced air,2 Garage spaces,7440.0,363,2.5 ,399950,single family,0
+Seattle,WA,98115,1953,Central air,1 Carport space,7501.0,465,2.5 ,1199000,single family,0
+Tacoma,WA,98422,1962,Central air,"Driveway, off street",7501.0,401,2 ,1100000,single family,0
+Bothell,WA,98021,2018,Central air,2 Attached garage spaces,3920.0,489,2.5 ,1369000,single family,62
+Bothell,WA,98021,2010,"Central air, forced air",3 Attached garage spaces,5662.0,497,2.5 ,1470000,single family,55
+Tacoma,WA,98404,1967,,2 Attached garage spaces,7701.0,400,2.5 ,450000,single family,0
+Portland,OR,97236,1946,No data,Open parking,7840.0,114,2.25 ,399985,single family,0
+Portland,OR,97219,1995,Central air,2 Attached garage spaces,7840.0,314,2.25 ,679000,single family,0
+Tigard,OR,97223,1998,Central air,4 Attached garage spaces,7840.0,257,2.25 ,949900,single family,0
+Vancouver,WA,98665,2013,Central air,2 Attached garage spaces,7840.0,240,2.25 ,549000,single family,0
+Vancouver,WA,98685,2004,Central air,2 Attached garage spaces,7840.0,238,2.25 ,589000,single family,0
+Portland,OR,97230,1979,Central air,2 Attached garage spaces,7840.0,218,2.5 ,495000,single family,0
+Oswego,OR,97034,2023,Central air,2 Attached garage spaces,,940,2.7 ,2488722,condominium,1
+Portland,OR,97216,1959,,1 Attached garage space,7840.0,274,2.5 ,575000,single family,0
+Eugene,OR,97402,2007,Central air,2 Attached garage spaces,4356.0,242,2.75 ,415000,single family,107
+Portland,OR,97239,2015,Central air,2 Attached garage spaces,7840.0,459,2.5 ,1695000,single family,0
+Beaverton,OR,97006,1979,Central air,2 Attached garage spaces,7840.0,288,2.5 ,635000,single family,0
+Beaverton,OR,97005,1955,No data,Open parking,7840.0,211,2.5 ,545000,single family,0
+Eugene,OR,97404,1993,Heat pump,2 Attached garage spaces,7840.0,287,2.5 ,475000,single family,0
+Eugene,OR,97401,1976,Window unit(s),2 Attached garage spaces,7840.0,225,2.5 ,450000,single family,0
+Eugene,OR,97404,1956,No data,1 Attached garage space,7840.0,374,2.5 ,390000,single family,0
+Eugene,OR,97403,1947,No data,Open parking,7840.0,325,2.5 ,565000,single family,0
+Springfield,OR,97477,1995,Heat pump,2 Attached garage spaces,7840.0,314,2.5 ,385000,single family,0
+Springfield,OR,97478,1978,Heat pump,2 Attached garage spaces,7840.0,347,2.5 ,430000,single family,0
+Springfield,OR,97478,1993,Central air,1 Attached garage space,7840.0,322,2.5 ,459000,single family,0
+Corvallis,OR,97330,1963,No data,2 Attached garage spaces,7840.0,287,2.5 ,525000,single family,0
+Salem,OR,97302,1962,No data,2 Attached garage spaces,7840.0,363,2.5 ,398000,single family,0
+Milwaukie,OR,97222,1970,Heat pump,1 Attached garage space,7840.0,463,2.7 ,444555,single family,0
+Salem,OR,97304,1959,Central air,2 Attached garage spaces,7841.0,250,2.25 ,435000,single family,0
+Salem,OR,97306,2016,Central air,2 Attached garage spaces,7841.0,291,2.5 ,620000,single family,0
+Burien,WA,98168,2013,"Central air, ductless hp-mini split",2 Attached garage spaces,7875.0,294,2.5 ,1099950,single family,0
+Hillsboro,OR,97123,2023,Central air,3 Attached garage spaces,,364,2 ,1275000,single family,108
+Hillsboro,OR,97124,2023,Central air,2 Attached garage spaces,6098.0,323,2 ,984950,single family,100
+Seattle,WA,98133,2016,Ductless hp-mini split,,,420,2.5 ,522495,townhouse,0
+Seattle,WA,98107,2016,90%+ high efficiency,Off street,,634,3 ,850000,townhouse,0
+Seattle,WA,98107,2023,Ductless hp-mini split,Driveway,,584,2.5 ,820000,single family,0
+Seattle,WA,98109,1980,Wall unit(s),Off street,,517,3 ,399950,single family,0
+Seattle,WA,98105,1930,Radiant,4 Garage spaces,8001.0,866,2.5 ,2495000,single family,0
+Burien,WA,98166,1967,,2 Attached garage spaces,8041.0,508,1.5 ,995000,single family,0
+Tacoma,WA,98408,1957,Forced air,2 Attached garage spaces,8062.0,218,3.0 ,579800,single family,0
+Vancouver,WA,98682,1976,Window unit(s),2 Attached garage spaces,8276.0,405,2.2 ,414900,single family,0
+Salem,OR,97306,2011,Central air,2 Attached garage spaces,6970.0,303,2 ,579900,single family,50
+Tigard,OR,97223,1998,Central air,3 Attached garage spaces,8276.0,239,2.25 ,849900,single family,0
+Salem,OR,97304,2006,No data,2 Attached garage spaces,6969.0,175,2 ,649900,single family,54
+Vancouver,WA,98661,1927,No data,Open parking,8276.0,249,2.25 ,450000,single family,0
+Vancouver,WA,98665,1959,Central air,2 Attached garage spaces,8276.0,218,2.25 ,519900,single family,0
+Vancouver,WA,98685,2015,Central air,3 Attached garage spaces,8276.0,336,2.25 ,899900,single family,0
+Vancouver,WA,98665,2023,Heat pump,2 Attached garage spaces,,291,2 ,499995,single family,60
+Vancouver,WA,98686,1990,Heat pump,2 Attached garage spaces,8276.0,326,2.25 ,585000,single family,0
+Vancouver,WA,98661,2016,Central air,2 Attached garage spaces,8276.0,340,2.25 ,640000,single family,0
+Portland,OR,97229,2000,Central air,2 Attached garage spaces,8276.0,309,2.5 ,675000,single family,0
+Vancouver,WA,98682,2013,Central air,2 Attached garage spaces,4791.0,227,2 ,624900,single family,56
+Beaverton,OR,97005,1959,Central air,1 Attached garage space,8276.0,453,2.5 ,434900,single family,0
+Vancouver,WA,98682,2023,"Heat pump, energy star qualified equipment",3 Attached garage spaces,5662.0,367,2 ,1028000,single family,70
+Prairie,WA,98606,2023,Heat pump,2 Attached garage spaces,,296,2 ,647990,single family,35
+Olympia,WA,98502,1989,Forced air,Attached garage,,301,2 ,599000,single family,125
+Tacoma,WA,98407,2022,"Central air, forced air",4 Attached garage spaces,,731,2 ,3650000,single family,150
+Milwaukie,OR,97222,1992,Heat pump,2 Attached garage spaces,8276.0,277,2.5 ,679000,single family,0
+Eugene,OR,97401,1989,Central air,2 Attached garage spaces,8276.0,332,2.5 ,520000,single family,0
+Springfield,OR,97478,1978,,2 Attached garage spaces,8276.0,206,2.5 ,485000,single family,0
+Portland,OR,97233,1963,Window unit(s),1 Attached garage space,8276.0,347,2 ,325000,single family,0
+Seattle,WA,98125,1979,,2 Attached garage spaces,8402.0,396,2.5 ,1188000,single family,0
+Salem,OR,97302,1927,Central air,2 Garage spaces,8454.0,180,2.5 ,460000,single family,0
+Seattle,WA,98109,1902,Other – see remarks,"Rv parking, driveway",8598.0,732,2.5 ,7300000,single family,0
+Seattle,WA,98133,2023,90%+ high efficiency,2 Attached garage spaces,6860.0,305,2 ,938950,single family,65
+Bothell,WA,98012,2023,"Central air, hepa air filtration",2 Attached garage spaces,3598.0,495,2 ,1154995,single family,65
+Portland,OR,97230,1982,,2 Attached garage spaces,8712.0,383,2.25 ,500000,single family,0
+Bothell,WA,98021,2006,,3 Attached garage spaces,4356.0,481,2 ,1425000,single family,350
+Bothell,WA,98021,2023,"90%+ high efficiency, heat pump",2 Attached garage spaces,3598.0,589,2 ,1374995,single family,237
+Hillsboro,OR,97124,1972,Central air,2 Attached garage spaces,8712.0,264,2.25 ,584000,single family,0
+Tigard,OR,97223,1994,Window unit(s),2 Attached garage spaces,8712.0,313,2.25 ,799900,single family,0
+Springfield,OR,97477,1947,Heat pump,1 Garage space,8712.0,351,2.25 ,419900,single family,0
+Portland,OR,97230,1968,No data,2 Attached garage spaces,8712.0,196,2.5 ,649000,single family,0
+Portland,OR,97210,1964,,2 Attached garage spaces,8712.0,340,2.5 ,899500,single family,0
+Seattle,WA,98116,2016,,2 Attached garage spaces,2356.0,574,3.0 ,1400000,single family,627
+Milwaukie,OR,97222,1925,Air conditioning ready,Open parking,8712.0,239,2.5 ,475000,single family,0
+Milwaukie,OR,97267,2007,Central air,2 Attached garage spaces,8712.0,321,2.5 ,998000,single family,0
+Oswego,OR,97034,1955,Central air,1 Attached garage space,8712.0,433,2.5 ,2099000,single family,0
+Eugene,OR,97404,1963,Heat pump,2 Attached garage spaces,8712.0,307,2.5 ,499000,single family,0
+Springfield,OR,97477,1949,Heat pump,2 Attached garage spaces,8712.0,320,2.5 ,365000,single family,0
+Vancouver,WA,98682,1990,Window unit(s),2 Attached garage spaces,8712.0,287,2.5 ,499900,single family,0
+Portland,OR,97230,1960,,2 Attached garage spaces,8712.0,250,2.7 ,385000,single family,0
+Eugene,OR,97402,2003,Heat pump,2 Attached garage spaces,8712.0,273,2.75 ,437000,single family,0
+Seattle,WA,98148,1966,,2 Attached garage spaces,8790.0,420,2.5 ,524950,single family,0
+Eugene,OR,97405,1975,Heat pump,1 Garage space,,275,3 ,300000,townhouse,365
+Tacoma,WA,98422,2002,"Central air, heat pump",3 Attached garage spaces,8982.0,297,2 ,774750,single family,0
+Corvallis,OR,97330,2005,Central air,3 Attached garage spaces,,259,2.0 ,1999000,single family,0
+Eugene,OR,97408,2007,No data,1 Attached garage space,3484.0,224,3 ,523800,single family,167
+Seattle,WA,98122,2023,Ductless hp-mini split,,,694,3 ,799900,townhouse,0
+Springfield,OR,97478,1989,Heat pump,6 Attached garage spaces,,792,2.5 ,4750000,single family,0
+Corvallis,OR,97330,2002,Central air,2 Attached garage spaces,1742.0,278,3 ,435000,single family,190
+Seattle,WA,98103,2023,Ductless hp-mini split,Attached garage,,683,2.5 ,1149950,townhouse,0
+Vancouver,WA,98661,2006,Central air,2 Attached garage spaces,2613.0,298,3 ,499900,single family,18
+Vancouver,WA,98682,2023,Heat pump,2 Attached garage spaces,,302,3 ,583900,single family,336
+Eugene,OR,97402,1979,No data,2 Attached garage spaces,,223,3 ,225000,single family,0
+Seattle,WA,98105,1997,,Off street,,716,3 ,659000,single family,0
+Seattle,WA,98102,2023,Ductless hp-mini split,2 Attached garage spaces,9099.0,721,3 ,2595000,single family,0
+Portland,OR,97239,1928,Wall unit(s),2 Garage spaces,9147.0,280,2.25 ,985000,single family,0
+Portland,OR,97218,1997,Central air,2 Attached garage spaces,9147.0,378,2.5 ,549900,single family,0
+Portland,OR,97236,1977,No data,2 Attached garage spaces,9147.0,279,2.5 ,495000,single family,0
+Troutdale,OR,97060,1992,Central air,2 Attached garage spaces,9147.0,309,2.5 ,510000,single family,0
+Eugene,OR,97405,1962,Heat pump,2 Attached garage spaces,9147.0,235,2.5 ,499000,single family,0
+Eugene,OR,97401,1958,No data,2 Attached garage spaces,9147.0,286,2.5 ,469000,single family,0
+Springfield,OR,97477,2005,Central air,2 Attached garage spaces,9147.0,340,2.5 ,650000,single family,0
+Salem,OR,97301,1928,Central air,1 Garage space,9147.0,217,2.5 ,499900,single family,0
+Salem,OR,97306,1974,No data,Attached garage,9396.0,263,2.5 ,525000,single family,0
+Portland,OR,97230,1965,Central air,2 Attached garage spaces,9583.0,299,2.25 ,500000,single family,0
+Portland,OR,97219,1916,No data,Open parking,9583.0,258,2.25 ,649000,single family,0
+Seattle,WA,98108,2023,Ductless hp-mini split,,,571,3 ,479950,single family,27
+Tigard,OR,97224,1990,Central air,2 Attached garage spaces,9583.0,334,2.25 ,629900,single family,0
+Oswego,OR,97034,1931,Central air,2 Garage spaces,9583.0,1341,2.25 ,4695000,single family,0
+Vancouver,WA,98684,1972,Heat pump,2 Attached garage spaces,9583.0,397,2.25 ,400000,single family,0
+Seattle,WA,98103,2023,Ductless hp-mini split,"Driveway, off street",,715,3 ,985000,townhouse,49
+Seattle,WA,98117,1941,,Off street,1955.0,1090,3 ,479500,single family,49
+Vancouver,WA,98685,2015,Central air,4 Attached garage spaces,9583.0,284,2.25 ,995000,single family,0
+Beaverton,OR,97005,1967,,2 Attached garage spaces,9583.0,408,2.5 ,535000,single family,0
+Eugene,OR,97404,1942,No data,Open parking,9583.0,147,2.5 ,200000,single family,0
+Eugene,OR,97405,1966,Heat pump,2 Attached garage spaces,9583.0,249,2.5 ,635000,single family,0
+Seattle,WA,98115,2023,"90%+ high efficiency, central air, forced air",2 Attached garage spaces,9713.0,525,2.5 ,2150000,single family,0
+Salem,OR,97302,1959,No data,2 Attached garage spaces,9760.0,216,2.5 ,350000,single family,0
+Salem,OR,97302,1990,Central air,2 Attached garage spaces,9776.0,243,2.25 ,564900,single family,0
+Vancouver,WA,98664,1970,,Attached garage,9997.0,377,2.25 ,489900,single family,0
+Olympia,WA,98512,1947,,1 Carport space,,144,2.5 ,525000,single family,0
+Seattle,WA,98103,2023,Ductless hp-mini split,,,579,2.5 ,789000,townhouse,0
+Seattle,WA,98103,2018,Ductless hp-mini split,"Driveway, off street",,665,3 ,925000,townhouse,0
+Bothell,WA,98012,2023,"90%+ high efficiency, heat pump",2 Garage spaces,,548,2 ,1279995,condominium,0
+Bothell,WA,98012,2023,"90%+ high efficiency, heat pump",2 Garage spaces,,487,2 ,1349995,condominium,0
+Seattle,WA,98103,2023,Ductless hp-mini split,1 Attached garage space,1441.0,577,3 ,1278888,townhouse,25
+Vancouver,WA,98682,2023,Heat Pump,2 Attached Garage spaces,,249,2,520625,single family,0
+Seattle,WA,98115,2023,Ductless hp-mini split,Off street,,657,3 ,644950,single family,45
+Vancouver,WA,98682,2023,No Data,2 Garage spaces,,279,2,679900,single family,0
+Eugene,OR,97403,2023,Central Air,2 Attached Garage spaces,,310,5120.967741935484,749916,single family,0
+Tigard,OR,97223,1986,Central air,2 Attached garage spaces,,274,2.25 ,559000,single family,0
+Milwaukie,OR,97222,1947,Central air,1 Attached garage space,,266,2.25 ,499900,single family,0
+Oswego,OR,97034,1983,Central air,4 Attached garage spaces,,333,2.25 ,2595000,single family,0
+Seattle,WA,98116,2023,Ductless hp-mini split,Off street,1258.0,695,3 ,774950,single family,50
+Oswego,OR,97034,2023,Central air,1 Attached garage space,,557,2.25 ,1725000,single family,0
+Seattle,WA,98122,1990,,1 Garage space,,511,3 ,474888,condominium,785
+Vancouver,WA,98682,2023,Heat pump,2 Attached garage spaces,,279,2.25 ,598000,single family,0
+Seattle,WA,98103,1989,,1 Garage space,,547,3 ,324950,condominium,400
+Oswego,OR,97034,1935,Central air,2 Attached garage spaces,,346,2.3 ,1095000,single family,0
+Portland,OR,97203,2023,Heat pump,No data,,354,2.5 ,269900,condominium,0
+Seattle,WA,98104,2006,Central air,Garage,,707,3 ,569500,condominium,769
+Portland,OR,97225,1962,Heat pump,2 Attached garage spaces,,473,2.5 ,550000,single family,0
+Seattle,WA,98105,1926,,,,640,3 ,349000,condominium,558
+Seattle,WA,98102,1962,,1 Garage space,,768,3 ,799900,condominium,884
+Seattle,WA,98112,1961,,1 Parking space,,986,3 ,545000,condominium,638
+Seattle,WA,98119,2023,Ductless hp-mini split,1 Attached garage space,5401.0,709,3 ,1479000,single family,0
+Portland,OR,97217,1980,Window unit(s),No data,,211,2.5 ,270000,single family,0
+Portland,OR,97211,2023,Heat pump,No data,,403,2.5 ,329900,condominium,0
+Seattle,WA,98109,1984,,1 Garage space,,591,3 ,1035000,condominium,823
+Portland,OR,97217,1973,Window unit(s),"Off street, secured",,346,2.5 ,415000,single family,0
+Milwaukie,OR,97267,2015,Central air,1 Attached garage space,,206,2.5 ,649900,single family,0
+Seattle,WA,98126,2006,,1 Attached garage space,1463.0,468,3 ,729900,townhouse,436
+Portland,OR,97218,2013,No data,1 Attached garage space,,287,2.5 ,375000,single family,0
+Beaverton,OR,97006,2023,No data,3 Attached garage spaces,,323,2.5 ,849900,single family,0
+Hillsboro,OR,97123,2022,Wall unit(s),1 Attached garage space,,377,2.5 ,565000,single family,0
+Tigard,OR,97224,2023,Central air,2 Attached garage spaces,,321,2.5 ,764910,single family,0
+Seattle,WA,98101,2009,"Central air, heat pump",1 Garage space,650.0,962,3 ,625000,condominium,578
+Milwaukie,OR,97267,1955,Heat pump,Open parking,,557,2.5 ,450000,single family,0
+Seattle,WA,98101,1991,Central air,2 Garage spaces,1491.0,989,3 ,1475000,condominium,1
+Milwaukie,OR,97267,2003,Central air,2 Attached garage spaces,,277,2.5 ,525000,single family,0
+Milwaukie,OR,97222,1912,,Open parking,,230,2.5 ,425000,single family,0
+Portland,OR,97206,1935,,Carport,,238,2.5 ,415000,single family,0
+Oswego,OR,97035,2016,Central air,3 Attached garage spaces,,459,2.5 ,1495000,single family,0
+Tigard,OR,97224,2023,No data,2 Attached garage spaces,,299,2 ,941990,single family,0
+Bothell,WA,98021,2023,Heat pump,2 Attached garage spaces,4891.0,484,3 ,1524950,single family,100
+Olympia,WA,98502,1970,Other – see remarks,5 Open parking spaces,,184,2.5 ,649900,single family,0
+Tacoma,WA,98406,1975,"Central air, ductless hp-mini split, forced air, other – see remarks",2 Attached garage spaces,9295.0,355,2.5 ,519000,single family,0
+Olympia,WA,98506,1973,Central air,2 Carport spaces,,181,2.5 ,239000,manufactured,0
+Seattle,WA,98103,2002,,1 Garage space,,826,3 ,625000,condominium,560
+Tacoma,WA,98404,2002,Radiant,2 Garage spaces,,365,2.5 ,549999,condominium,559
+Tacoma,WA,98404,1910,Wall unit(s),Off street,6499.0,286,3 ,385000,single family,0
+Bothell,WA,98021,2023,90%+ high efficiency,2 Attached garage spaces,3463.0,507,0,1264950,single family,48
+Tacoma,WA,98409,1978,,1 Attached garage space,5749.0,268,2.5 ,400000,single family,0
+Tacoma,WA,98406,1905,Forced air,2 Garage spaces,8646.0,327,2.5 ,895000,single family,0
+Seattle,WA,98112,1939,,2 Attached garage spaces,5998.0,346,3 ,900000,single family,0
+Seattle,WA,98108,1941,Central air,1 Garage space,4930.0,303,2.5 ,630000,single family,0
+Seattle,WA,98118,1927,"Central air, forced air","Driveway, off street",2800.0,424,2.5 ,554900,single family,0
+Seattle,WA,98103,1920,,1 Garage space,5998.0,552,2.5 ,1850000,single family,0
+Seattle,WA,98107,2017,Ductless hp-mini split,1 Carport space,1463.0,566,2.5 ,1149000,single family,0
+Seattle,WA,98133,2023,Ductless hp-mini split,Off street,1180.0,464,2.5 ,699999,townhouse,0
+Bothell,WA,98011,1978,Forced air,2 Carport spaces,1439.0,410,2.5 ,589950,manufactured,155
+Tacoma,WA,98405,1920,Ductless hp-mini split,"Driveway, off street",6499.0,359,3 ,449000,single family,0
+Tacoma,WA,98418,1925,Ductless hp-mini split,1 Garage space,6351.0,574,2.5 ,410000,single family,0
+Seattle,WA,98117,1928,,Driveway,3798.0,407,3 ,1025000,single family,0
+Seattle,WA,98144,1909,Central air,1 Garage space,4530.0,560,3 ,1500000,single family,0
+Seattle,WA,98103,2015,Ductless hp-mini split,Off street,,617,3.0 ,950000,townhouse,0
+Seattle,WA,98136,1947,,1 Attached garage space,6250.0,574,2.5 ,998510,single family,0
+Seattle,WA,98126,1942,,"Driveway, off street",5880.0,793,3 ,785000,single family,0
+Seattle,WA,98109,1999,,1 Garage space,786.0,630,2.5 ,495000,condominium,579
+Burien,WA,98166,1948,,1 Covered parking space,6351.0,427,2.5 ,499950,single family,0
+Bothell,WA,98012,1979,"90%+ high efficiency, central air",2 Attached garage spaces,9147.0,519,2.5 ,675000,single family,0
+Bothell,WA,98012,2006,,3 Attached garage spaces,,357,2.5 ,1080000,single family,0
+Bothell,WA,98012,1922,,1 Attached garage space,6098.0,374,3 ,750000,single family,0
+Bothell,WA,98021,1983,,2 Attached garage spaces,,512,3 ,965000,single family,0
+Tacoma,WA,98408,2022,"Central air, forced air",3 Attached garage spaces,10071.0,267,2.5 ,644950,single family,0
+Seattle,WA,98115,1952,Forced air,1 Attached garage space,7004.0,311,3 ,665000,single family,0
+Seattle,WA,98125,1934,"Ductless hp-mini split, other – see remarks",1 Garage space,9591.0,343,2.5 ,882000,single family,0
+Seattle,WA,98144,2003,,1 Attached garage space,1245.0,550,2.5 ,698000,townhouse,0
+Seattle,WA,98105,1911,,2 Carport spaces,3998.0,453,2.5 ,1295000,single family,0
+Tacoma,WA,98405,1909,,Off street,4874.0,213,2.5 ,335000,single family,0
+Olympia,WA,98501,1946,Ductless hp-mini split,"Driveway, off street",8712.0,328,2.5 ,295000,single family,0
+Olympia,WA,98501,1921,Ductless hp-mini split,1 Garage space,6895.0,257,2.5 ,299000,single family,0
+Olympia,WA,98501,1924,,1 Garage space,6969.0,417,2.5 ,225000,single family,0
+Seattle,WA,98133,2021,"Ductless hp-mini split, forced air, heat pump",1 Attached garage space,1581.0,557,2.5 ,804950,townhouse,0
