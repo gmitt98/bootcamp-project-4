@@ -1,0 +1,319 @@
+city,state,zip,year built,cooling type,garage type,sqft,price per sqft,buyers fee,listing price,housing category,HOA yearly
+Portland,OR,97233,1983,Central air,2 Attached garage spaces,7840.0,340,2.5 ,402500,single family,0.0
+Portland,OR,97225,1964,Central air,2 Attached garage spaces,,312,2.5 ,695000,single family,0.0
+Portland,OR,97215,1913,Window unit(s),1 Garage space,3920.0,358,2.5 ,575000,single family,0.0
+Portland,OR,97229,1957,Central air,2 Garage spaces,,312,2.5 ,1000000,single family,0.0
+Portland,OR,97218,1928,Heat pump,Open parking,4791.0,280,2.5 ,295000,single family,0.0
+Portland,OR,97219,1957,Central air,2 Attached garage spaces,8712.0,405,2.5 ,699000,single family,0.0
+Portland,OR,97215,1927,No data,1 Attached garage space,,337,2.25 ,750000,single family,0.0
+Portland,OR,97212,1939,Central air,2 Garage spaces,5227.0,315,2.5 ,950000,single family,0.0
+Portland,OR,97203,1906,No data,Open parking,5227.0,255,2 ,599900,single family,0.0
+Portland,OR,97211,2000,Central air,2 Attached garage spaces,8276.0,287,2.5 ,450000,single family,0.0
+Portland,OR,97229,1969,Central air,2 Attached garage spaces,,381,2.5 ,800000,single family,0.0
+Portland,OR,97202,1920,,Open parking,5227.0,271,2.5 ,700000,single family,0.0
+Portland,OR,97202,1955,Central air,2 Attached garage spaces,,504,2.5 ,1295000,single family,0.0
+Portland,OR,97229,1994,Central air,2 Attached garage spaces,7405.0,324,2.5 ,700000,single family,0.0
+Portland,OR,97213,1920,No data,1 Garage space,5227.0,342,2.5 ,625000,single family,0.0
+Portland,OR,97217,2002,No data,2 Garage spaces,,335,2.5 ,365000,single family,5280.0
+Portland,OR,97229,1998,Central air,3 Attached garage spaces,10454.0,311,2.5 ,1050000,single family,744.0
+Portland,OR,97219,1951,Central air,2 Attached garage spaces,,591,2.25 ,1498000,single family,0.0
+Portland,OR,97206,1913,No data,1 Garage space,3920.0,230,2.5 ,397500,single family,0.0
+Portland,OR,97212,1927,Central air,1 Garage space,4356.0,371,2.5 ,1190000,single family,0.0
+Portland,OR,97217,1960,Heat pump,Off street,2263.0,146,2.5 ,299000,single family,0.0
+Portland,OR,97219,1929,No data,1 Garage space,5227.0,224,2.25 ,475000,single family,0.0
+Portland,OR,97202,1923,Central air,Open parking,5227.0,391,2.5 ,785000,single family,0.0
+Portland,OR,97203,1904,Central air,Open parking,4791.0,280,2.5 ,799900,single family,0.0
+Portland,OR,97266,1979,,2 Attached garage spaces,5227.0,318,2.25 ,399993,single family,0.0
+Portland,OR,97213,1976,Central air,2 Attached garage spaces,5227.0,328,2.5 ,399900,single family,0.0
+Portland,OR,97217,1991,No data,Off street,1800.0,208,2.5 ,259000,single family,11700.0
+Portland,OR,97211,2022,Central air,Open parking,,406,2.5 ,525000,single family,576.0
+Portland,OR,97205,2006,Heat pump,1 Attached garage space,,415,2.5 ,650000,condominium,0.0
+Portland,OR,97229,1995,Central air,1 Garage space,1742.0,430,2.25 ,555000,single family,5748.0
+Portland,OR,97229,1995,Central air,2 Attached garage spaces,2178.0,368,2.5 ,560000,townhouse,6894.0
+Portland,OR,97209,2007,Central air,1 Attached garage space,,410,2.5 ,650000,condominium,0.0
+Portland,OR,97266,1955,Central air,1 Attached garage space,7840.0,310,2.5 ,434950,single family,0.0
+Portland,OR,97201,1909,Wall unit(s),1 Garage space,5227.0,206,2.5 ,500000,single family,0.0
+Portland,OR,97203,1985,Heat pump,2 Attached garage spaces,6534.0,394,2.5 ,489000,single family,0.0
+Portland,OR,97209,1908,Central air,1 Garage space,2178.0,613,2.5 ,1225000,townhouse,0.0
+Portland,OR,97206,1930,No data,1 Garage space,4791.0,311,2.5 ,719000,single family,0.0
+Portland,OR,97201,1917,,2 Garage spaces,,432,2.5 ,720000,condominium,0.0
+Portland,OR,97203,2007,No data,No data,2613.0,257,2.5 ,369900,single family,1404.0
+Portland,OR,97201,1957,Central air,2 Garage spaces,,311,2.5 ,1050000,single family,0.0
+Portland,OR,97225,2006,Central air,2 Attached garage spaces,1306.0,335,2.5 ,710000,townhouse,4704.0
+Portland,OR,97210,1904,Central air,Open parking,6534.0,336,2.5 ,1989000,single family,0.0
+Portland,OR,97236,1949,,Open parking,,325,2.5 ,320000,single family,0.0
+Portland,OR,97206,1952,,1 Garage space,7405.0,215,2.5 ,395000,single family,0.0
+Portland,OR,97203,2010,Heat pump,1 Garage space,3920.0,282,2.5 ,675000,single family,0.0
+Portland,OR,97229,1999,Central air,2 Attached garage spaces,6098.0,461,2.5 ,847000,single family,0.0
+Portland,OR,97206,2012,Heat pump,Open parking,,612,2.5 ,205000,condominium,0.0
+Portland,OR,97211,1999,No data,2 Attached garage spaces,3920.0,353,2.5 ,450000,single family,0.0
+Portland,OR,97217,2021,Energy star qualified equipment,"Deeded, off street",,330,2.5 ,264000,single family,10092.0
+Portland,OR,97203,2004,Heat pump,Off street,3920.0,397,2.25 ,375000,single family,0.0
+Portland,OR,97217,1993,No data,Secured,,236,2.5 ,199900,single family,18456.0
+Portland,OR,97230,1969,,Open parking,2613.0,258,2.25 ,265000,single family,0.0
+Portland,OR,97236,2007,No data,Carport,,246,2 ,199900,condominium,0.0
+Portland,OR,97217,1927,Heat pump,1 Garage space,3484.0,284,2.25 ,489900,single family,0.0
+Portland,OR,97205,2006,Central air,2 Attached garage spaces,,443,2.25 ,949000,condominium,0.0
+Portland,OR,97201,1991,Central air,2 Garage spaces,,501,2.25 ,1600000,single family,0.0
+Portland,OR,97220,1941,Central air,2 Attached garage spaces,,233,2.5 ,695000,single family,0.0
+Portland,OR,97231,1924,No data,2 Garage spaces,,218,2.5 ,575000,single family,0.0
+Portland,OR,97229,1973,Central air,2 Garage spaces,,333,2.5 ,1200000,single family,0.0
+Portland,OR,97205,1917,Central air,Off street,6534.0,281,2 ,1750000,single family,0.0
+Portland,OR,97239,1928,Central air,Open parking,,159,2.5 ,795000,single family,0.0
+Portland,OR,97214,1943,Central air,1 Garage space,6098.0,215,2.5 ,639000,single family,0.0
+Portland,OR,97219,1974,Wall unit(s),2 Garage spaces,,292,2.5 ,405000,condominium,7740.0
+Portland,OR,97203,2004,,No data,,298,2.5 ,280000,condominium,0.0
+Portland,OR,97203,1980,Wall unit(s),1 Garage space,8276.0,251,2.5 ,575000,single family,0.0
+Portland,OR,97219,1942,Central air,1 Attached garage space,5227.0,282,2.5 ,683500,single family,0.0
+Portland,OR,97217,2018,Heat pump,Open parking,,383,2.5 ,350000,condominium,0.0
+Portland,OR,97236,1946,No data,Open parking,7840.0,114,2.25 ,399985,single family,0.0
+Portland,OR,97202,1915,No data,2 Garage spaces,4791.0,288,2.25 ,550000,single family,0.0
+Portland,OR,97211,2023,Heat pump,No data,,403,2.5 ,329900,condominium,0.0
+Portland,OR,97210,1905,,Open parking,,343,2.5 ,365000,condominium,0.0
+Portland,OR,97239,1948,,1 Garage space,5227.0,397,2.25 ,515000,single family,0.0
+Portland,OR,97211,1948,Central air,1 Attached garage space,7405.0,290,2.5 ,640000,single family,0.0
+Portland,OR,97203,1944,Central air,Open parking,5662.0,289,2.5 ,592500,single family,0.0
+Portland,OR,97209,2001,Central air,1 Attached garage space,,403,2.5 ,310000,condominium,0.0
+Portland,OR,97229,1979,,Off street,,323,2.5 ,192500,condominium,0.0
+Portland,OR,97229,1992,Other,Deeded,,439,2.5 ,275000,condominium,0.0
+Portland,OR,97227,2000,No data,Open parking,,325,2.5 ,345000,condominium,3516.0
+Portland,OR,97209,2006,Central air,1 Attached garage space,,499,2.5 ,625000,condominium,0.0
+Portland,OR,97231,1994,"Central air, energy star qualified equipment",Carport,,402,2.5 ,759900,single family,0.0
+Portland,OR,97206,2023,Heat exchanger,Open parking,,592,2.5 ,380000,condominium,0.0
+Portland,OR,97266,1911,,Carport,3920.0,362,2.5 ,249000,single family,0.0
+Portland,OR,97213,2019,Central air,1 Attached garage space,2613.0,261,2.5 ,559900,single family,0.0
+Portland,OR,97202,1922,,1 Garage space,5227.0,336,2.25 ,768000,single family,0.0
+Portland,OR,97219,1943,,Open parking,,476,2.5 ,655000,single family,0.0
+Portland,OR,97202,1921,Central air,1 Garage space,4791.0,412,2.25 ,775000,single family,0.0
+Portland,OR,97227,1888,,Open parking,6098.0,299,2.5 ,650000,single family,0.0
+Portland,OR,97212,2014,No data,Open parking,,298,2.5 ,499999,condominium,0.0
+Portland,OR,97217,1912,No data,1 Garage space,3920.0,280,2.25 ,399500,single family,0.0
+Portland,OR,97217,1940,No data,1 Garage space,,37,3 ,49000,single family,0.0
+Portland,OR,97266,1910,No data,2 Garage spaces,5227.0,158,2.5 ,285000,single family,0.0
+Portland,OR,97206,1954,,Open parking,5227.0,351,2.25 ,359950,single family,0.0
+Portland,OR,97230,1952,Central air,Open parking,7840.0,229,2.5 ,525000,single family,0.0
+Portland,OR,97210,1925,No data,2 Attached garage spaces,6969.0,420,2.5 ,1299999,single family,0.0
+Portland,OR,97215,1922,No data,1 Garage space,4791.0,310,2.25 ,665000,single family,0.0
+Portland,OR,97209,1982,Central air,Deeded,,340,2.5 ,249800,condominium,0.0
+Portland,OR,97209,2001,Heat pump,Open parking,,321,2.5 ,234500,condominium,0.0
+Portland,OR,97266,1910,,2 Garage spaces,4356.0,196,2.25 ,335000,single family,0.0
+Portland,OR,97212,1924,No data,1 Garage space,3920.0,278,2.5 ,699000,single family,0.0
+Portland,OR,97215,1941,Central air,1 Garage space,5227.0,422,2.5 ,1250000,single family,0.0
+Portland,OR,97206,1907,Central air,1 Garage space,6098.0,194,2.5 ,384900,single family,0.0
+Portland,OR,97225,1977,Heat pump,Carport,,314,2.25 ,255000,condominium,0.0
+Portland,OR,97206,2023,Heat pump,Open parking,,352,2.7 ,369500,condominium,0.0
+Portland,OR,97212,1911,Central air,1 Attached garage space,2613.0,333,2.5 ,775000,single family,0.0
+Portland,OR,97229,1991,Central air,3 Attached garage spaces,,668,2.5 ,4200000,single family,0.0
+Portland,OR,97203,1909,No data,Open parking,7405.0,246,2.25 ,569989,single family,0.0
+Portland,OR,97232,1909,Central air,1 Garage space,,543,2.25 ,459000,single family,0.0
+Portland,OR,97266,1986,No data,2 Attached garage spaces,4791.0,349,2.25 ,399000,single family,0.0
+Portland,OR,97215,1880,Central air,1 Garage space,7405.0,272,2.5 ,925000,single family,0.0
+Portland,OR,97206,1959,Central air,1 Garage space,3920.0,418,2.5 ,399000,single family,0.0
+Portland,OR,97233,1956,No data,Carport,6969.0,233,2.25 ,399990,single family,0.0
+Portland,OR,97203,1896,Central air,Open parking,4791.0,330,2.5 ,559000,single family,0.0
+Portland,OR,97214,1912,No data,Open parking,4791.0,244,2.5 ,799900,single family,0.0
+Portland,OR,97203,1924,No data,2 Garage spaces,6534.0,353,2.25 ,450000,single family,0.0
+Portland,OR,97212,1910,Central air,1 Attached garage space,5227.0,446,2.5 ,1795000,single family,0.0
+Portland,OR,97221,1972,Wall unit(s),2 Attached garage spaces,7405.0,381,2.5 ,495000,single family,0.0
+Portland,OR,97232,1927,,Open parking,,391,2.5 ,243000,condominium,0.0
+Portland,OR,97203,1952,Window unit(s),1 Attached garage space,,359,2.25 ,499000,single family,0.0
+Portland,OR,97266,1952,No data,Open parking,7405.0,224,2.25 ,638000,single family,0.0
+Portland,OR,97213,2023,Heat pump,No data,,405,2.5 ,329900,condominium,480.0
+Portland,OR,97201,1985,Central air,1 Attached garage space,,456,2.25 ,729500,single family,0.0
+Portland,OR,97206,2023,Heat pump,No data,,372,2.5 ,329900,condominium,384.0
+Portland,OR,97203,1924,No data,2 Garage spaces,5662.0,208,2.5 ,599000,single family,0.0
+Portland,OR,97203,1932,Central air,1 Garage space,5227.0,289,2 ,499000,single family,0.0
+Portland,OR,97212,1928,Central air,1 Garage space,5227.0,273,2.5 ,849000,single family,0.0
+Portland,OR,97211,1922,Central air,Open parking,8276.0,212,2.5 ,495000,single family,0.0
+Portland,OR,97217,1983,Central air,1 Garage space,,326,2.5 ,360000,condominium,0.0
+Portland,OR,97217,1961,Window unit(s),"Off street, secured",2580.0,225,2.5 ,395000,single family,4200.0
+Portland,OR,97219,1962,Window unit(s),Carport,,270,2.25 ,349000,condominium,0.0
+Portland,OR,97202,1952,Central air,2 Attached garage spaces,,153,2.25 ,639900,single family,0.0
+Portland,OR,97213,1940,Central air,Open parking,6098.0,334,2.5 ,875000,single family,0.0
+Portland,OR,97209,1907,No data,Open parking,,384,2.25 ,359100,condominium,0.0
+Portland,OR,97214,2005,,1 Attached garage space,,374,2.5 ,510000,condominium,0.0
+Portland,OR,97212,1890,No data,No data,4791.0,216,2.25 ,499500,single family,0.0
+Portland,OR,97202,1931,Central air,2 Garage spaces,7840.0,437,2 ,1599900,single family,0.0
+Portland,OR,97212,1911,Central air,Open parking,,292,2.25 ,2895000,single family,0.0
+Portland,OR,97239,1993,Central air,3 Attached garage spaces,,294,2.5 ,1170000,single family,0.0
+Portland,OR,97209,2001,Heat pump,1 Attached garage space,,415,2.25 ,244000,condominium,0.0
+Portland,OR,97220,1947,No data,1 Attached garage space,5227.0,348,2.5 ,450000,single family,0.0
+Portland,OR,97210,1951,No data,1 Attached garage space,10018.0,465,2.5 ,899500,single family,0.0
+Portland,OR,97221,1993,Central air,2 Attached garage spaces,,368,2.5 ,699900,single family,0.0
+Portland,OR,97202,1916,No data,Open parking,5227.0,448,2.5 ,525000,single family,0.0
+Portland,OR,97217,1912,Heat pump,Open parking,5227.0,205,2.25 ,669000,single family,0.0
+Portland,OR,97233,1954,No data,1 Garage space,,256,2.5 ,415000,single family,0.0
+Portland,OR,97219,1942,No data,1 Attached garage space,,262,2.25 ,624900,single family,0.0
+Portland,OR,97217,1980,Central air,"Off street, secured, rv boat storage, garage door opener",,397,2.5 ,499000,single family,4800.0
+Portland,OR,97229,2017,Central air,3 Attached garage spaces,6098.0,352,2.25 ,1400000,single family,1404.0
+Portland,OR,97215,1958,Central air,4 Attached garage spaces,,496,2.5 ,2800000,single family,0.0
+Portland,OR,97206,1939,Central air,2 Garage spaces,3920.0,251,2.5 ,549900,single family,0.0
+Portland,OR,97206,2023,Heat pump,No data,,385,2.5 ,349900,condominium,600.0
+Portland,OR,97202,1927,Central air,1 Attached garage space,3484.0,360,2.5 ,775000,single family,0.0
+Portland,OR,97206,1924,,Open parking,5227.0,201,2.5 ,695000,single family,0.0
+Portland,OR,97216,2010,Central air,1 Attached garage space,2613.0,301,2.5 ,489900,single family,0.0
+Portland,OR,97211,1907,No data,1 Garage space,8276.0,235,2.25 ,799000,single family,0.0
+Portland,OR,97225,2002,Central air,2 Attached garage spaces,4791.0,299,2.3 ,789000,single family,0.0
+Portland,OR,97214,1913,Central air,Open parking,,241,2.5 ,2249000,single family,0.0
+Portland,OR,97212,1926,Central air,2 Garage spaces,5227.0,325,2.5 ,849900,single family,0.0
+Portland,OR,97229,2000,Central air,2 Attached garage spaces,,283,2.5 ,1225000,single family,744.0
+Portland,OR,97221,1931,Central air,2 Attached garage spaces,,445,2.7 ,1949900,single family,0.0
+Portland,OR,97236,1958,Window unit(s),1 Attached garage space,9583.0,207,2.5 ,399000,single family,0.0
+Portland,OR,97213,1949,,1 Garage space,5227.0,226,2.25 ,545000,single family,0.0
+Portland,OR,97233,1954,Window unit(s),Carport,7840.0,268,2 ,450000,single family,0.0
+Portland,OR,97229,1942,No data,No data,,651,2.5 ,779000,single family,0.0
+Portland,OR,97219,1990,Central air,3 Attached garage spaces,,486,2.5 ,1989000,single family,0.0
+Portland,OR,97211,2015,Heat pump,2 Garage spaces,,290,2.5 ,547000,single family,0.0
+Eugene,OR,97408,1998,Central air,2 Attached garage spaces,9583.0,304,2.5 ,919900,single family,0.0
+Eugene,OR,97402,1973,Heat pump,Carport,,73,2.5 ,95000,manufactured,0.0
+Eugene,OR,97401,2001,Heat pump,3 Attached garage spaces,6534.0,308,2.5 ,525000,single family,0.0
+Eugene,OR,97405,1960,Heat pump,1 Attached garage space,6098.0,410,3 ,515000,single family,0.0
+Eugene,OR,97408,1980,Heat pump,2 Attached garage spaces,6534.0,404,2.5 ,499000,single family,0.0
+Eugene,OR,97401,2006,Heat pump,2 Attached garage spaces,6534.0,287,3 ,685000,single family,0.0
+Eugene,OR,97405,1993,Heat pump,2 Attached garage spaces,6534.0,291,2.75 ,549000,single family,400.0
+Eugene,OR,97404,1993,Heat pump,2 Attached garage spaces,7840.0,287,2.5 ,475000,single family,0.0
+Eugene,OR,97402,1948,No data,1 Attached garage space,5227.0,280,2.5 ,349900,single family,0.0
+Eugene,OR,97402,1988,Central air,Carport,,82,3 ,115000,manufactured,0.0
+Eugene,OR,97403,1950,Central air,2 Garage spaces,,394,3 ,1395000,single family,0.0
+Eugene,OR,97401,1976,Window unit(s),2 Attached garage spaces,7840.0,225,2.5 ,450000,single family,0.0
+Eugene,OR,97405,1954,,Carport,9583.0,368,3 ,450000,single family,0.0
+Eugene,OR,97402,1988,Heat pump,Carport,1306.0,284,2.5 ,335000,single family,1800.0
+Eugene,OR,97405,1971,,2 Attached garage spaces,6969.0,265,2.5 ,590000,single family,0.0
+Eugene,OR,97402,1949,,4 Garage spaces,,273,2.5 ,419999,single family,0.0
+Eugene,OR,97405,1968,Heat pump,2 Attached garage spaces,7405.0,299,2.75 ,399000,single family,0.0
+Eugene,OR,97401,1925,,1 Attached garage space,2613.0,380,2.5 ,339500,single family,0.0
+Eugene,OR,97405,2019,Central air,2 Attached garage spaces,4791.0,316,2.5 ,570000,single family,0.0
+Eugene,OR,97404,1979,Heat pump,2 Attached garage spaces,8276.0,349,2.75 ,419000,single family,0.0
+Eugene,OR,97404,1963,Wall unit(s),Open parking,8276.0,246,2.5 ,290000,single family,0.0
+Eugene,OR,97404,1994,Heat pump,2 Attached garage spaces,8276.0,212,3 ,469000,single family,0.0
+Eugene,OR,97403,1962,Heat pump,Carport,,298,2.5 ,999000,single family,0.0
+Eugene,OR,97405,1974,Other,2 Attached garage spaces,,449,2.5 ,1295000,single family,0.0
+Eugene,OR,97402,2000,Central air,3 Attached garage spaces,6098.0,330,2.5 ,499000,single family,0.0
+Eugene,OR,97402,1960,Central air,Open parking,,79,2.5 ,520000,single family,0.0
+Eugene,OR,97401,1978,Heat pump,2 Attached garage spaces,6969.0,442,2.5 ,485000,single family,0.0
+Eugene,OR,97405,1990,Heat pump,2 Garage spaces,6534.0,319,2.5 ,525000,single family,0.0
+Eugene,OR,97402,2020,Heat pump,2 Attached garage spaces,5227.0,338,2.5 ,500000,single family,0.0
+Eugene,OR,97402,2019,Heat pump,1 Attached garage space,2613.0,363,2.5 ,415500,single family,0.0
+Eugene,OR,97402,1977,Heat pump,2 Attached garage spaces,,372,2.5 ,339000,single family,0.0
+Eugene,OR,97402,2003,Central air,2 Attached garage spaces,6969.0,331,2.5 ,449000,single family,0.0
+Eugene,OR,97401,2023,Central air,2 Attached garage spaces,4356.0,406,2.5 ,799900,single family,0.0
+Eugene,OR,97401,2023,No data,2 Attached garage spaces,4791.0,392,2.5 ,639900,single family,0.0
+Eugene,OR,97401,1952,Central air,3 Attached garage spaces,8712.0,503,2.5 ,450000,single family,0.0
+Eugene,OR,97402,1993,,Carport,,280,2.5 ,665000,single family,0.0
+Eugene,OR,97408,1966,Central air,2 Attached garage spaces,7405.0,268,2.5 ,475000,single family,0.0
+Eugene,OR,97401,1963,,Open parking,,288,3 ,295000,condominium,3204.0
+Eugene,OR,97402,1949,Heat pump,1 Garage space,,338,2.5 ,555000,single family,0.0
+Eugene,OR,97404,1965,,2 Attached garage spaces,7840.0,228,3 ,425000,single family,0.0
+Eugene,OR,97402,1972,Heat pump,4 Attached garage spaces,,276,2.5 ,980000,single family,0.0
+Eugene,OR,97401,1975,Heat pump,2 Attached garage spaces,6098.0,305,2.5 ,500000,single family,0.0
+Eugene,OR,97405,1978,Central air,3 Garage spaces,,409,2.5 ,955000,single family,0.0
+Eugene,OR,97405,1971,Heat pump,2 Attached garage spaces,8276.0,255,3 ,495000,single family,0.0
+Eugene,OR,97405,1999,Heat pump,2 Attached garage spaces,8712.0,238,2.5 ,650000,single family,0.0
+Eugene,OR,97405,1974,Heat pump,Carport,,314,2.5 ,295000,condominium,0.0
+Eugene,OR,97405,1974,Heat pump,3 Garage spaces,,235,2.5 ,895000,single family,0.0
+Eugene,OR,97403,2019,Heat pump,3 Attached garage spaces,5227.0,469,2.5 ,925000,single family,0.0
+Eugene,OR,97401,1996,Central air,2 Attached garage spaces,6969.0,322,2.5 ,945000,single family,0.0
+Eugene,OR,97401,2006,Central air,1 Garage space,,477,2.75 ,629000,condominium,0.0
+Eugene,OR,97404,2004,Central air,2 Attached garage spaces,10018.0,260,2.5 ,679900,single family,0.0
+Eugene,OR,97401,1966,Heat pump,2 Attached garage spaces,9583.0,401,3 ,575000,single family,0.0
+Eugene,OR,97401,1947,,1 Attached garage space,7840.0,326,2.5 ,430000,single family,0.0
+Eugene,OR,97405,1962,Heat pump,2 Attached garage spaces,7405.0,339,2.5 ,695000,single family,0.0
+Eugene,OR,97403,2022,Central air,2 Attached garage spaces,10454.0,419,2.5 ,1125000,single family,0.0
+Eugene,OR,97405,2001,Central air,3 Attached garage spaces,,252,2.5 ,1299999,single family,1200.0
+Eugene,OR,97405,1975,Wall unit(s),2 Attached garage spaces,8712.0,301,3 ,615000,single family,0.0
+Eugene,OR,97402,1945,No data,Open parking,,343,2.5 ,300000,single family,0.0
+Eugene,OR,97403,2023,Central Air,2 Attached Garage spaces,7405.0,319,5054.858934169279,771062,single family,0.0
+Eugene,OR,97401,1989,Central air,2 Attached garage spaces,8276.0,332,2.5 ,520000,single family,0.0
+Eugene,OR,97402,1976,No data,1 Garage space,8276.0,303,3 ,465000,single family,0.0
+Eugene,OR,97405,2019,Central air,2 Attached garage spaces,,297,2.5 ,730000,single family,600.0
+Eugene,OR,97405,2023,Wall unit(s),1 Attached garage space,2613.0,406,2.5 ,799000,townhouse,4344.0
+Eugene,OR,97403,2023,Central Air,2 Attached Garage spaces,,310,5120.967741935484,749916,single family,0.0
+Eugene,OR,97403,2021,No data,2 Attached garage spaces,6534.0,309,2 ,649500,single family,0.0
+Salem,OR,97306,2010,No data,2 Attached garage spaces,6669.0,247,2.5 ,360000,single family,0.0
+Salem,OR,97301,1947,No data,No garage,6969.0,258,2.5 ,416000,single family,0.0
+Salem,OR,97302,1959,No data,2 Attached garage spaces,9760.0,216,2.5 ,350000,single family,0.0
+Salem,OR,97304,1961,No data,2 Carport spaces,7236.0,162,2.25 ,399900,single family,0.0
+Salem,OR,97305,2004,No data,2 Attached garage spaces,4791.0,320,2.5 ,425000,single family,1920.0
+Salem,OR,97306,2016,Central air,2 Attached garage spaces,7841.0,291,2.5 ,620000,single family,0.0
+Salem,OR,97302,1954,No data,2 Attached garage spaces,,206,2.25 ,499900,single family,0.0
+Salem,OR,97306,2007,Central air,3 Attached garage spaces,9583.0,222,2.5 ,720000,single family,0.0
+Salem,OR,97301,1925,No data,No garage,2765.0,282,2.5 ,316000,single family,0.0
+Salem,OR,97301,1929,Central air,No garage,6534.0,159,2.25 ,295000,single family,0.0
+Salem,OR,97304,2005,Central air,2 Attached garage spaces,6098.0,236,2.5 ,659900,single family,0.0
+Salem,OR,97302,1952,No data,1 Carport space,6316.0,414,3.0 ,295000,single family,0.0
+Salem,OR,97302,1910,No data,1 Garage space,4500.0,163,1 ,490000,single family,0.0
+Salem,OR,97304,1936,No data,1 Carport space,5091.0,323,2.5 ,230000,single family,0.0
+Salem,OR,97304,1999,Central air,2 Attached garage spaces,5227.0,267,2.5 ,425000,single family,0.0
+Salem,OR,97302,1935,No data,2 Garage spaces,5000.0,309,2 ,424424,single family,0.0
+Salem,OR,97304,1999,Central air,3 Attached garage spaces,7405.0,265,2.5 ,584900,single family,0.0
+Salem,OR,97306,1947,No data,4 Garage spaces,,427,2.5 ,569000,single family,0.0
+Salem,OR,97301,1904,No data,No garage,8712.0,231,2.5 ,430000,single family,0.0
+Salem,OR,97306,2011,Central air,2 Attached garage spaces,6970.0,303,2 ,579900,single family,600.0
+Salem,OR,97302,1920,No data,1 Attached garage space,3049.0,245,2.5 ,399000,single family,0.0
+Salem,OR,97305,1996,Central air,2 Attached garage spaces,6000.0,312,2.5 ,425000,single family,0.0
+Salem,OR,97301,1928,No data,1 Garage space,7800.0,179,2.5 ,285000,single family,0.0
+Salem,OR,97306,2021,Central air,1 Attached garage space,2840.0,254,2.25 ,389000,single family,2040.0
+Salem,OR,97301,1921,No data,1 Garage space,6098.0,462,2.5 ,400000,single family,0.0
+Salem,OR,97302,1975,Central air,2 Attached garage spaces,,278,2.5 ,525000,single family,0.0
+Salem,OR,97302,2001,Central air,3 Attached garage spaces,,361,2.25 ,1800000,single family,0.0
+Salem,OR,97301,1910,Central air,1 Attached garage space,4356.0,267,2.5 ,389900,single family,0.0
+Salem,OR,97302,1946,No data,2 Attached garage spaces,,274,2.5 ,439000,single family,0.0
+Salem,OR,97301,1997,No data,2 Attached garage spaces,5227.0,287,2.5 ,385000,single family,0.0
+Salem,OR,97301,1979,Central air,2 Attached garage spaces,,219,2.5 ,575000,single family,0.0
+Salem,OR,97304,1947,No data,2 Attached garage spaces,,202,2.5 ,469800,single family,0.0
+Salem,OR,97305,2021,Central air,2 Attached garage spaces,4860.0,237,2 ,460000,single family,0.0
+Salem,OR,97302,1964,Central air,2 Attached garage spaces,,240,2.5 ,989000,single family,0.0
+Salem,OR,97306,1977,Central air,2 Attached garage spaces,,331,2.5 ,799000,single family,0.0
+Salem,OR,97304,1981,Central air,2 Attached garage spaces,8423.0,266,2.5 ,460000,single family,0.0
+Salem,OR,97304,1991,Central air,3 Attached garage spaces,,177,2.00 ,1300000,single family,0.0
+Salem,OR,97301,1910,No data,No garage,6098.0,288,2.5 ,749000,single family,0.0
+Salem,OR,97304,2005,Central air,2 Attached garage spaces,6283.0,236,2.5 ,557500,single family,0.0
+Salem,OR,97306,2023,Central air,2 Attached garage spaces,6534.0,341,2.5 ,719900,single family,0.0
+Salem,OR,97304,2005,Central air,3 Attached garage spaces,,197,2 ,639900,single family,180.0
+Salem,OR,97302,1980,Central air,2 Attached garage spaces,,268,2.5 ,535000,single family,0.0
+Salem,OR,97304,1976,Central air,2 Attached garage spaces,4356.0,270,2.5 ,407000,single family,0.0
+Salem,OR,97306,1997,Central air,2 Attached garage spaces,6970.0,252,2.5 ,485000,single family,0.0
+Salem,OR,97304,1999,Central air,2 Attached garage spaces,8540.0,249,2.5 ,559900,single family,0.0
+Salem,OR,97301,1941,No data,1 Carport space,6517.0,281,2.5 ,384900,single family,0.0
+Salem,OR,97306,1992,No data,2 Attached garage spaces,8276.0,262,2.5 ,468000,single family,0.0
+Salem,OR,97302,1973,Central air,2 Attached garage spaces,8276.0,246,2.5 ,514900,single family,0.0
+Salem,OR,97306,2022,Central air,2 Attached garage spaces,7840.0,200,2.25 ,699900,single family,0.0
+Salem,OR,97305,2020,Central air,2 Attached garage spaces,4680.0,251,2.25 ,452900,single family,180.0
+Salem,OR,97306,1997,Central air,2 Attached garage spaces,5200.0,257,2.5 ,619000,single family,588.0
+Salem,OR,97302,1990,Central air,2 Attached garage spaces,9776.0,243,2.25 ,564900,single family,0.0
+Salem,OR,97306,2023,Central air,3 Attached garage spaces,6699.0,341,2.5 ,719900,single family,0.0
+Salem,OR,97306,2023,Central air,2 Attached garage spaces,5662.0,391,2.5 ,627000,single family,0.0
+Salem,OR,97302,2023,No data,2 Attached garage spaces,5200.0,395,2.5 ,729000,single family,900.0
+Salem,OR,97306,2001,Central air,3 Attached garage spaces,6098.0,228,2.5 ,579000,single family,588.0
+Salem,OR,97306,1961,Central air,2 Attached garage spaces,,390,2.5 ,499999,single family,0.0
+Salem,OR,97306,2019,No data,2 Attached garage spaces,2178.0,261,2.5 ,399900,single family,1656.0
+Salem,OR,97304,1971,Central air,2 Attached garage spaces,5000.0,340,2.25 ,435000,single family,0.0
+Salem,OR,97306,2023,Central air,2 Attached garage spaces,5662.0,391,2.5 ,639900,single family,0.0
+Salem,OR,97306,2022,Central air,2 Attached garage spaces,9147.0,254,2.5 ,669900,single family,0.0
+Salem,OR,97306,2018,Central air,2 Attached garage spaces,5319.0,278,2.5 ,589000,single family,0.0
+Salem,OR,97306,2009,Central air,2 Attached garage spaces,4460.0,230,2.5 ,584900,single family,0.0
+Salem,OR,97301,2022,Central air,2 Attached garage spaces,6285.0,288,2.5 ,479900,single family,0.0
+Salem,OR,97301,2011,Central air,2 Garage spaces,,524,2.5 ,1450000,condominium,0.0
+Salem,OR,97304,1979,No data,3 Attached garage spaces,6178.0,209,2.5 ,480000,single family,0.0
+Salem,OR,97306,2023,No data,2 Attached garage spaces,10698.0,329,2.5 ,499900,single family,0.0
+Salem,OR,97305,2019,No data,2 Attached garage spaces,5040.0,223,2.5 ,484000,single family,180.0
+Salem,OR,97301,2023,Central Air,2 Attached Garage spaces,3696.0,236,2.50,439995,single family,420.0
+Salem,OR,97306,2023,No data,2 Attached garage spaces,6209.0,279,2.5 ,529900,single family,0.0
+Salem,OR,97302,1957,No data,2 Attached garage spaces,8232.0,203,2.25 ,599900,single family,0.0
+Salem,OR,97306,2023,No data,2 Attached garage spaces,5860.0,206,2.5 ,599900,single family,0.0
+Salem,OR,97306,2023,No data,2 Attached garage spaces,5546.0,279,2.5 ,539900,single family,0.0
+Salem,OR,97302,2023,No data,1 Attached garage space,1200.0,243,2.5 ,362900,single family,1800.0
+Corvallis,OR,97333,1917,No data,1 Carport space,,340,3 ,750000,single family,0.0
+Corvallis,OR,97330,1940,No data,No garage,2613.0,516,3 ,349000,single family,0.0
+Corvallis,OR,97330,1974,No data,2 Attached garage spaces,,316,2.25 ,950000,single family,0.0
+Corvallis,OR,97333,1981,No data,1 Carport space,,335,2.5 ,380000,condominium,0.0
+Corvallis,OR,97330,1924,Central air,2 Garage spaces,,377,2.5 ,649000,single family,0.0
+Corvallis,OR,97333,1953,No data,1 Attached garage space,,595,2.5 ,709999,single family,0.0
+Corvallis,OR,97330,2020,No data,Attached garage,2178.0,280,2.5 ,350000,single family,0.0
+Corvallis,OR,97330,2002,Central air,2 Attached garage spaces,2178.0,270,2.5 ,430000,single family,2280.0
+Corvallis,OR,97330,2016,Central air,3 Attached garage spaces,,350,2.5 ,1825000,single family,0.0
+Corvallis,OR,97330,1990,Central air,2 Attached garage spaces,,319,2.70 ,958500,single family,0.0
+Corvallis,OR,97330,2006,Central air,2 Attached garage spaces,8712.0,259,2.25 ,715700,single family,0.0
+Corvallis,OR,97333,1935,No data,2 Garage spaces,,553,2.5 ,1350000,single family,0.0
+Corvallis,OR,97330,1967,Central air,2 Attached garage spaces,,470,2.5 ,1200000,single family,0.0
+Corvallis,OR,97333,2005,Central air,2 Attached garage spaces,4356.0,243,2.5 ,598000,single family,2004.0

@@ -258,12 +258,12 @@ Eugene,OR,97403,2082-Golfview-Ct,"Residential, single family residence",Built in
 Eugene,OR,97405,85281-Silver-Crest-Dr,"Residential, single family residence",Built in 2001,"Forced air, fireplace(s)",Central air,3 Attached garage spaces,$100 monthly HOA fee,1.41 Acres,$252 price/sqft,2.5% buyers agency fee,1299999
 Eugene,OR,97405,2140-W-27th-Ave,"Residential, single family residence",Built in 1975,"Ceiling, wall furnace",Wall unit(s),2 Attached garage spaces,0,"8,712 sqft",$301 price/sqft,3% buyers agency fee,615000
 Eugene,OR,97402,2035-E-Irwin-Way,"Residential, single family residence",Built in 1945,None,No data,Open parking,0,0.49 Acres,$343 price/sqft,2.5% buyers agency fee,300000
-Eugene,OR,97403,2788-Cascara-Dr,"Residential, Single Family Residence",2023,"ENERGY STAR Qualified Equipment, Forced Air, Forced Air 95 Plus",Central Air,2 Attached Garage spaces,0,"7,405 sqft",$319,$16125,771062
+Eugene,OR,97403,2788-Cascara-Dr,"Residential, Single Family Residence",2023,"ENERGY STAR Qualified Equipment, Forced Air, Forced Air 95 Plus",Central Air,2 Attached Garage spaces,0,"7,405 sqft",$319 ,"$16,125 ",771062
 Eugene,OR,97401,3244-Queens-East-St,"Residential, single family residence",Built in 1989,"Heat pump, fireplace(s)",Central air,2 Attached garage spaces,0,"8,276 sqft",$332 price/sqft,2.5% buyers agency fee,520000
 Eugene,OR,97402,4840-Jessen-Dr,"Residential, single family residence",Built in 1976,Radiant,No data,1 Garage space,0,"8,276 sqft",$303 price/sqft,3% buyers agency fee,465000
 Eugene,OR,97405,3226-Bentley-Ave,"Residential, single family residence",Built in 2019,"Forced air, heat pump, mini split",Central air,2 Attached garage spaces,$50 monthly HOA fee,0.32 Acres,$297 price/sqft,2.5% buyers agency fee,730000
 Eugene,OR,97405,1980-Amazon-Pkwy,"Residential, townhouse",Built in 2023,"Ductless, mini split",Wall unit(s),1 Attached garage space,$362 monthly HOA fee,"2,613 sqft",$406 price/sqft,2.5% buyers agency fee,799000
-Eugene,OR,97403,3740-Rockcress-Rd,"Residential, Single Family Residence",2023,"ENERGY STAR Qualified Equipment, Forced Air, Forced Air 95 Plus",Central Air,2 Attached Garage spaces,0,No Data,$310,$15875,749916
+Eugene,OR,97403,3740-Rockcress-Rd,"Residential, Single Family Residence",2023,"ENERGY STAR Qualified Equipment, Forced Air, Forced Air 95 Plus",Central Air,2 Attached Garage spaces,0,No Data,$310 ,"$15,875 ",749916
 Eugene,OR,97403,3639-Rockcress-Rd,"Residential, single family residence",Built in 2021,"Forced air, fireplace(s)",No data,2 Attached garage spaces,0,"6,534 sqft",$309 price/sqft,2% buyers agency fee,649500
 Eugene,OR,97408,2983-Grand-Cayman-Dr,"Residential, single family residence",Built in 1998,"Forced air, other, fireplace(s)",Central air,2 Attached garage spaces,$100 annually HOA fee,"9,583 sqft",$304 price/sqft,2.5% buyers agency fee,919900
 Eugene,OR,97402,1800-Lakewood-Ct-SPACE-123,"Residential, manufactured home",Built in 1973,Heat pump,Heat pump,Carport,0,"$1,129 monthly HOA fee",$73 price/sqft,2.5% buyers agency fee,95000
@@ -332,7 +332,7 @@ Salem,OR,97306,5623-Hawk-Hill-St-SE,Single family residence,Built in 2010,"Natur
 Salem,OR,97301,2932-Fredrick-St-NE,Single family residence,Built in 1947,"Electric, heat pump, zoned",No data,No garage,0,"6,969 sqft",$258 price/sqft,2.5% buyers agency fee,416000
 Salem,OR,97302,3850-Shaniko-Way-SE,Single family residence,Built in 1959,Forced air,No data,2 Attached garage spaces,0,"9,760 sqft",$216 price/sqft,2.5% buyers agency fee,350000
 Salem,OR,97304,501-Kingwood-Dr-NW,Single family residence,Built in 1961,Electric,No data,2 Carport spaces,0,"7,236 sqft",$162 price/sqft,2.25% buyers agency fee,399900
-Salem,OR,97305,3056-Hollyridge-Loop-NE,Single family residence,Built in 2004,"Electric, heat pump",No data,2 Attached garage spaces,0,$160 monthly HOA fee,"4,791 sqft",$320 price/sqft,425000
+Salem,OR,97305,3056-Hollyridge-Loop-NE,Single family residence,Built in 2004,"Electric, heat pump",No data,2 Attached garage spaces,$160 monthly HOA fee,"4,791 sqft",$320 price/sqft,2.5% buyers agency fee,425000
 Salem,OR,97306,2556-Dragonfly-Ct-SE,Single family residence,Built in 2016,"Natural gas, forced air",Central air,2 Attached garage spaces,0,"7,841 sqft",$291 price/sqft,2.5% buyers agency fee,620000
 Salem,OR,97302,691-Salem-Heights-Ave-S,Single family residence,Built in 1954,"Natural gas, forced air",No data,2 Attached garage spaces,0,0.38 Acres,$206 price/sqft,2.25% buyers agency fee,499900
 Salem,OR,97306,5888-Mooseberry-Ct-SE,Single family residence,Built in 2007,"Natural gas, forced air",Central air,3 Attached garage spaces,0,"9,583 sqft",$222 price/sqft,2.5% buyers agency fee,720000
@@ -385,7 +385,7 @@ Salem,OR,97306,6695-Devon-Ave-SE,"Residential, single family residence",Built in
 Salem,OR,97302,1513-Leslie-Wind-Ln-SE,Single family residence,Built in 2023,"Electric, heat pump, zoned",No data,2 Attached garage spaces,$75 monthly HOA fee,"5,200 sqft",$395 price/sqft,2.5% buyers agency fee,729000
 Salem,OR,97306,5933-Ballymeade-St-SE,Single family residence,Built in 2001,"Natural gas, forced air",Central air,3 Attached garage spaces,$49 monthly HOA fee,"6,098 sqft",$228 price/sqft,2.5% buyers agency fee,579000
 Salem,OR,97306,5725-Skyline-Rd-S,Single family residence,Built in 1961,"Electric, heat pump",Central air,2 Attached garage spaces,0,0.90 Acres,$390 price/sqft,2.5% buyers agency fee,499999
-Salem,OR,97306,1950-Kari-Dawn-Ave-SE,Single family residence,Built in 2019,No data,No data,2 Attached garage spaces,0,$138 monthly HOA fee,"2,178 sqft",$261 price/sqft,399900
+Salem,OR,97306,1950-Kari-Dawn-Ave-SE,Single family residence,Built in 2019,No data,No data,2 Attached garage spaces,$138 monthly HOA fee,"2,178 sqft",$261 price/sqft,2.5% buyers agency fee,399900
 Salem,OR,97304,1642-Sunrise-Cres-NW,Single family residence,Built in 1971,"Natural gas, heat pump, forced air",Central air,2 Attached garage spaces,"$1,215 annually HOA fee","5,000 sqft",$340 price/sqft,2.25% buyers agency fee,435000
 Salem,OR,97306,6683-Devon-Ave-SE,"Residential, single family residence",Built in 2023,Forced air,Central air,2 Attached garage spaces,0,"5,662 sqft",$391 price/sqft,2.5% buyers agency fee,639900
 Salem,OR,97306,5862-Verona-St-S,"Residential, single family residence",Built in 2022,Forced air 95 plus,Central air,2 Attached garage spaces,0,"9,147 sqft",$254 price/sqft,2.5% buyers agency fee,669900
@@ -396,7 +396,7 @@ Salem,OR,97301,156-Front-St-NE-UNIT-640,"Residential, condominium",Built in 2011
 Salem,OR,97304,1994-Banyan-Ct-NW,Single family residence,Built in 1979,"Electric, heat pump, forced air",No data,3 Attached garage spaces,"$1,215 annually HOA fee","6,178 sqft",$209 price/sqft,2.5% buyers agency fee,480000
 Salem,OR,97306,514-Evelyn-Valley-St,Single family residence,Built in 2023,"Natural gas, forced air",No data,2 Attached garage spaces,0,"10,698 sqft",$329 price/sqft,2.5% buyers agency fee,499900
 Salem,OR,97305,5181-Gemini-Ave-NE,Single family residence,Built in 2019,Forced air,No data,2 Attached garage spaces,$15 monthly HOA fee,"5,040 sqft",$223 price/sqft,2.5% buyers agency fee,484000
-Salem,OR,97301,424-Lost-Lake-St,Single Family Residence,2023,Forced Air,Central Air,2 Attached Garage spaces,$35 monthly,"3,696 sqft",$236,2.5%,439995
+Salem,OR,97301,424-Lost-Lake-St,Single Family Residence,2023,Forced Air,Central Air,2 Attached Garage spaces,$35 monthly,"3,696 sqft",$236 ,2.50%,439995
 Salem,OR,97306,530-Evelyn-Valley-St,Single family residence,Built in 2023,"Natural gas, forced air",No data,2 Attached garage spaces,0,"6,209 sqft",$279 price/sqft,2.5% buyers agency fee,529900
 Salem,OR,97302,1625-Corina-Dr-SE,Single family residence,Built in 1957,Forced air,No data,2 Attached garage spaces,0,"8,232 sqft",$203 price/sqft,2.25% buyers agency fee,599900
 Salem,OR,97306,5690-Jeremy-Valley-Dr,Single family residence,Built in 2023,"Natural gas, forced air",No data,2 Attached garage spaces,0,"5,860 sqft",$206 price/sqft,2.5% buyers agency fee,599900
@@ -406,49 +406,49 @@ Salem,OR,97306,5623-Hawk-Hill-St-SE,Single family residence,Built in 2010,"Natur
 Salem,OR,97301,2932-Fredrick-St-NE,Single family residence,Built in 1947,"Electric, heat pump, zoned",No data,No garage,0,"6,969 sqft",$258 price/sqft,2.5% buyers agency fee,416000
 Salem,OR,97302,3850-Shaniko-Way-SE,Single family residence,Built in 1959,Forced air,No data,2 Attached garage spaces,0,"9,760 sqft",$216 price/sqft,2.5% buyers agency fee,350000
 Salem,OR,97304,501-Kingwood-Dr-NW,Single family residence,Built in 1961,Electric,No data,2 Carport spaces,0,"7,236 sqft",$162 price/sqft,2.25% buyers agency fee,399900
-Salem,OR,97305,3056-Hollyridge-Loop-NE,Single family residence,Built in 2004,"Electric, heat pump",No data,2 Attached garage spaces,0,$160 monthly HOA fee,"4,791 sqft",$320 price/sqft,425000
+Salem,OR,97305,3056-Hollyridge-Loop-NE,Single family residence,Built in 2004,"Electric, heat pump",No data,2 Attached garage spaces,$160 monthly HOA fee,"4,791 sqft",$320 price/sqft,2.5% buyers agency fee,425000
 Salem,OR,97306,2556-Dragonfly-Ct-SE,Single family residence,Built in 2016,"Natural gas, forced air",Central air,2 Attached garage spaces,0,"7,841 sqft",$291 price/sqft,2.5% buyers agency fee,620000
 Salem,OR,97302,691-Salem-Heights-Ave-S,Single family residence,Built in 1954,"Natural gas, forced air",No data,2 Attached garage spaces,0,0.38 Acres,$206 price/sqft,2.25% buyers agency fee,499900
 Salem,OR,97306,5623-Hawk-Hill-St-SE,Single family residence,Built in 2010,"Natural gas, forced air",No data,2 Attached garage spaces,0,"6,669 sqft",$247 price/sqft,2.5% buyers agency fee,360000
 Salem,OR,97301,2932-Fredrick-St-NE,Single family residence,Built in 1947,"Electric, heat pump, zoned",No data,No garage,0,"6,969 sqft",$258 price/sqft,2.5% buyers agency fee,416000
 Salem,OR,97302,3850-Shaniko-Way-SE,Single family residence,Built in 1959,Forced air,No data,2 Attached garage spaces,0,"9,760 sqft",$216 price/sqft,2.5% buyers agency fee,350000
 Salem,OR,97304,501-Kingwood-Dr-NW,Single family residence,Built in 1961,Electric,No data,2 Carport spaces,0,"7,236 sqft",$162 price/sqft,2.25% buyers agency fee,399900
-Salem,OR,97305,3056-Hollyridge-Loop-NE,Single family residence,Built in 2004,"Electric, heat pump",No data,2 Attached garage spaces,0,$160 monthly HOA fee,"4,791 sqft",$320 price/sqft,425000
+Salem,OR,97305,3056-Hollyridge-Loop-NE,Single family residence,Built in 2004,"Electric, heat pump",No data,2 Attached garage spaces,$160 monthly HOA fee,"4,791 sqft",$320 price/sqft,2.5% buyers agency fee,425000
 Salem,OR,97306,2556-Dragonfly-Ct-SE,Single family residence,Built in 2016,"Natural gas, forced air",Central air,2 Attached garage spaces,0,"7,841 sqft",$291 price/sqft,2.5% buyers agency fee,620000
 Salem,OR,97302,691-Salem-Heights-Ave-S,Single family residence,Built in 1954,"Natural gas, forced air",No data,2 Attached garage spaces,0,0.38 Acres,$206 price/sqft,2.25% buyers agency fee,499900
 Salem,OR,97306,5623-Hawk-Hill-St-SE,Single family residence,Built in 2010,"Natural gas, forced air",No data,2 Attached garage spaces,0,"6,669 sqft",$247 price/sqft,2.5% buyers agency fee,360000
 Salem,OR,97301,2932-Fredrick-St-NE,Single family residence,Built in 1947,"Electric, heat pump, zoned",No data,No garage,0,"6,969 sqft",$258 price/sqft,2.5% buyers agency fee,416000
 Salem,OR,97302,3850-Shaniko-Way-SE,Single family residence,Built in 1959,Forced air,No data,2 Attached garage spaces,0,"9,760 sqft",$216 price/sqft,2.5% buyers agency fee,350000
 Salem,OR,97304,501-Kingwood-Dr-NW,Single family residence,Built in 1961,Electric,No data,2 Carport spaces,0,"7,236 sqft",$162 price/sqft,2.25% buyers agency fee,399900
-Salem,OR,97305,3056-Hollyridge-Loop-NE,Single family residence,Built in 2004,"Electric, heat pump",No data,2 Attached garage spaces,0,$160 monthly HOA fee,"4,791 sqft",$320 price/sqft,425000
+Salem,OR,97305,3056-Hollyridge-Loop-NE,Single family residence,Built in 2004,"Electric, heat pump",No data,2 Attached garage spaces,$160 monthly HOA fee,"4,791 sqft",$320 price/sqft,2.5% buyers agency fee,425000
 Salem,OR,97306,2556-Dragonfly-Ct-SE,Single family residence,Built in 2016,"Natural gas, forced air",Central air,2 Attached garage spaces,0,"7,841 sqft",$291 price/sqft,2.5% buyers agency fee,620000
 Salem,OR,97302,691-Salem-Heights-Ave-S,Single family residence,Built in 1954,"Natural gas, forced air",No data,2 Attached garage spaces,0,0.38 Acres,$206 price/sqft,2.25% buyers agency fee,499900
 Salem,OR,97306,5623-Hawk-Hill-St-SE,Single family residence,Built in 2010,"Natural gas, forced air",No data,2 Attached garage spaces,0,"6,669 sqft",$247 price/sqft,2.5% buyers agency fee,360000
 Salem,OR,97301,2932-Fredrick-St-NE,Single family residence,Built in 1947,"Electric, heat pump, zoned",No data,No garage,0,"6,969 sqft",$258 price/sqft,2.5% buyers agency fee,416000
 Salem,OR,97302,3850-Shaniko-Way-SE,Single family residence,Built in 1959,Forced air,No data,2 Attached garage spaces,0,"9,760 sqft",$216 price/sqft,2.5% buyers agency fee,350000
 Salem,OR,97304,501-Kingwood-Dr-NW,Single family residence,Built in 1961,Electric,No data,2 Carport spaces,0,"7,236 sqft",$162 price/sqft,2.25% buyers agency fee,399900
-Salem,OR,97305,3056-Hollyridge-Loop-NE,Single family residence,Built in 2004,"Electric, heat pump",No data,2 Attached garage spaces,0,$160 monthly HOA fee,"4,791 sqft",$320 price/sqft,425000
+Salem,OR,97305,3056-Hollyridge-Loop-NE,Single family residence,Built in 2004,"Electric, heat pump",No data,2 Attached garage spaces,$160 monthly HOA fee,"4,791 sqft",$320 price/sqft,2.5% buyers agency fee,425000
 Salem,OR,97306,2556-Dragonfly-Ct-SE,Single family residence,Built in 2016,"Natural gas, forced air",Central air,2 Attached garage spaces,0,"7,841 sqft",$291 price/sqft,2.5% buyers agency fee,620000
 Salem,OR,97302,691-Salem-Heights-Ave-S,Single family residence,Built in 1954,"Natural gas, forced air",No data,2 Attached garage spaces,0,0.38 Acres,$206 price/sqft,2.25% buyers agency fee,499900
 Salem,OR,97306,5623-Hawk-Hill-St-SE,Single family residence,Built in 2010,"Natural gas, forced air",No data,2 Attached garage spaces,0,"6,669 sqft",$247 price/sqft,2.5% buyers agency fee,360000
 Salem,OR,97301,2932-Fredrick-St-NE,Single family residence,Built in 1947,"Electric, heat pump, zoned",No data,No garage,0,"6,969 sqft",$258 price/sqft,2.5% buyers agency fee,416000
 Salem,OR,97302,3850-Shaniko-Way-SE,Single family residence,Built in 1959,Forced air,No data,2 Attached garage spaces,0,"9,760 sqft",$216 price/sqft,2.5% buyers agency fee,350000
 Salem,OR,97304,501-Kingwood-Dr-NW,Single family residence,Built in 1961,Electric,No data,2 Carport spaces,0,"7,236 sqft",$162 price/sqft,2.25% buyers agency fee,399900
-Salem,OR,97305,3056-Hollyridge-Loop-NE,Single family residence,Built in 2004,"Electric, heat pump",No data,2 Attached garage spaces,0,$160 monthly HOA fee,"4,791 sqft",$320 price/sqft,425000
+Salem,OR,97305,3056-Hollyridge-Loop-NE,Single family residence,Built in 2004,"Electric, heat pump",No data,2 Attached garage spaces,$160 monthly HOA fee,"4,791 sqft",$320 price/sqft,2.5% buyers agency fee,425000
 Salem,OR,97306,2556-Dragonfly-Ct-SE,Single family residence,Built in 2016,"Natural gas, forced air",Central air,2 Attached garage spaces,0,"7,841 sqft",$291 price/sqft,2.5% buyers agency fee,620000
 Salem,OR,97302,691-Salem-Heights-Ave-S,Single family residence,Built in 1954,"Natural gas, forced air",No data,2 Attached garage spaces,0,0.38 Acres,$206 price/sqft,2.25% buyers agency fee,499900
 Salem,OR,97306,5623-Hawk-Hill-St-SE,Single family residence,Built in 2010,"Natural gas, forced air",No data,2 Attached garage spaces,0,"6,669 sqft",$247 price/sqft,2.5% buyers agency fee,360000
 Salem,OR,97301,2932-Fredrick-St-NE,Single family residence,Built in 1947,"Electric, heat pump, zoned",No data,No garage,0,"6,969 sqft",$258 price/sqft,2.5% buyers agency fee,416000
 Salem,OR,97302,3850-Shaniko-Way-SE,Single family residence,Built in 1959,Forced air,No data,2 Attached garage spaces,0,"9,760 sqft",$216 price/sqft,2.5% buyers agency fee,350000
 Salem,OR,97304,501-Kingwood-Dr-NW,Single family residence,Built in 1961,Electric,No data,2 Carport spaces,0,"7,236 sqft",$162 price/sqft,2.25% buyers agency fee,399900
-Salem,OR,97305,3056-Hollyridge-Loop-NE,Single family residence,Built in 2004,"Electric, heat pump",No data,2 Attached garage spaces,0,$160 monthly HOA fee,"4,791 sqft",$320 price/sqft,425000
+Salem,OR,97305,3056-Hollyridge-Loop-NE,Single family residence,Built in 2004,"Electric, heat pump",No data,2 Attached garage spaces,$160 monthly HOA fee,"4,791 sqft",$320 price/sqft,2.5% buyers agency fee,425000
 Salem,OR,97306,2556-Dragonfly-Ct-SE,Single family residence,Built in 2016,"Natural gas, forced air",Central air,2 Attached garage spaces,0,"7,841 sqft",$291 price/sqft,2.5% buyers agency fee,620000
 Salem,OR,97302,691-Salem-Heights-Ave-S,Single family residence,Built in 1954,"Natural gas, forced air",No data,2 Attached garage spaces,0,0.38 Acres,$206 price/sqft,2.25% buyers agency fee,499900
 Salem,OR,97306,5623-Hawk-Hill-St-SE,Single family residence,Built in 2010,"Natural gas, forced air",No data,2 Attached garage spaces,0,"6,669 sqft",$247 price/sqft,2.5% buyers agency fee,360000
 Salem,OR,97301,2932-Fredrick-St-NE,Single family residence,Built in 1947,"Electric, heat pump, zoned",No data,No garage,0,"6,969 sqft",$258 price/sqft,2.5% buyers agency fee,416000
 Salem,OR,97302,3850-Shaniko-Way-SE,Single family residence,Built in 1959,Forced air,No data,2 Attached garage spaces,0,"9,760 sqft",$216 price/sqft,2.5% buyers agency fee,350000
 Salem,OR,97304,501-Kingwood-Dr-NW,Single family residence,Built in 1961,Electric,No data,2 Carport spaces,0,"7,236 sqft",$162 price/sqft,2.25% buyers agency fee,399900
-Salem,OR,97305,3056-Hollyridge-Loop-NE,Single family residence,Built in 2004,"Electric, heat pump",No data,2 Attached garage spaces,0,$160 monthly HOA fee,"4,791 sqft",$320 price/sqft,425000
+Salem,OR,97305,3056-Hollyridge-Loop-NE,Single family residence,Built in 2004,"Electric, heat pump",No data,2 Attached garage spaces,$160 monthly HOA fee,"4,791 sqft",$320 price/sqft,2.5% buyers agency fee,425000
 Salem,OR,97306,2556-Dragonfly-Ct-SE,Single family residence,Built in 2016,"Natural gas, forced air",Central air,2 Attached garage spaces,0,"7,841 sqft",$291 price/sqft,2.5% buyers agency fee,620000
 Salem,OR,97302,691-Salem-Heights-Ave-S,Single family residence,Built in 1954,"Natural gas, forced air",No data,2 Attached garage spaces,0,0.38 Acres,$206 price/sqft,2.25% buyers agency fee,499900
 Corvallis,OR,97333,4010-SW-West-Hills-Rd,Single family residence,Built in 1917,"Natural gas, forced air",No data,1 Carport space,0,0.61 Acres,$340 price/sqft,3% buyers agency fee,750000
